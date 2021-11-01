@@ -9,4 +9,3 @@ with open("cacm.all", "r") as f:
 
 
 diegotom.pre_processing(text_split)
-# def pre_processing(document):
