@@ -1,0 +1,10100 @@
+.I 1
+.T
+Preliminary Report-International Algebraic Language
+.B
+CACM December, 1958
+.A
+Perlis, A. J.
+Samelson,K.
+.N
+CA581203 JB March 22, 1978  8:28 PM
+.X
+100	5	1
+123	5	1
+164	5	1
+1	5	1
+1	5	1
+1	5	1
+205	5	1
+210	5	1
+214	5	1
+1982	5	1
+398	5	1
+642	5	1
+669	5	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+165	6	1
+196	6	1
+196	6	1
+1273	6	1
+1883	6	1
+324	6	1
+43	6	1
+53	6	1
+91	6	1
+410	6	1
+3184	6	1
+.I 2
+.T
+Extraction of Roots by Repeated Subtractions for Digital Computers
+.B
+CACM December, 1958
+.A
+Sugai, I.
+.N
+CA581202 JB March 22, 1978  8:29 PM
+.X
+2	5	2
+2	5	2
+2	5	2
+.I 3
+.T
+Techniques Department on Matrix Program Schemes
+.B
+CACM December, 1958
+.A
+Friedman, M. D.
+.N
+CA581201 JB March 22, 1978  8:30 PM
+.X
+3	5	3
+3	5	3
+3	5	3
+.I 4
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM November, 1958
+.N
+CA581103 JB March 22, 1978  8:32 PM
+.X
+4	5	4
+4	5	4
+4	5	4
+.I 5
+.T
+Two Square-Root Approximations
+.B
+CACM November, 1958
+.A
+Wadey, W. G.
+.N
+CA581102 JB March 22, 1978  8:33 PM
+.X
+5	5	5
+5	5	5
+5	5	5
+.I 6
+.T
+The Use of Computers in Inspection Procedures
+.B
+CACM November, 1958
+.A
+Muller, M. E.
+.N
+CA581101 JB March 22, 1978  8:33 PM
+.X
+6	5	6
+6	5	6
+6	5	6
+477	5	6
+6	6	6
+.I 7
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM October, 1958
+.N
+CA581003 JB March 22, 1978  8:35 PM
+.X
+7	5	7
+7	5	7
+7	5	7
+.I 8
+.T
+On The Equivalence and Transformation of Program Schemes
+.B
+CACM October, 1958
+.A
+Friedman, M. D.
+.N
+CA581002 JB March 22, 1978  8:36 PM
+.X
+8	5	8
+8	5	8
+8	5	8
+.I 9
+.T
+Proposal for an UNCOL
+.B
+CACM October, 1958
+.A
+Conway, M. E.
+.N
+CA581001 JB March 22, 1978  8:37 PM
+.X
+9	5	9
+9	5	9
+9	5	9
+.I 10
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM September, 1958
+.N
+CA580903 JB March 22, 1978  8:39 PM
+.X
+10	5	10
+10	5	10
+10	5	10
+.I 11
+.T
+The Problem of Programming Communication with
+Changing Machines A Proposed Solution-Part 2
+.B
+CACM September, 1958
+.A
+Strong, J.
+Wegstein, J.
+Tritter, A.
+Olsztyn, J.
+Mock, O.
+Steel, T.
+.N
+CA580902 JB March 22, 1978  8:41 PM
+.X
+1781	5	11
+1988	5	11
+11	5	11
+11	5	11
+11	5	11
+123	6	11
+196	6	11
+919	6	11
+990	6	11
+1007	6	11
+1046	6	11
+1131	6	11
+1139	6	11
+1140	6	11
+1149	6	11
+1198	6	11
+1215	6	11
+1223	6	11
+1265	6	11
+1303	6	11
+1323	6	11
+1358	6	11
+1366	6	11
+1421	6	11
+1460	6	11
+1462	6	11
+1463	6	11
+1467	6	11
+1468	6	11
+1477	6	11
+1491	6	11
+1496	6	11
+1496	6	11
+1531	6	11
+1535	6	11
+1565	6	11
+1601	6	11
+1602	6	11
+1613	6	11
+1614	6	11
+1626	6	11
+1641	6	11
+1787	6	11
+1788	6	11
+205	6	11
+224	6	11
+249	6	11
+288	6	11
+316	6	11
+381	6	11
+381	6	11
+398	6	11
+11	6	11
+11	6	11
+14	6	11
+404	6	11
+410	6	11
+463	6	11
+464	6	11
+483	6	11
+3184	6	11
+3188	6	11
+584	6	11
+600	6	11
+680	6	11
+691	6	11
+763	6	11
+799	6	11
+.I 12
+.T
+Error Estimation in Runge-Kutta Procedures
+.B
+CACM September, 1958
+.A
+Call, D. H.
+Reeves, R. F.
+.N
+CA580901 JB March 22, 1978  8:56 PM
+.X
+12	5	12
+12	5	12
+12	5	12
+.I 13
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM August, 1958
+.N
+CA580805 JB March 22, 1978  8:57 PM
+.X
+13	5	13
+13	5	13
+13	5	13
+.I 14
+.T
+The Problem of Programming Communication with
+Changing Machines A Proposed Solution (Part 1)
+.B
+CACM August, 1958
+.A
+Strong, J.
+Wegstein, J.
+Tritter, A.
+Olsztyn, J.
+Mock, O.
+Steel, T.
+.N
+CA580804 JB March 22, 1978  9:02 PM
+.X
+1159	5	14
+1988	5	14
+381	5	14
+14	5	14
+14	5	14
+14	5	14
+1496	6	14
+381	6	14
+11	6	14
+14	6	14
+14	6	14
+14	6	14
+.I 15
+.T
+Recursive Curve Fitting Technique
+.B
+CACM August, 1958
+.A
+Giblin, J.
+.N
+CA580803 JB March 22, 1978  9:02 PM
+.X
+15	5	15
+15	5	15
+15	5	15
+75	5	15
+15	6	15
+94	6	15
+.I 16
+.T
+Secant Modification of Newton's Method
+.B
+CACM August, 1958
+.A
+Jeeves, T. A.
+.N
+CA580802 JB March 22, 1978  9:03 PM
+.X
+16	5	16
+16	5	16
+16	5	16
+39	5	16
+16	6	16
+.I 17
+.T
+On Programming of Arithmetic Operations
+.B
+CACM August, 1958
+.A
+Ershov, A. P.
+.N
+CA580801 JB March 22, 1978  9:04 PM
+.X
+1134	5	17
+17	5	17
+17	5	17
+17	5	17
+83	5	17
+17	6	17
+17	6	17
+77	6	17
+408	6	17
+.I 18
+.T
+Simple Automatic Coding Systems
+.B
+CACM July, 1958
+.A
+Adams, E. S.
+Schlesinger, S. I.
+.N
+CA580701 JB March 22, 1978  9:06 PM
+.X
+18	5	18
+18	5	18
+18	5	18
+.I 19
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM June, 1958
+.N
+CA580603 JB March 22, 1978  9:07 PM
+.X
+19	5	19
+19	5	19
+19	5	19
+.I 20
+.T
+Accelerating Convergence of Iterative Processes
+.W
+A technique is discussed which, when applied
+to an iterative procedure for the solution of
+an equation, accelerates the rate of convergence if
+the iteration converges and induces convergence if
+the iteration diverges.  An illustrative example is given.
+.B
+CACM June, 1958
+.A
+Wegstein, J. H.
+.N
+CA580602 JB March 22, 1978  9:09 PM
+.X
+20	5	20
+20	5	20
+20	5	20
+.I 21
+.T
+Algebraic Formulation of Flow Diagrams
+.B
+CACM June, 1958
+.A
+Voorhees, E. A.
+.N
+CA580601 JB March 22, 1978  9:10 PM
+.X
+21	5	21
+21	5	21
+21	5	21
+679	5	21
+21	6	21
+407	6	21
+3184	6	21
+.I 22
+.T
+Unusual Applications Department--Automatic
+Implementation of Computer Logic
+.B
+CACM May, 1958
+.A
+Morris, E. F.
+Wohr, T. E.
+.N
+CA580506 JB March 22, 1978  9:11 PM
+.X
+22	5	22
+22	5	22
+22	5	22
+.I 23
+.T
+Binary and Truth-Function Operations on
+a Decimal Computer with an Extract Command
+.B
+CACM May, 1958
+.A
+Kautz, W. H.
+.N
+CA580505 JB March 22, 1978  9:12 PM
+.X
+23	5	23
+23	5	23
+23	5	23
+.I 24
+.T
+An Improved Decimal Redundancy Check
+.B
+CACM May, 1958
+.A
+Sisson, R. L.
+.N
+CA580504 JB March 22, 1978  9:13 PM
+.X
+24	5	24
+24	5	24
+24	5	24
+.I 25
+.T
+General Purpose Programming Systems
+.B
+CACM May, 1958
+.A
+Holt, A. W.
+.N
+CA580503 JB March 22, 1978  9:14 PM
+.X
+25	5	25
+25	5	25
+25	5	25
+.I 26
+.T
+A Subroutine Method for Calculating Logarithms
+.B
+CACM May, 1958
+.A
+Bemer, R. W.
+.N
+CA580502 JB March 22, 1978  9:16 PM
+.X
+26	5	26
+26	5	26
+26	5	26
+848	5	26
+26	6	26
+35	6	26
+.I 27
+.T
+Note On Empirical Bounds For Generating Bessel Functions
+.B
+CACM May, 1958
+.A
+Randels, J. B.
+Reeves, R. F.
+.N
+CA580501 JB March 22, 1978  9:17 PM
+.X
+27	5	27
+27	5	27
+27	5	27
+.I 28
+.T
+Request for Methods or Programs
+.B
+CACM April, 1958
+.A
+Corley, H. P. T.
+.N
+CA580402 JB March 22, 1978  9:18 PM
+.X
+28	5	28
+28	5	28
+28	5	28
+.I 29
+.T
+Need for an Algorithm
+.B
+CACM April, 1958
+.A
+Selden, W.
+.N
+CA580401 JB March 22, 1978  9:19 PM
+.X
+29	5	29
+29	5	29
+29	5	29
+.I 30
+.T
+Algorithm for Analyzing Logical Statements
+to Produce a Truth Function Table
+.B
+CACM March, 1958
+.A
+Wolpe, H.
+.N
+CA580302 JB March 22, 1978  9:20 PM
+.X
+30	5	30
+30	5	30
+30	5	30
+.I 31
+.T
+IBM 704 Code-Nundrums
+.B
+CACM March, 1958
+.A
+Grumette, M.
+.N
+CA580301 JB March 22, 1978  9:21 PM
+.X
+31	5	31
+31	5	31
+31	5	31
+.I 32
+.T
+Variable-Width Tables with Binary-Search Facility
+.B
+CACM February, 1958
+.A
+Halpern, M.
+.N
+CA580201 JB March 22, 1978  9:22 PM
+.X
+32	5	32
+32	5	32
+32	5	32
+.I 33
+.T
+A Programmed Binary Counter For The IBM Type 650 Calculator
+.B
+CACM January, 1958
+.A
+Kenny, B. C.
+Hunter, J. A.
+.N
+CA580103 JB March 22, 1978  9:25 PM
+.X
+33	5	33
+33	5	33
+33	5	33
+.I 34
+.T
+Tables for Automatic Computation
+.B
+CACM January, 1958
+.A
+Wilf, H. S.
+.N
+CA580102 JB March 22, 1978  9:26 PM
+.X
+34	5	34
+34	5	34
+34	5	34
+.I 35
+.T
+A Machine Method for Square-Root Computation
+.B
+CACM January, 1958
+.A
+Bemer, R. W.
+.N
+CA580101 JB March 22, 1978  9:27 PM
+.X
+35	5	35
+35	5	35
+35	5	35
+848	5	35
+26	6	35
+35	6	35
+.I 36
+.T
+A Queue Network Simulator for the IBM 650 and Burroughs 220
+.B
+CACM December, 1959
+.A
+Conway, R. W.
+Johnson, B. M.
+Maxwell, W. L.
+.N
+CA591206 JB March 22, 1978  3:35 PM
+.X
+36	5	36
+36	5	36
+36	5	36
+.I 37
+.T
+Impact of Computer Developments
+.B
+CACM December, 1959
+.A
+Humphrey, S. M.
+.N
+CA591205 JB March 22, 1978  3:36 PM
+.X
+37	5	37
+37	5	37
+37	5	37
+.I 38
+.T
+A Proposed Interpretation in ALGOL
+.B
+CACM December, 1959
+.A
+Irons, E. T.
+Acton, F. S.
+.N
+CA591204 JB March 22, 1978  3:37 PM
+.X
+38	5	38
+38	5	38
+38	5	38
+.I 39
+.T
+The Secant Method for Simultaneous Nonlinear Equations 
+.W
+A procedure for the simultaneous solution
+of a system of not-necessarily-linear equations, 
+a generalization of the secant method for a
+single function of one variable, is given.
+.B
+CACM December, 1959
+.A
+Wolfe, P.
+.N
+CA591203 JB March 22, 1978  3:39 PM
+.X
+39	4	39
+16	5	39
+39	5	39
+39	5	39
+39	5	39
+.I 40
+.T
+Fingers or Fists? (The Choice of Decimal or Binary Representation)
+.W
+The binary number system offers many advantages
+over a decimal representation for a high-performance, 
+general-purpose computer.  The greater simplicity of
+a binary arithmetic unit and the greater compactness 
+of binary numbers both contribute directly to arithmetic
+speed.  Less obvious and perhaps more important 
+is the way binary addressing and instruction formats can
+increase the overall performance.  Binary addresses 
+are also essential to certain powerful operations which
+are not practical with decimal instruction formats. 
+ On the other hand, decimal numbers are essential for
+communicating between man and the computer.  In 
+applications requiring the processing of a large volume
+of inherently decimal input and output data, 
+the time for decimal-binary conversion needed by a purely
+binary computer may be significant.  A slower 
+decimal adder may take less time than a fast binary adder
+doing an addition and two conversions.  A careful 
+review of the significance of decimal and binary addressing
+and both binary and decimal data arithmetic, 
+supplemented by efficient conversion instructions.
+.B
+CACM December, 1959
+.A
+Buchholz, W.
+.N
+CA591202 JB March 22, 1978  3:47 PM
+.X
+40	5	40
+40	5	40
+40	5	40
+.I 41
+.T
+Some Notes on Computer Research in Eastern Europe
+.B
+CACM December, 1959
+.A
+Nadler, M.
+.N
+CA591201 JB March 22, 1978  3:48 PM
+.X
+41	4	41
+41	5	41
+41	5	41
+41	5	41
+67	5	41
+.I 42
+.T
+A New Method of Computation of Square Roots Without Using Division
+.B
+CACM November, 1959
+.A
+Sarafyan, D.
+.N
+CA591106 JB March 22, 1978  3:50 PM
+.X
+42	5	42
+42	5	42
+42	5	42
+.I 43
+.T
+A Technique for Handling Macro Instructions
+.B
+CACM November, 1959
+.A
+Greenwald, I. D.
+.N
+CA591105 JB March 22, 1978  3:51 PM
+.X
+205	5	43
+43	5	43
+43	5	43
+43	5	43
+1	6	43
+43	6	43
+.I 44
+.T
+RUNCIBLE-Algebraic Translation on a Limited Computer
+.B
+CACM November, 1959
+.A
+Knuth, D. E.
+.N
+CA591104 JB March 22, 1978  3:52 PM
+.X
+1134	4	44
+1141	4	44
+364	4	44
+405	4	44
+438	4	44
+561	4	44
+44	4	44
+222	5	44
+364	5	44
+44	5	44
+44	5	44
+44	5	44
+77	5	44
+100	6	44
+224	6	44
+44	6	44
+44	6	44
+77	6	44
+82	6	44
+98	6	44
+.I 45
+.T
+Flow Outlining-A Substitute for Flow Charting
+.B
+CACM November, 1959
+.A
+Gant, W. T.
+.N
+CA591103 JB March 22, 1978  3:53 PM
+.X
+45	5	45
+45	5	45
+45	5	45
+728	5	45
+920	6	45
+45	6	45
+.I 46
+.T
+Multiprogramming STRETCH: Feasibility Considerations
+.W
+The tendency towards increased parallelism in
+computers is noted.  Exploitation of this parallelism 
+presents a number of new problems in machine design
+and in programming systems.  Minimum requirements 
+for successful concurrent execution of several independent
+problem programs are discussed.  These requirements 
+are met in the STRETCH system by a carefully balanced
+combination of built-in and programmed logic.  
+Techniques are described which place the burden of the
+programmed logic on system programs (supervisory 
+program and compiler) rather than on problem programs.
+.B
+CACM November, 1959
+.A
+Codd, E. F.
+Lowry, E. S.
+McDonough, E.
+Scalzi, C. A.
+.N
+CA591102 JB March 22, 1978  3:57 PM
+.X
+168	5	46
+491	5	46
+46	5	46
+46	5	46
+46	5	46
+168	6	46
+185	6	46
+196	6	46
+46	6	46
+46	6	46
+.I 47
+.T
+Russian Visit to U.S. Computers
+.B
+CACM November, 1959
+.A
+Zaitzeff, E. M.
+Astrahan, M. M.
+.N
+CA591101 JB March 22, 1978  3:59 PM
+.X
+47	5	47
+47	5	47
+47	5	47
+.I 48
+.T
+Shift-Register Code for Indexing Applications
+.W
+In this communication the use of a shift-register
+code with n = 10 is described for calling 
+64 wireless telemetering stations in a fixed cyclical order.
+ A high degree of redundancy is used, permitting 
+a single-error correcting code ("minimum-distance-three"
+code) with 64 10-bit code words to be employed 
+as the station identification code.  Embedding this in
+the shift-register code with period 1023 permits 
+the code to be employed without punctuation, each of
+the telemetering station receivers simply putting 
+received ones and zeros into a shift register.  Each
+time the given code combination arises identifying 
+the particular station (barring for tuitous error combinations
+of very low probability) it has been called. 
+ The communication describes the properties and application
+of the code in some detail and the finding 
+of the particular example to be employed on URAL, the
+Soviet-built drum computer donated to the Indian 
+Statistical Institute by the United Nations
+Technical Aid Administration (UNTAA).
+.B
+CACM October, 1959
+.A
+Nadler, M.
+Sengupta, A.
+.N
+CA591011 JB March 22, 1978  4:07 PM
+.X
+48	5	48
+48	5	48
+48	5	48
+.I 49
+.T
+Scientific and Business Applications (Oracle Curve Plotter)
+.B
+CACM October, 1959
+.A
+Fike, C. T.
+.N
+CA591010 JB March 22, 1978  4:08 PM
+.X
+49	5	49
+49	5	49
+49	5	49
+.I 50
+.T
+Statistical Programs for the IBM 650-Part II
+.B
+CACM October, 1959
+.A
+Hamblen, J. W.
+.N
+CA591009 JB March 22, 1978  4:09 PM
+.X
+50	5	50
+50	5	50
+50	5	50
+.I 51
+.T
+On the Construction of Micro-Flowcharts
+.B
+CACM October, 1959
+.A
+Gorn, S.
+Ingerman, P. Z.
+Crozier, J. B.
+.N
+CA591008 JB March 22, 1978  4:10 PM
+.X
+249	5	51
+51	5	51
+51	5	51
+51	5	51
+196	6	51
+303	6	51
+51	6	51
+.I 52
+.T
+An Efficient Method for Generating Uniformly Distributed
+Points on the Surface on an n-Dimensional 
+Sphere (Corrigendum)
+.B
+CACM October, 1959
+.A
+Cook, J. M.
+.N
+CA591007 JB March 22, 1978  4:12 PM
+.X
+52	5	52
+52	5	52
+52	5	52
+.I 53
+.T
+Recommendations of the SHARE ALGOL Committee
+.B
+CACM October, 1959
+.N
+CA591006 JB March 22, 1978  4:13 PM
+.X
+214	5	53
+53	5	53
+53	5	53
+53	5	53
+1	6	53
+53	6	53
+91	6	53
+.I 54
+.T
+SALE, a Simple Algebraic Language for Engineers
+.B
+CACM October, 1959
+.A
+Brittenham, W. R.
+Clark, K.
+Kuss, G.
+Thompson, H.
+Smith, A. O.
+.N
+CA591005 JB March 22, 1978  4:14 PM
+.X
+405	4	54
+54	4	54
+54	5	54
+54	5	54
+54	5	54
+93	5	54
+.I 55
+.T
+An Algebraic Translator
+.B
+CACM October, 1959
+.A
+Kaner, H.
+.N
+CA591004 JB March 22, 1978  4:15 PM
+.X
+405	5	55
+55	5	55
+55	5	55
+55	5	55
+224	6	55
+55	6	55
+77	6	55
+93	6	55
+.I 56
+.T
+Proposed Standard Flow Chart Symbols
+.B
+CACM October, 1959
+.N
+CA591003 JB March 22, 1978  4:16 PM
+.X
+56	5	56
+56	5	56
+56	5	56
+.I 57
+.T
+J.E.I.D.A. and Its Computer Center
+.B
+CACM October, 1959
+.N
+CA591002 JB March 22, 1978  4:17 PM
+.X
+57	5	57
+57	5	57
+57	5	57
+.I 58
+.T
+LEM-1, Small Size General Purpose Digital
+Computer Using Magnetic (Ferrite) Elements
+.W
+The paper examines some of the questions of
+development and construction of a general purpose 
+digital computer using contactless magnetic (ferrite)
+and capacitive "DEZU" (long duration capacitive 
+memory) elements, developed at the Laboratory of Electrical
+Modeling VINITYI AN SSSR, under the supervision 
+of Professor L.I. Gutenmacher.
+.B
+CACM October, 1959
+.A
+Machmudov, U. A.
+.N
+CA591001 JB March 22, 1978  4:21 PM
+.X
+215	5	58
+58	5	58
+58	5	58
+58	5	58
+58	6	58
+.I 59
+.T
+Survey of Progress and Trend of Development
+and Use of Automatic Data Processing in Business
+and Management control Systems of the Federal
+Government, as of December 1957-III
+.B
+CACM September, 1959
+.N
+CA590910 JB March 22, 1978  4:41 PM
+.X
+59	5	59
+59	5	59
+59	5	59
+.I 60
+.T
+The Alpha Vector Transformation of a System of Linear Constraints
+.B
+CACM September, 1959
+.A
+Wersan, S. J.
+.N
+CA590909 JB March 22, 1978  4:42 PM
+.X
+60	5	60
+60	5	60
+60	5	60
+.I 61
+.T
+IBM 709 Tape Matrix Compiler
+.B
+CACM September, 1959
+.A
+Hornick, S. D.
+.N
+CA590908JB March 22, 1978  4:43 PM
+.X
+61	5	61
+61	5	61
+61	5	61
+.I 62
+.T
+Multi-Dimensional Least-Squares Polynomial Curve Fitting
+.B
+CACM September, 1959
+.A
+Lesh, F. H.
+.N
+CA590907 JB March 22, 1978  4:44 PM
+.X
+62	5	62
+62	5	62
+62	5	62
+.I 63
+.T
+Octal Diagrams of Binary Conception and
+Their Applicability to Computer Design Logic
+.W
+This paper dates back the genesis of binary
+conception circa 5000 years ago, and octal diagrams 
+about 4800 years ago, as derived by the Chinese ancients.
+ It analyzes the applicability of binary trinities 
+of the octal diagrams to modern electronic-digital-computer design logic.
+.B
+CACM September, 1959
+.A
+Li, S. T.
+.N
+CA590906 JB March 22, 1978  4:47 PM
+.X
+63	5	63
+63	5	63
+63	5	63
+.I 64
+.T
+Remarks on ALGOL and Symbol Manipulation 
+.B
+CACM September, 1959
+.A
+Green, J.
+.N
+CA590905 JB March 22, 1978  4:47 PM
+.X
+206	5	64
+207	5	64
+64	5	64
+64	5	64
+64	5	64
+64	6	64
+64	6	64
+.I 65
+.T
+ALGOL Sub-Committee Report - Extensions
+.B
+CACM September, 1959
+.A
+Dijkstra, E. W.
+Heise, W.
+Perlis, J. A.
+Samelson, K.
+.N
+CA590904 JB March 22, 1978  4:49 PM
+.X
+65	5	65
+65	5	65
+65	5	65
+.I 66
+.T
+A Proposal for a Generalized Card Code for 256 Characters
+.B
+CACM September, 1959
+.A
+Bemer, R. W.
+.N
+CA590903 JB March 22, 1978  4:50 PM
+.X
+66	5	66
+66	5	66
+66	5	66
+.I 67
+.T
+Central-European Computers
+.B
+CACM September, 1959
+.A
+Blachman, N. M.
+.N
+CA590902 JB March 22, 1978  4:52 PM
+.X
+67	4	67
+41	5	67
+67	5	67
+67	5	67
+67	5	67
+79	5	67
+67	6	67
+.I 68
+.T
+The Role of the University in Computers,
+Data Processing and Related Fields
+.W
+A study was made of university programs in
+the United States in the fields of computers, data 
+processing, operations research, and other closely related
+fields.  University policies, organization, 
+administration, faculties, students, researches, curricula,
+equipment, and financing were investigated. 
+ An integrated university program is recommended reflecting
+the conviction that many present activities 
+related to computers will develop into disciplines and
+as such are the legitimate province of the university 
+scholar.  Details on a recommended Graduate
+School of "Computer Sciences" are given.
+.B
+CACM September, 1959
+.A
+Fein, L.
+.N
+CA590901 JB March 22, 1978  6:05 PM
+.X
+1205	5	68
+68	5	68
+68	5	68
+68	5	68
+1100	6	68
+1104	6	68
+1107	6	68
+68	6	68
+.I 69
+.T
+Statistical Programs for the IBM 650-Part I
+.W
+A collection is given of brief descriptions
+of statistical programs now in use in university 
+computing centers which have IBM 650's.
+.B
+CACM August, 1959
+.A
+Hamblen, J. W.
+.N
+CA590804 JB March 22, 1978  6:07 PM
+.X
+69	5	69
+69	5	69
+69	5	69
+.I 70
+.T
+Construction of a Set of Test Matrices
+.W
+This paper develops the equations and properties
+of a set of test matrices which are useful 
+in the determination of the accuracy of routines for
+finding the inverse, determinant and/or eigenvalues 
+of a matrix.
+.B
+CACM August, 1959
+.A
+Aegerter, M. J.
+.N
+CA590803 JB March 22, 1978  6:09 PM
+.X
+70	5	70
+70	5	70
+70	5	70
+.I 71
+.T
+Proposal for a Feasible Programming System
+.W
+This paper proposes designing a programming
+facility (itself involving a digital computer and 
+a program) which will assist the preparation of large-scale
+real-time programs.  This facility is to 
+be capable of preparing programs for any of a variety
+of machines having characteristics similar to those 
+of the facility's computer.  One of the basic assumptions
+is that there will be enough random-access 
+storage available to avoid the necessity for segmenting
+a constructed program in any fashion other than 
+a trivial one.  While this assumption is somewhat unrealistic,
+it is intended to provide an opportunity 
+to concentrate on the other aspects of program construction.
+ The programming system should stress the 
+discovery in source program statements of as many errors
+as possible, before attempting to construct 
+an object program.  Among the computer characteristics
+which are advocated are a program interrupt scheme, 
+a large set of characters, and indirect addressing.
+.B
+CACM August, 1959
+.A
+Bagley, P. R.
+.N
+CA590802 JB March 22, 1978  6:16 PM
+.X
+71	5	71
+71	5	71
+71	5	71
+.I 72
+.T
+An Educational Program in Computing 
+.B
+CACM August, 1959
+.A
+Hollingsworth, J.
+.N
+CA590801 JB March 22, 1978  6:18 PM
+.X
+72	5	72
+72	5	72
+72	5	72
+.I 73
+.T
+A Real Time Data Assimilator
+.B
+CACM July, 1959
+.A
+Gschwind, H. W.
+.N
+CA590705 JB March 22, 1978  6:19 PM
+.X
+73	5	73
+73	5	73
+73	5	73
+.I 74
+.T
+A High-Speed Sorting Procedure
+.B
+CACM July, 1959
+.A
+Shell, D. L.
+.N
+CA590704 JB March 22, 1978  6:20 PM
+.X
+1919	5	74
+74	5	74
+74	5	74
+74	5	74
+852	5	74
+864	5	74
+865	5	74
+864	6	74
+1175	6	74
+232	6	74
+232	6	74
+308	6	74
+309	6	74
+309	6	74
+74	6	74
+74	6	74
+74	6	74
+74	6	74
+3187	6	74
+.I 75
+.T
+Parameter Estimation for Simple Nonlinear Models
+.B
+CACM July, 1959
+.A
+Chow, W. M.
+.N
+CA590703 JB March 22, 1978  6:22 PM
+.X
+75	4	75
+75	4	75
+15	5	75
+75	5	75
+75	5	75
+75	5	75
+94	5	75
+.I 76
+.T
+Binary Conversion, With Fixed Decimal Precision, Of a Decimal Fraction
+.B
+CACM July, 1959
+.A
+Taranto, D.
+.N
+CA590702 JB March 22, 1978  6:23 PM
+.X
+76	5	76
+76	5	76
+76	5	76
+.I 77
+.T
+On GAT and the Construction of Translators
+.B
+CACM July, 1959
+.A
+Arden, B.
+Graham, R.
+.N
+CA590701 JB March 22, 1978  6:24 PM
+.X
+1134	5	77
+1141	5	77
+364	5	77
+405	5	77
+438	5	77
+44	5	77
+77	5	77
+77	5	77
+77	5	77
+561	5	77
+100	6	77
+224	6	77
+224	6	77
+224	6	77
+224	6	77
+249	6	77
+303	6	77
+393	6	77
+17	6	77
+44	6	77
+55	6	77
+77	6	77
+77	6	77
+77	6	77
+77	6	77
+77	6	77
+77	6	77
+77	6	77
+93	6	77
+98	6	77
+408	6	77
+.I 78
+.T
+Remarks on the Practical Solution of Characteristic Value Problems
+.W
+This paper is concerned with the practical
+solution of characteristic value problem for an 
+ordinary differential equation.  It is at once apparent
+that sequential computers, be they digital or 
+analog, solve initial value problems, rather than boundary
+value problems, and some mathematical process 
+must be found to compensate for the machine's inadequacy.
+ (Compensating for machine imperfection is, 
+of course, the normal activity of the numerical analyst.)
+ A number of other papers have applied particular 
+devices to particular problems.  The purpose of this
+note is to establish a mathematical framework or 
+model for these practical procedures and thus assist in
+the use and extension of the ideas in other particular 
+problems.
+.B
+CACM June, 1959
+.A
+Wouk, A.
+.N
+CA590606 JB March 22, 1978  6:30 PM
+.X
+78	5	78
+78	5	78
+78	5	78
+.I 79
+.T
+Programming for a Machine With an Extended
+Address Calculational Mechanism
+.B
+CACM June, 1959
+.A
+Schecher, H.
+.N
+CA590605 JB March 22, 1978  6:31 PM
+.X
+67	5	79
+79	5	79
+79	5	79
+79	5	79
+79	6	79
+.I 80
+.T
+A Technique for Computing Critical Rotational
+Speeds of Flexible Shafts on an Automatic Computer
+.B
+CACM June, 1959
+.A
+Schwartz, B. L.
+.N
+CA590604 JB March 22, 1978  6:35 PM
+.X
+80	5	80
+80	5	80
+80	5	80
+.I 81
+.T
+NORC High-Speed Printer
+.B
+CACM June, 1959
+.A
+Gleissner, G. H.
+.N
+CA590603 JB March 22, 1978  6:36 PM
+.X
+81	5	81
+81	5	81
+81	5	81
+.I 82
+.T
+Handling Identifiers as Internal Symbols in Language Processors
+.W
+Substitution of computer-oriented symbols for
+programmer-oriented symbols in language processors 
+is examined and a feasible method for doing so is presented.
+.B
+CACM June, 1959
+.A
+Williams, F. A.
+.N
+CA590602 JB March 22, 1978  6:38 PM
+.X
+222	5	82
+82	5	82
+82	5	82
+82	5	82
+799	5	82
+945	6	82
+399	6	82
+44	6	82
+82	6	82
+82	6	82
+404	6	82
+.I 83
+.T
+A Visit to Computation Centers in the Soviet Union
+.B
+CACM June, 1959
+.A
+Carr III, J. W.
+.N
+CA590601 JB March 22, 1978  6:39 PM
+.X
+1134	4	83
+83	4	83
+1349	5	83
+17	5	83
+83	5	83
+83	5	83
+83	5	83
+236	6	83
+323	6	83
+83	6	83
+415	6	83
+.I 84
+.T
+Survey of Progress and Trend of Development
+and Use of Automatic Data Processing in Business
+and Management Control Systems of the Federal Government,
+as of December 1957-II (Part 2 see CA590406)
+.B
+CACM May, 1959
+.N
+CA590502 JB March 22, 1978  6:42 PM
+.X
+84	5	84
+84	5	84
+84	5	84
+.I 85
+.T
+Error Analysis in Floating Point Arithmetic
+.B
+CACM May, 1959
+.A
+Carr III, J. W.
+.N
+CA590501 JB March 22, 1978  6:43 PM
+.X
+1148	5	85
+85	5	85
+85	5	85
+85	5	85
+85	6	85
+.I 86
+.T
+Survey of Progress and Trend of Development
+and Use of Automatic Data Processing in Business 
+and Management Control Systems of the Federal Government, as of December 1957
+.B
+CACM April, 1959
+.A
+Controller General of the United States to the Congress of the United States
+.N
+CA590406 JB March 22, 1978  6:48 PM
+.X
+86	5	86
+86	5	86
+86	5	86
+.I 87
+.T
+A Note on a Method for Generating Points
+Uniformly on N-Dimensional Spheres
+.B
+CACM April, 1959
+.A
+Muller, M. E.
+.N
+CA590405 JB March 22, 1978  7:04 PM
+.X
+2333	4	87
+87	4	87
+2333	5	87
+87	5	87
+87	5	87
+87	5	87
+88	5	87
+1793	6	87
+87	6	87
+88	6	87
+.I 88
+.T
+An Efficient Method for Generating Uniformly Distributed
+Points on the Surface of an n-Dimensional
+Sphere
+.B
+CACM April, 1959
+.A
+Hicks, J. S.
+Wheeling, R. F.
+.N
+CA590404 JB March 22, 1978  7:10 PM
+.X
+2333	5	88
+87	5	88
+88	5	88
+88	5	88
+88	5	88
+1793	6	88
+87	6	88
+88	6	88
+88	6	88
+.I 89
+.T
+A Routine to Find the Solution of Simultaneous
+Linear Equations with Polynomial Coefficients
+.B
+CACM April, 1959
+.A
+Larson, E. H.
+Marshall, D. P.
+.N
+CA590403 JB March 22, 1978  7:12 PM
+.X
+89	5	89
+89	5	89
+89	5	89
+.I 90
+.T
+Binary Arithmetic for Discretely Variable
+Word Length in a Serial Computer
+.B
+CACM April, 1959
+.A
+Ercoli, P.
+Vacca, R.
+.N
+CA590402 JB March 22, 1978  7:13 PM
+.X
+107	5	90
+90	5	90
+90	5	90
+90	5	90
+90	6	90
+.I 91
+.T
+A Mathematical Procedure for Machine Division
+.B
+CACM April, 1959
+.A
+Gilman, R. E.
+.N
+CA590401 JB March 22, 1978  7:14 PM
+.X
+214	5	91
+1593	5	91
+91	5	91
+91	5	91
+91	5	91
+1	6	91
+1292	6	91
+53	6	91
+91	6	91
+91	6	91
+.I 92
+.T
+A Checklist of Intelligence for Programming Systems
+.W
+A remarkable variation exists in the degree
+of sophistication of various programming systems. 
+ A particular manifestation is the jungle of assorted
+devices for reproducing limited human decision 
+procedures.  An attempt is made here to begin a systematic
+classification of the various devices for 
+educating the computer to take over the decision-making
+functions of one or many human operators, both 
+those that have been demonstrated feasible to date and
+those that are highly desirable for the future.
+.B
+CACM March, 1959
+.A
+Bemer, R. W.
+.N
+CA590304 JB March 22, 1978  8:01 PM
+.X
+92	5	92
+92	5	92
+92	5	92
+.I 93
+.T
+From Formulas to Computer Oriented Language
+.W
+A technique is shown for enabling a computer
+to translate simple algebraic formulas into a 
+three address computer code.
+.B
+CACM March, 1959
+.A
+Wegstein, J. H.
+.N
+CA590303 JB March 22, 1978  8:03 PM
+.X
+405	5	93
+54	5	93
+93	5	93
+93	5	93
+93	5	93
+224	6	93
+55	6	93
+77	6	93
+93	6	93
+93	6	93
+.I 94
+.T
+An Iterative Method for Fitting the Logistic Curve
+.W
+An iterative method is given for finding a
+logistic curve of best least squares fit to a set 
+of two-dimensional points.
+.B
+CACM March, 1959
+.A
+Howell, J.R.
+.N
+CA590302 JB March 22, 1978  8:04 PM
+.X
+75	5	94
+94	5	94
+94	5	94
+94	5	94
+15	6	94
+94	6	94
+.I 95
+.T
+Elimination of Special Functions from Differential Equations
+.W
+A set of ordinary differential equations which
+contains mathematical functions requiring the 
+use of subroutines for numerical solution by electronic
+computer, tabular data for numerical solution 
+by hand calculation or function generators when analog
+methods are applied can sometimes be expanded 
+to an equivalent set of equations which do not contain
+the functions.  This is practical if these functions 
+satisfy sufficiently simple differential equations. 
+Thus among those functions which can be eliminated 
+by this procedure are the trigonometric, inverse trigonometric,
+exponential, and many other transcendental 
+functions.
+.B
+CACM March, 1959
+.A
+Powers, J. E.
+.N
+CA590301 JB March 22, 1978  8:08 PM
+.X
+95	5	95
+95	5	95
+95	5	95
+.I 96
+.T
+On Computing Radiation Integrals
+.W
+The relative merit and cost of four ways of
+evaluating typical radiation integrals containing 
+spherical Bessel functions are investigated.  These methods
+are desk machine evaluation of a finite series, 
+integration of the appropriate differential equation
+by a Reeves Electronic Analog Computer and by a 
+Litton 40 IBM 704 computer.  Results are generally applicable
+to equations separated from a Helmholtz 
+or wave equation.
+.B
+CACM February, 1959
+.A
+Hansen, R. C.
+Bailin, L. L.
+Rutishauser, R. W.
+.N
+CA590205 JB March 22, 1978  8:16 PM
+.X
+96	5	96
+96	5	96
+96	5	96
+.I 97
+.T
+Signal Corps Research and Development on
+Automatic Programming of Digital Computers
+.B
+CACM February, 1959
+.A
+Luebbert, Capt. W. F.
+Collom Jr., Capt. P. W.
+.N
+CA590204 JB March 22, 1978  8:19 PM
+.X
+97	5	97
+97	5	97
+97	5	97
+.I 98
+.T
+The Arithmetic Translator-Compiler of
+the IBM FORTRAN Automatic Coding System
+.B
+CACM February, 1959
+.A
+Sheridan, P. B.
+.N
+CA590203 JB March 22, 1978  8:21 PM
+.X
+224	5	98
+364	5	98
+98	5	98
+98	5	98
+98	5	98
+100	6	98
+224	6	98
+44	6	98
+77	6	98
+98	6	98
+98	6	98
+.I 99
+.T
+Possible Modifications to the International Algebraic Language
+.B
+CACM February, 1959
+.A
+Green, J.
+.N
+CA590202 JB March 22, 1978  8:22 PM
+.X
+99	5	99
+99	5	99
+99	5	99
+.I 100
+.T
+Recursive Subscripting Compilers and List-Types Memories
+.B
+CACM February, 1959
+.A
+Carr III, J. W.
+.N
+CA590201 JB March 22, 1978  8:23 PM
+.X
+205	4	100
+210	4	100
+214	4	100
+1982	4	100
+398	4	100
+642	4	100
+669	4	100
+100	4	100
+123	4	100
+164	4	100
+100	5	100
+100	5	100
+100	5	100
+1	5	100
+364	5	100
+100	6	100
+224	6	100
+44	6	100
+77	6	100
+98	6	100
+.I 101
+.T
+Nuclear Reactor Codes
+.B
+CACM January, 1959
+.A
+Nather, V.
+Sangren, W.
+.N
+CA590101 JB March 22, 1978  8:24 PM
+.X
+101	5	101
+101	5	101
+101	5	101
+.I 102
+.T
+A Comparison of 650 Programming Methods
+.B
+CACM December, 1960
+.A
+Curtz, T. B.
+Riordan, J. F.
+Spohn,M.
+.N
+CA601214 JB March 20, 1978  6:18 PM
+.X
+102	5	102
+102	5	102
+102	5	102
+.I 103
+.T
+COPE (Console Operator Proficiency Examination)*
+.W
+Each year electronic computers become more
+sophisticated, and the programs they must process 
+become more complex.  Because of this,dependence of
+those in computing on the skill and experience of 
+operators is increasing.  At the same time, selection
+and training of qualified operators grows more 
+difficult.  To meet the need for a quick, accurate, uniform
+operator test and training aid, the authors 
+have developed COPE (Console Operator Proficiency Examination),
+outlined below.  While this examination 
+is programmed specifically for the IBM 705 Model II with
+two Tape Record Coordinators, similar programs 
+could be developed for other computers.
+.B
+CACM December, 1960
+.A
+Farbman, D.
+Ketover, R.
+.N
+CA601213 JB March 20, 1978  6:23 PM
+.X
+103	5	103
+103	5	103
+103	5	103
+.I 104
+.T
+Digital Simulation of Discrete Flow Systems*
+.W
+The discrete flow systems discussed are characterized
+by the movement of randomly arriving 
+items along interacting channels.  Programing a digital
+computer to simulate such systems utilizes some 
+techniques not common in other approaches to physical
+problems.  The principal portion of the paper is 
+a discussion of two simulation studies that illustrate
+some of the programming problems involved. One 
+is of an extensive package-handling plant, with the
+objective being optimization of parameters such as 
+storage capacities and processing rates.  In the other,
+air traffic flow and control procedures are simulated 
+to compare the effects of alternative control decisions.
+.B
+CACM December, 1960
+.A
+Moore, C. J.
+Lewis, T. S.
+.N
+CA601212 JB March 20, 1978  6:27 PM
+.X
+104	5	104
+104	5	104
+104	5	104
+.I 105
+.T
+Two Methods for Word Inversion on the IBM 709
+.B
+CACM December, 1960
+.A
+Price, R. A.
+Jardins, P. D.
+.N
+CA601211 JB March 20, 1978  6:28 PM
+.X
+105	5	105
+105	5	105
+105	5	105
+.I 106
+.T
+A Method for Overlapping and Erasure of Lists
+.W
+An important property of the Newell-Shaw-Simon
+scheme for computer storage of lists is that 
+data having multiple occurrences need not be stored
+at more than one place in the computer.  That is, 
+lists may be "overlapped."  Unfortunately, overlapping
+poses a problem for subsequent erasure.  Given 
+a list that is no longer needed, it is desired to erase
+just those parts that do not overlap other lists. 
+ In LISP, McCarthy employs an elegant but inefficient solution
+to the problem.  The present paper describes 
+a general method which enables efficient erasure.  The
+method employs interspersed reference counts to 
+describe the extent of the overlapping.
+.B
+CACM December, 1960
+.A
+Collins, G. E.
+.N
+CA601210 JB March 20, 1978  6:33 PM
+.X
+1024	4	106
+1051	4	106
+1102	4	106
+1132	4	106
+1390	4	106
+1486	4	106
+1549	4	106
+1706	4	106
+1826	4	106
+1878	4	106
+378	4	106
+2060	4	106
+2155	4	106
+2168	4	106
+2719	4	106
+2723	4	106
+2838	4	106
+2842	4	106
+2855	4	106
+2879	4	106
+3077	4	106
+3080	4	106
+3106	4	106
+627	4	106
+106	4	106
+106	5	106
+106	5	106
+106	5	106
+1050	5	106
+210	5	106
+1393	5	106
+1549	5	106
+2023	5	106
+3112	5	106
+627	5	106
+849	6	106
+106	6	106
+106	6	106
+106	6	106
+106	6	106
+106	6	106
+106	6	106
+196	6	106
+1051	6	106
+1380	6	106
+209	6	106
+1826	6	106
+210	6	106
+210	6	106
+1878	6	106
+296	6	106
+1972	6	106
+367	6	106
+2438	6	106
+2723	6	106
+2736	6	106
+2833	6	106
+2838	6	106
+406	6	106
+627	6	106
+627	6	106
+731	6	106
+731	6	106
+731	6	106
+753	6	106
+.I 107
+.T
+Multiple Precision Arithmetic
+.B
+CACM December, 1960
+.A
+Pope, D. A.
+Stein, M. L.
+.N
+CA601209 JB March 20, 1978  6:34 PM
+.X
+107	4	107
+107	5	107
+107	5	107
+107	5	107
+1026	5	107
+1258	5	107
+1292	5	107
+1497	5	107
+90	5	107
+107	6	107
+107	6	107
+107	6	107
+107	6	107
+1026	6	107
+1026	6	107
+1026	6	107
+1292	6	107
+1593	6	107
+.I 108
+.T
+Programmed Error Correction in Project Mercury
+.B
+CACM December, 1960
+.A
+Dimsdale, B.
+Weinberg, G. M.
+.N
+CA601208 JB March 20, 1978  6:35 PM
+.X
+108	5	108
+108	5	108
+108	5	108
+361	5	108
+108	6	108
+.I 109
+.T
+A Note on Approximating e^x
+.B
+CACM December, 1960
+.A
+Lubkin, S.
+.N
+CA601207 JB March 20, 1978  6:37 PM
+.X
+109	5	109
+109	5	109
+109	5	109
+.I 110
+.T
+Fibonaccian Searching
+.B
+CACM December, 1960
+.A
+Ferguson, D. E.
+.N
+CA601206 JB March 20, 1978  6:38 PM
+.X
+110	5	110
+110	5	110
+110	5	110
+.I 111
+.T
+On Programming the Numerical Solution of Polynomial Equations
+.W
+Numerical techniques are presented for computing
+the roots of polynomial equations.  By applying 
+the recommended scaling and inversion rules, the basic
+Bairstow and Newton-Raphson iterative techniques 
+can be applied with great reliability.  Both a high degree
+of accuracy and rapid convergence are realized. 
+ Numerical examples are shown to illustrate the pitfalls
+and to show how these are circumvented by application 
+of the recommended procedures.
+.B
+CACM December, 1960
+.A
+Ellenberger, K. W.
+.N
+CA601205 JB March 20, 1978  6:41 PM
+.X
+111	5	111
+111	5	111
+111	5	111
+.I 112
+.T
+Numerical Solution of the Polynomial Equation (Algorithm 30)
+.B
+CACM December, 1960
+.A
+Ellenberger, K. W.
+.N
+CA601204 JB March 20, 1978  6:44 PM
+.X
+112	5	112
+112	5	112
+112	5	112
+.I 113
+.T
+Survey of Coded Character Representation
+.B
+CACM December, 1960
+.A
+Bemer, R. W.
+.N
+CA601203 JB March 20, 1978 6:44 PM
+.X
+113	5	113
+113	5	113
+113	5	113
+.I 114
+.T
+Survey of Punched Card Codes
+.B
+CACM December, 1960
+.A
+Smith, H. J.
+Williams, F. A.
+.N
+CA601202 JB March 20, 1978  6:45 PM
+.X
+114	5	114
+114	5	114
+114	5	114
+.I 115
+.T
+Optimizers: Their Structure
+.B
+CACM December, 1960
+.A
+Wheeling, R. F.
+.N
+CA601201 JB March 20, 1978  6:46 PM
+.X
+115	5	115
+115	5	115
+115	5	115
+.I 116
+.T
+The Sumador Chino
+.W
+On a recent motor trip through Mexico, the writer
+came across on adding device which was referred 
+to as a sumador chino (Chinese adder).  A survey of the more
+available literature on the history of mathematics 
+and on instruments of calculation has uncovered no reference
+to such a device.  The purpose of this communication 
+is to enlist the help of other members in bringing to
+light whatever may be known concerning the evolution 
+and present status of the sumador chino.
+.B
+CACM November, 1960
+.A
+Rogers, J. L.
+.N
+CA601119 JB March 20, 1978  6:50 PM
+.X
+116	5	116
+116	5	116
+116	5	116
+.I 117
+.T
+An Estimation of the Relative Efficiency of Two Internal Sorting Methods
+.B
+CACM November, 1960
+.A
+Nagler, H.
+.N
+CA601118 JB March 20, 1978  6:51 PM
+.X
+117	5	117
+117	5	117
+117	5	117
+.I 118
+.T
+Character Scanning on the IBM 7070
+.B
+CACM November, 1960
+.A
+Speckhard, A. E.
+.N
+CA601117 JB March 20, 1978  6:52 PM
+.X
+118	5	118
+118	5	118
+118	5	118
+.I 119
+.T
+Note on Eigenvalue Computation
+.B
+CACM November, 1960
+.A
+Andrus, J. F.
+.N
+CA601116 JB March 20, 1978  6:53 PM
+.X
+119	5	119
+119	5	119
+119	5	119
+.I 120
+.T
+A Simple Technique for Coding Differential Equations
+.B
+CACM November, 1960
+.A
+Sefton, P.
+Vaillancourt, R.
+.N
+CA601115 JB March 20, 1978  6:57 PM
+.X
+120	4	120
+120	5	120
+120	5	120
+120	5	120
+175	5	120
+.I 121
+.T
+Over-all Computation Control and Labelling
+.B
+CACM November, 1960
+.A
+Holt, A.
+.N
+CA601114 JB March 20, 1978  6:58 PM
+.X
+121	4	121
+121	5	121
+121	5	121
+121	5	121
+221	5	121
+.I 122
+.T
+Least Squares Fitting of a Great Circle Through Points on a Sphere
+.B
+CACM November,1960
+.A
+DeWitte, L.
+.N
+CA601113 JB March 20, 1978  6:59 PM
+.X
+122	5	122
+122	5	122
+122	5	122
+297	5	122
+122	6	122
+.I 123
+.T
+Compilation for Two Computers with NELIAC
+.W
+NELIAC, a compiler based on ALGOL, was developed
+at the U.S. Navy Electronics Laboratory, San 
+Diego,California, as a"boot-strap" compiler for the Remington
+Rand Univac COUNTESS computer. This compiler 
+was used to generate a version of itself which, running
+as a COUNTESS program, generated machine code 
+for the Control Data Corporation CDC-1604.  All three
+versions of NELIAC accepted essentially identical 
+input language.
+.B
+CACM November, 1960
+.A
+Masterson Jr., K. S.
+.N
+CA601112 JB March 20, 1978  7:03 PM
+.X
+205	4	123
+210	4	123
+214	4	123
+249	4	123
+254	4	123
+272	4	123
+1102	4	123
+1109	4	123
+1140	4	123
+1188	4	123
+1306	4	123
+1464	4	123
+1491	4	123
+1767	4	123
+1781	4	123
+1787	4	123
+1949	4	123
+1982	4	123
+321	4	123
+398	4	123
+2059	4	123
+2126	4	123
+435	4	123
+437	4	123
+463	4	123
+483	4	123
+491	4	123
+2732	4	123
+560	4	123
+583	4	123
+3073	4	123
+627	4	123
+631	4	123
+632	4	123
+637	4	123
+642	4	123
+642	4	123
+644	4	123
+653	4	123
+669	4	123
+680	4	123
+761	4	123
+762	4	123
+763	4	123
+100	4	123
+123	4	123
+123	4	123
+123	4	123
+140	4	123
+164	4	123
+919	4	123
+989	4	123
+123	5	123
+123	5	123
+123	5	123
+165	5	123
+196	5	123
+1	5	123
+1781	5	123
+637	5	123
+123	6	123
+123	6	123
+165	6	123
+196	6	123
+919	6	123
+990	6	123
+1007	6	123
+1046	6	123
+1131	6	123
+1139	6	123
+1140	6	123
+1149	6	123
+1198	6	123
+1215	6	123
+1223	6	123
+1265	6	123
+1303	6	123
+1323	6	123
+1358	6	123
+1366	6	123
+1421	6	123
+1460	6	123
+1462	6	123
+1463	6	123
+1467	6	123
+1468	6	123
+1477	6	123
+1491	6	123
+1496	6	123
+1531	6	123
+1535	6	123
+1565	6	123
+1601	6	123
+1602	6	123
+1613	6	123
+1614	6	123
+1626	6	123
+1641	6	123
+1787	6	123
+1788	6	123
+205	6	123
+224	6	123
+249	6	123
+288	6	123
+316	6	123
+381	6	123
+398	6	123
+11	6	123
+404	6	123
+410	6	123
+463	6	123
+464	6	123
+483	6	123
+3184	6	123
+3188	6	123
+584	6	123
+600	6	123
+680	6	123
+691	6	123
+763	6	123
+799	6	123
+.I 124
+.T
+An Algorithm for the Assignment Problem
+.W
+The assignment problem is formulated and briefly
+discussed.  An efficient algorithm for its 
+solution is presented in ALGOL code.  An empirical relation
+between solution time and the size of the 
+problem is given, based on extensive experiments
+carried out on a digital computer.
+.B
+CACM November, 1960
+.A
+Silver, R.
+.N
+CA601111 JB March 20, 1978  7:05 PM
+.X
+124	5	124
+124	5	124
+124	5	124
+2133	5	124
+2134	5	124
+124	6	124
+124	6	124
+2134	6	124
+.I 125
+.T
+Polynomial Transformer (Algorithm 29)
+.B
+CACM November, 1960
+.A
+Mackinney, J. G.
+.N
+CA601110 JB March 20, 1978  7:06 PM
+.X
+125	5	125
+125	5	125
+125	5	125
+1816	5	125
+125	6	125
+.I 126
+.T
+Least Squares Fit By Orthogonal polynomials (Algorithm 28)
+.B
+CACM November, 1960
+.A
+Mackinney, J. G.
+.N
+CA601109 JB March 20, 1978  7:08 PM
+.X
+126	5	126
+126	5	126
+126	5	126
+.I 127
+.T
+ASSIGNMENT (Algorithm 27)
+.B
+CACM November, 1960
+.A
+Silver, R.
+.N
+CA601108 JB March 20, 1978  7:09 PM
+.X
+127	5	127
+127	5	127
+127	5	127
+.I 128
+.T
+ROOTFINDER III (Algorithm 26)
+.B
+CACM November, 1960 
+.A
+Herroit, J. G.
+.N
+CA601107 JB March 20, 1978  7:57 PM
+.X
+128	5	128
+128	5	128
+128	5	128
+.I 129
+.T
+ROOTFINDER II (Algorithm 15)
+.B
+CACM November, 1960
+.A
+Forsythe, G. E.
+Herriot, J. G.
+.N
+CA601106 JB March 20, 1978  7:59 PM
+.X
+129	5	129
+129	5	129
+129	5	129
+.I 130
+.T
+Real Zeros of an Arbitrary Function (Algorithm 25)
+.B
+CACM November, 1960
+.A
+Leavenworth, B.
+.N
+CA601105 JB March 20, 1978  8:00 PM
+.X
+130	5	130
+130	5	130
+130	5	130
+.I 131
+.T
+Solution of Tri-Diagonal Linear Equations (Algorithm 24)
+.B
+CACM November, 1960
+.A
+Leavenworth, B.
+.N
+CA601104 JB March 20, 1978  8:01 PM
+.X
+131	5	131
+131	5	131
+131	5	131
+.I 132
+.T
+Math Sort (Algorithm 23)
+.B
+CACM November, 1960
+.A
+Feurzeig, W.
+.N
+CA601103 JB March 20, 1978  8:03 PM
+.X
+132	5	132
+132	5	132
+132	5	132
+.I 133
+.T
+Riccati-Bessel Functions of First And Second Kind (Algorithm 22)
+.B
+CACM November, 1960
+.A
+Oser, H.
+.N
+CA601102 JB March 20, 1978  8:04 PM
+.X
+133	5	133
+133	5	133
+133	5	133
+.I 134
+.T
+Bessel Function for a Set of Integer Orders(Algorithm 21)
+.B
+CACM November, 1960
+.A
+Borsch-Supan, W.
+.N
+CA601101 JB March 20, 1978 8:05 PM
+.X
+134	5	134
+134	5	134
+134	5	134
+1909	5	134
+134	6	134
+1023	6	134
+1284	6	134
+1316	6	134
+.I 135
+.T
+Digital Computers in Universities-IV
+.B
+CACM October, 1960
+.A
+Reeves, R. F.
+.N
+CA601013 JB March 20, 1978  8:07 PM
+.X
+135	5	135
+135	5	135
+135	5	135
+.I 136
+.T
+A Note on the Calculation of Interest
+.B
+CACM October, 1960
+.A
+Ingerman, P. Z.
+.N
+CA601012 JB March 20, 1978  8:09 PM
+.X
+136	5	136
+136	5	136
+136	5	136
+.I 137
+.T
+Evaluating Numbers Expressed as Strings of English Words
+.B
+CACM October, 1960
+.A
+Swift, C. J.
+.N
+CA601011 JB March 20, 1978  8:11 PM
+.X
+137	5	137
+137	5	137
+137	5	137
+.I 138
+.T
+Some Thoughts on Reconciling Various
+Character Set Proposals (Corrigenda)
+.B
+CACM October, 1960
+.A
+Voorhees, E. A.
+.N
+CA601010 JB March 20, 1978  8:13 PM
+.X
+138	5	138
+138	5	138
+138	5	138
+.I 139
+.T
+Binomial Coefficients (Algorithm 19)
+.B
+CACM October, 1960
+.A
+Kenyon, R. R.
+.N
+CA601009 JB March 20, 1978  8:14 PM
+.X
+139	5	139
+139	5	139
+139	5	139
+.I 140
+.T
+Crout with Pivoting (Algorithm 16)
+.B
+CACM October, 1960
+.A
+Forsythe, G. E.
+.N
+CA601008 JB March 20, 1978  8:15 PM
+.X
+249	4	140
+254	4	140
+272	4	140
+1102	4	140
+1109	4	140
+1140	4	140
+1188	4	140
+1306	4	140
+1319	4	140
+1464	4	140
+1491	4	140
+1767	4	140
+1781	4	140
+1787	4	140
+1949	4	140
+321	4	140
+2059	4	140
+2126	4	140
+435	4	140
+437	4	140
+454	4	140
+463	4	140
+483	4	140
+491	4	140
+2732	4	140
+560	4	140
+583	4	140
+3073	4	140
+627	4	140
+631	4	140
+632	4	140
+642	4	140
+644	4	140
+653	4	140
+680	4	140
+761	4	140
+762	4	140
+763	4	140
+123	4	140
+140	4	140
+140	4	140
+919	4	140
+989	4	140
+140	5	140
+140	5	140
+140	5	140
+152	5	140
+196	5	140
+.I 141
+.T
+Some Thoughts on Parallel Processing
+.B
+CACM October, 1960
+.A
+Yarbrough, L. D.
+.N
+CA601007 JB March 20, 1978  8:16 PM
+.X
+141	5	141
+141	5	141
+141	5	141
+.I 142
+.T
+Comments on a Technique for Counting Ones 
+.B
+CACM October, 1960
+.A
+Sherman, P. M.
+.N
+CA601006 JB March 20, 1978  8:18 PM
+.X
+2952	4	142
+2952	4	142
+2952	4	142
+142	4	142
+142	4	142
+142	4	142
+142	5	142
+142	5	142
+142	5	142
+162	5	142
+163	5	142
+192	5	142
+362	5	142
+2952	5	142
+142	6	142
+142	6	142
+162	6	142
+163	6	142
+192	6	142
+2185	6	142
+2727	6	142
+.I 143
+.T
+A List of Computer Systems Programs for
+the IBM 650, DATATRON 205, and UNIVAC SS-80
+.B
+CACM October, 1960
+.A
+Romberg, A.
+.N
+CA601005 JB March 20, 1978  8:21 PM
+.X
+143	5	143
+143	5	143
+143	5	143
+.I 144
+.T
+Do It by the Numbers-Digital Shorthand
+.W
+Present communications systems transmit single
+characters in groups of coded pulses between 
+simple terminal equipments.  Since English words form only
+a sparse set of all possible alphabetic combinations, 
+present methods are inefficient when computer systems
+are substituted for these terminals.  Using numeric 
+representations of entire words or common phrases (rather
+than character-by-character representations) 
+requires approximately one-third of present transmission
+time.  This saving is reflected in overall costs. 
+ Other benefits accrue in code and language translation
+schemes. Provision is made for transmission of 
+purely numeric and/or binary streams, and for single
+character-transmission of non-dictionary words such 
+as the names of people or places.
+.B
+CACM October, 1960 
+.A
+Bemer, R. W.
+.N
+CA601004 JB March 20, 1978  8:27 PM
+.X
+144	5	144
+144	5	144
+144	5	144
+.I 145
+.T
+Automatic Graders for Programming Classes
+.B
+CACM October, 1960
+.A
+Hollingsworth, J.
+.N
+CA601003 JB March 20, 1978  8:28 PM
+.X
+145	5	145
+145	5	145
+145	5	145
+1270	5	145
+1902	5	145
+145	6	145
+145	6	145
+1270	6	145
+3184	6	145
+.I 146
+.T
+The Use of Computers in Engineering Classroom Instruction 
+.W
+On April 29-30, the Computer Committee of the
+College of Engineering, University of Michigan, 
+which acts as a steering committee for The Ford Foundation
+Project on the Use of Computers in Engineering 
+Education, held a special conference to discuss certain
+timely topics pertinent to the Ford Project. 
+ This report contains a condensed transcription of
+the key ideas offered by the conference attendees 
+on selected topics. 
+.B
+CACM October, 1960
+.A
+Katz, D. L.
+.N
+CA601002 JB March 20, 1978  8:37 PM
+.X
+146	5	146
+146	5	146
+146	5	146
+.I 147
+.T
+Report on a Conference of University Computing Center Directors
+.B
+CACM October, 1960
+.N
+CA601001 JB March 20, 1978  8:38 PM
+.X
+147	5	147
+147	5	147
+147	5	147
+.I 148
+.T
+Digital Computers in Universities-III
+.B
+CACM September, 1960
+.A
+Reeves, R. F.
+.N
+CA600909 JB March 20, 1978  8:41 PM
+.X
+148	5	148
+148	5	148
+148	5	148
+.I 149
+.T
+A Decision Rule for Improved Efficiency in Solving
+Linear Programming Problems with the Simplex 
+Algorithm
+.B
+CACM September, 1960
+.A
+Dickson, J. C.
+Frederick, F. P.
+.N
+CA600908 JB March 20, 1978  8:43 PM
+.X
+149	5	149
+149	5	149
+149	5	149
+.I 150
+.T
+Rational Interpolation by Continued Fractions (Algorithm 18)
+.B
+CACM September, 1960
+.A
+Floyd, R. W.
+.N
+CA600907 JB March 20, 1978  8:44 PM
+.X
+150	5	150
+150	5	150
+150	5	150
+.I 151
+.T
+TRDIAG (Algorithm 17)
+.B
+CACM September, 1960
+.A
+Sprague III, C. D.
+.N
+CA600906 JB March 20, 1978  8:45 PM
+.X
+151	5	151
+151	5	151
+151	5	151
+.I 152
+.T
+CROUT With Pivoting (Algorithm 16)
+.B
+CACM September, 1960
+.A
+Forsythe, G. E.
+.N
+CA600905 JB March 20, 1978  8:47 PM
+.X
+140	5	152
+152	5	152
+152	5	152
+152	5	152
+1319	5	152
+454	5	152
+152	6	152
+152	6	152
+152	6	152
+196	6	152
+1128	6	152
+586	6	152
+.I 153
+.T
+Comments from a FORTRAN User
+.B
+CACM September, 1960
+.A
+Blatt, J. M.
+.N
+CA600904 JB March 20, 1978  8:48 PM
+.X
+153	5	153
+153	5	153
+153	5	153
+754	5	153
+153	6	153
+.I 154
+.T
+Rapidly Convergent Expressions for Evaluating e^x
+.B
+CACM September, 1960
+.A
+Berin, A.
+.N
+CA600903 JB March 20, 1978  8:49 PM
+.X
+154	5	154
+154	5	154
+154	5	154
+.I 155
+.T
+Trie Memory
+.B
+CACM September, 1960
+.A
+Fredkin, E.
+.N
+CA600902 JB March 20, 1978  8:50 PM
+.X
+155	5	155
+155	5	155
+155	5	155
+944	5	155
+2846	5	155
+849	5	155
+155	6	155
+155	6	155
+155	6	155
+615	6	155
+.I 156
+.T
+An Introductory Problem in Symbol Manipulation for the Student
+.B
+CACM September, 1960
+.A
+Rosin, R. F.
+.N
+CA600901 JB March 20, 1978  8:51 PM
+.X
+156	5	156
+156	5	156
+156	5	156
+.I 157
+.T
+Digital Computers in Universities -II
+.B
+CACM August, 1960
+.A
+Reeves, R. F.
+.N
+CA600809 JB March 20, 1978  8:54 PM
+.X
+157	5	157
+157	5	157
+157	5	157
+.I 158
+.T
+ROOTFINDER II (Algorithm 15)
+.B
+CACM August, 1960
+.A
+Thacher Jr., H. C.
+.N
+CA600808 JB March 20, 1978  8:55 PM
+.X
+158	5	158
+158	5	158
+158	5	158
+.I 159
+.T
+ROOTFINDER (Algorithm 2)
+.B
+CACM August, 1960
+.A
+Thacher Jr., H. C.
+.N
+CA600807 JB March 20, 1978  8:56 PM
+.X
+159	5	159
+159	5	159
+159	5	159
+.I 160
+.T
+ROOTFINDER II (Algorithm 15)
+.B
+CACM August, 1960
+.A
+Thacher Jr., H. C.
+.N
+CA600806 JB March 20, 1978  8:57 PM
+.X
+160	5	160
+160	5	160
+160	5	160
+.I 161
+.T
+Abbreviating Words Systematically (Corrigendum)
+.B
+CACM August, 1960
+.A
+Barrett, J. A.
+Grems, M.
+.N
+CA600805 JB March 20, 1978  8:58 PM
+.X
+161	5	161
+161	5	161
+161	5	161
+.I 162
+.T
+A Variant Technique for Counting Ones
+.B
+CACM August, 1960
+.A
+Frieden, H.
+.N
+CA600804 JB March 20, 1978  9:00 PM
+.X
+142	5	162
+162	5	162
+162	5	162
+162	5	162
+2952	5	162
+142	6	162
+162	6	162
+162	6	162
+163	6	162
+163	6	162
+192	6	162
+192	6	162
+2185	6	162
+2727	6	162
+.I 163
+.T
+Counting Ones on the IBM 7090 
+.B
+CACM August, 1960
+.A
+Kutler, S. S.
+.N
+CA600803 JB March 20, 1978  9:01 PM
+.X
+142	5	163
+163	5	163
+163	5	163
+163	5	163
+2952	5	163
+142	6	163
+162	6	163
+162	6	163
+163	6	163
+163	6	163
+192	6	163
+192	6	163
+2185	6	163
+2727	6	163
+.I 164
+.T
+A Short Study of Notation Efficiency
+.B
+CACM August, 1960
+.A
+Smith Jr., H. J.
+.N
+CA600802 JB March 20, 1978  9:02 PM
+.X
+205	4	164
+210	4	164
+214	4	164
+1982	4	164
+398	4	164
+642	4	164
+669	4	164
+100	4	164
+123	4	164
+164	4	164
+164	5	164
+164	5	164
+164	5	164
+1	5	164
+.I 165
+.T
+NELIAC-A Dialect of ALGOL
+.B
+CACM August, 1960
+.A
+Huskey, H. D.
+Halstead, M. H.
+.N
+CA600801 JB March 20, 1978  9:03 PM
+.X
+123	5	165
+165	5	165
+165	5	165
+165	5	165
+637	5	165
+1	6	165
+123	6	165
+165	6	165
+165	6	165
+196	6	165
+.I 166
+.T
+Programming Compatibility in a Family
+of Closely Related Digital Computers
+.B
+CACM July, 1960
+.A
+Luebbert, W. F.
+.N
+CA600707 JB March 20, 1978  9:14 PM
+.X
+166	5	166
+166	5	166
+166	5	166
+.I 167
+.T
+Combining ALGOL Statement Analysis with Validity Checking
+.B
+CACM July, 1960
+.A
+McIsaac, P.
+.N
+CA600706 JB March 20, 1978  9:15 PM
+.X
+167	5	167
+167	5	167
+167	5	167
+.I 168
+.T
+Multiprogram Scheduling Parts 3 and 4 Scheduling
+Algorithm and External Constraints
+.B
+CACM July, 1960
+.A
+Codd, E. F.
+.N
+CA600705 JB March 20, 1978  9:16 PM
+.X
+491	4	168
+168	4	168
+168	5	168
+168	5	168
+168	5	168
+1713	5	168
+1901	5	168
+491	5	168
+46	5	168
+168	6	168
+168	6	168
+168	6	168
+185	6	168
+185	6	168
+185	6	168
+196	6	168
+1751	6	168
+1754	6	168
+46	6	168
+.I 169
+.T
+The Multilingual Terminology Project
+.B
+CACM July, 1960
+.A
+Holmstrom, J. E.
+.N
+CA600704 JB March 20, 1978  9:17 PM
+.X
+169	5	169
+169	5	169
+169	5	169
+.I 170
+.T
+Some Thoughts on Reconciling Various Character Set Proposals
+.B
+CACM July, 1960
+.A
+Voorhees, E. A.
+.N
+CA600703 JB March 20, 1978  9:18 PM
+.X
+170	5	170
+170	5	170
+170	5	170
+.I 171
+.T
+Digital Computers in Universities (Part I) 
+.B
+CACM July, 1960
+.A
+Reeves, R. F.
+.N
+CA600702 JB March 20, 1978  9:20 PM
+.X
+171	5	171
+171	5	171
+171	5	171
+.I 172
+.T
+Complex Exponential Integral (Algorithm 13)
+.B
+CACM July, 1960
+.A
+Beam, A.
+.N
+CA600701 JB March 20, 1978  9:21 PM
+.X
+172	5	172
+172	5	172
+172	5	172
+.I 173
+.T
+ATLAS a new concept in large computer design
+.B
+CACM June, 1960
+.N
+CA600617 JB March 20, 1978  9:22 PM
+.X
+173	5	173
+173	5	173
+173	5	173
+.I 174
+.T
+Interval Estimation of the Time in One State
+to Total Time Ratio in a DoubleExponential Process
+.B
+CACM June, 1960
+.A
+Neal, W. R.
+.N
+CA600616 JB March 20, 1978  9:24 PM
+.X
+174	5	174
+174	5	174
+174	5	174
+.I 175
+.T
+The Solution of Simultaneous Ordinary Differential
+Equations Using a General Purpose Digital 
+Computer
+.B
+CACM June, 1960
+.A
+Anderson, W. H.
+.N
+CA600615 JB March 20, 1978  9:25 PM
+.X
+120	5	175
+175	5	175
+175	5	175
+175	5	175
+175	6	175
+.I 176
+.T
+Symbol Manipulation by Threaded Lists (Corrigendum)
+.B
+CACM June, 1960
+.A
+Perlis, A. J.
+Thornton, C.
+.N
+CA600614 JB March 20, 1978  9:26 PM
+.X
+176	5	176
+176	5	176
+176	5	176
+.I 177
+.T
+Solution of Polynomial Equation by Bairstow
+Hitchcock Method, A. A. Grau Communications ACM, 
+February, 1960 (Algorithm)
+.B
+CACM June, 1960
+.A
+Thacher Jr., H. C.
+.N
+CA600613 JB March 20, 1978  9:31 PM
+.X
+177	5	177
+177	5	177
+177	5	177
+.I 178
+.T
+ROOTFINDER (Algorithm)
+.B
+CACM June, 1960
+.A
+Thacher Jr., H. C.
+.N
+CA600612 JB March 20, 1978  9:32 PM
+.X
+178	5	178
+178	5	178
+178	5	178
+1667	5	178
+178	6	178
+1242	6	178
+327	6	178
+.I 179
+.T
+Evaluation of the Legendre Polynomial Pn(X) by Recursion (Algorithm)
+.B
+CACM June, 1960
+.A
+Galler, G. M.
+.N
+CA600611 JB March 20, 1978  9:35 PM
+.X
+179	5	179
+179	5	179
+179	5	179
+.I 180
+.T
+Evaluation of the Laguerre Polynomial Ln(X) by Recursion (Algorithm)
+.B
+CACM June, 1960
+.A
+Galler, G. M.
+.N
+CA600610 JB March 20, 1978  9:36 PM
+.X
+180	5	180
+180	5	180
+180	5	180
+.I 181
+.T
+Evaluation of the Hermite Polynomial Hn(X) by Recursion (Algorithm)
+.B
+CACM June, 1960
+.A
+Galler, G. M.
+.N
+CA600609 JB March 20, 1978  9:37 PM
+.X
+181	5	181
+181	5	181
+181	5	181
+.I 182
+.T
+Evaluation of the Chebyshev Polynomial Tn(X) by Recursion (Algorithm) 
+.B
+CACM June, 1960
+.A
+Galler, G. M.
+.N
+CA600608 JB March 20, 1978  9:38 PM
+.X
+182	5	182
+182	5	182
+182	5	182
+.I 183
+.T
+Conversion Between Floating Point Representations
+.B
+CACM June, 1960
+.A
+Perry, C.
+.N
+CA600607 JB March 20, 1978  9:40 PM
+.X
+183	5	183
+183	5	183
+183	5	183
+.I 184
+.T
+A Short Method for Measuring Error in a Least-Squares Power Series
+.B
+CACM June, 1960
+.A
+Robinson, S. M.
+Struble, G. W.
+.N
+CA600606 JB March 20, 1978  9:41 PM
+.X
+184	5	184
+184	5	184
+184	5	184
+.I 185
+.T
+Multiprogram Scheduling Parts 1 and 2.  Introduction and Theory*
+.W
+In order to exploit fully a fast computer which
+possesses simultaneous processing abilities, 
+it should to a large extent schedule its own workload.
+ The scheduling routine must be capable of extremely 
+rapid execution if it is not to prove self-defeating.
+ The construction of a schedule entails determining 
+which programs are to be run concurrently and which sequentially
+with respect to each other.  A concise 
+scheduling algorithm is described which tends to minimize
+the time for executing the entire pending workload 
+(or any subset of it), subject to external constraints
+such as precedence, urgency, etc.  The algorithm 
+is applicable to a wide class of machines.
+.B
+CACM June, 1960
+.A
+Codd, E. F.
+.N
+CA600605 JB March 20, 1978  9:46 PM
+.X
+185	5	185
+185	5	185
+185	5	185
+1713	5	185
+1901	5	185
+491	5	185
+168	6	185
+168	6	185
+168	6	185
+185	6	185
+185	6	185
+185	6	185
+196	6	185
+1751	6	185
+1754	6	185
+46	6	185
+.I 186
+.T
+An Algorithm Defining ALGOL Assignment Statements (Addendum)
+.B
+CACM June, 1960
+.A
+Floyd, R. W.
+.N
+CA600604 JB March 20, 1978  9:47 PM
+.X
+186	5	186
+186	5	186
+186	5	186
+.I 187
+.T
+Compiling Connectives
+.B
+CACM June, 1960
+.A
+Swift, C. J.
+.N
+CA600603 JB March 20, 1978  9:54 PM
+.X
+187	5	187
+187	5	187
+187	5	187
+.I 188
+.T
+The Department of Computer Mathematics at Moscow State University
+.B
+CACM June, 1960
+.A
+Berezin, I. S.
+.N
+CA600602 JB March 20, 1978  9:56 PM
+.X
+188	5	188
+188	5	188
+188	5	188
+.I 189
+.T
+The Future of Automatic Digital Computers
+.B
+CACM June, 1960
+.A
+Booth, A. D.
+.N
+CA600601 JB March 20, 1978  9:57PM
+.X
+189	5	189
+189	5	189
+189	5	189
+.I 190
+.T
+Bendix G-20 System
+.B
+CACM May, 1960
+.N
+CA600507 JB March 22, 1978  1:28 PM
+.X
+190	5	190
+190	5	190
+190	5	190
+.I 191
+.T
+Abbreviating Words Systematically
+.B
+CACM May, 1960
+.A
+Barrett, J. A.
+Grems, M.
+.N
+CA600506 JB March 22, 1978  1:29 PM
+.X
+191	5	191
+191	5	191
+191	5	191
+.I 192
+.T
+A Technique for Counting Ones in a Binary Computer
+.B
+CACM May, 1960
+.A
+Wegner, P.
+.N
+CA600505 JB March 22, 1978  1:30 PM
+.X
+142	5	192
+192	5	192
+192	5	192
+192	5	192
+2952	5	192
+142	6	192
+162	6	192
+162	6	192
+163	6	192
+163	6	192
+192	6	192
+192	6	192
+2185	6	192
+2727	6	192
+.I 193
+.T
+A Start at Automatic Storage Assignment
+.B
+CACM May, 1960
+.A
+Patrick, R. L.
+.N
+CA600504 JB March 22, 1978  1:31 PM
+.X
+193	5	193
+193	5	193
+193	5	193
+.I 194
+.T
+Divisionless Computation of Square Roots Through Continued Squaring
+.B
+CACM May, 1960
+.A
+Sarafyan, D.
+.N
+CA600503 JB March 22, 1978  1:32 PM
+.X
+194	5	194
+194	5	194
+194	5	194
+.I 195
+.T
+What is a Code?
+.B
+CACM May, 1960
+.A
+Patterson, G. W.
+.N
+CA600502 JB March 22, 1978  1:33 PM
+.X
+195	5	195
+195	5	195
+195	5	195
+.I 196
+.T
+Report on the Algorithmic Language ALGOL 60
+.A
+Naur, P.
+Backus, J.
+.B
+CACM May, 1960
+.N
+CA600501 JB March 22, 1978  1:34 PM
+.X
+123	5	196
+140	5	196
+196	5	196
+196	5	196
+196	5	196
+919	5	196
+989	5	196
+1102	5	196
+1109	5	196
+1140	5	196
+1188	5	196
+1306	5	196
+249	5	196
+254	5	196
+272	5	196
+1464	5	196
+1491	5	196
+1767	5	196
+1781	5	196
+1787	5	196
+1949	5	196
+321	5	196
+2059	5	196
+2126	5	196
+2732	5	196
+435	5	196
+437	5	196
+463	5	196
+483	5	196
+491	5	196
+560	5	196
+583	5	196
+3073	5	196
+627	5	196
+631	5	196
+632	5	196
+642	5	196
+644	5	196
+653	5	196
+680	5	196
+761	5	196
+762	5	196
+763	5	196
+1	6	196
+1	6	196
+823	6	196
+106	6	196
+123	6	196
+152	6	196
+165	6	196
+168	6	196
+185	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+919	6	196
+946	6	196
+947	6	196
+990	6	196
+1007	6	196
+1046	6	196
+1131	6	196
+1139	6	196
+1140	6	196
+1140	6	196
+1141	6	196
+1149	6	196
+1198	6	196
+1215	6	196
+1215	6	196
+1223	6	196
+1265	6	196
+1303	6	196
+1303	6	196
+1323	6	196
+1358	6	196
+1366	6	196
+1421	6	196
+1460	6	196
+1462	6	196
+1463	6	196
+1467	6	196
+1467	6	196
+1468	6	196
+1468	6	196
+1477	6	196
+1491	6	196
+1491	6	196
+1496	6	196
+1496	6	196
+1496	6	196
+1531	6	196
+1535	6	196
+1565	6	196
+1601	6	196
+1602	6	196
+1613	6	196
+1614	6	196
+1614	6	196
+1626	6	196
+1641	6	196
+1693	6	196
+1781	6	196
+1787	6	196
+1788	6	196
+205	6	196
+206	6	196
+207	6	196
+209	6	196
+210	6	196
+210	6	196
+1834	6	196
+224	6	196
+224	6	196
+224	6	196
+249	6	196
+249	6	196
+271	6	196
+288	6	196
+288	6	196
+303	6	196
+316	6	196
+321	6	196
+381	6	196
+387	6	196
+398	6	196
+11	6	196
+46	6	196
+51	6	196
+2732	6	196
+400	6	196
+401	6	196
+402	6	196
+404	6	196
+404	6	196
+404	6	196
+404	6	196
+404	6	196
+404	6	196
+404	6	196
+406	6	196
+410	6	196
+412	6	196
+463	6	196
+463	6	196
+464	6	196
+483	6	196
+483	6	196
+483	6	196
+3184	6	196
+3184	6	196
+3184	6	196
+3184	6	196
+3184	6	196
+3188	6	196
+584	6	196
+600	6	196
+615	6	196
+631	6	196
+642	6	196
+680	6	196
+691	6	196
+729	6	196
+763	6	196
+763	6	196
+799	6	196
+799	6	196
+799	6	196
+.I 197
+.T
+An Imaginary Number System
+.B
+CACM April, 1960
+.A
+Knuth, D. E.
+.N
+CA600414 JB March 22, 1978  1:35 PM
+.X
+197	5	197
+197	5	197
+197	5	197
+.I 198
+.T
+A High-Speed Multiplication Process for Digital Computers
+.B
+CACM April, 1960
+.A
+Gurzi, F.
+.N
+CA600413 JB March 22, 1978  1:36 PM
+.X
+198	5	198
+198	5	198
+198	5	198
+.I 199
+.T
+Euclidian Algorithm (Algorithm 7)
+.B
+CACM April, 1960
+.A
+Claussen, R.
+.N
+CA600412 JB March 22, 1978  1:37 PM
+.X
+199	5	199
+199	5	199
+199	5	199
+.I 200
+.T
+Bessel Function I, Asymptotic Expansion (Algorithm 6)
+.B
+CACM April, 1960
+.A
+Clarke, D. S.
+.N
+CA600411 JB March 22, 1978  1:39 PM
+.X
+200	5	200
+200	5	200
+200	5	200
+.I 201
+.T
+Bessel Funtion I, Series Expansion (Algorithm 5)
+.B
+CACM April, 1960
+.A
+Clarke, D. S.
+.N
+CA600410 JB March 22, 1978  1:40 PM
+.X
+201	5	201
+201	5	201
+201	5	201
+.I 202
+.T
+A Control System For Logical Block Diagnosis With Data Loading
+.W
+This paper describes a section of an integrated
+diagnostic monitor system which facilitates 
+the checking of sections of instructions or subroutines
+anywhere in the object program.  A new method 
+of specifying all diagnostic operations in a format similar
+to a computer program makes the system convenient 
+to use and relatively simple to understand.  The paper
+also describes a number of other novel diagnostic 
+features which can be included in the system.
+.B
+CACM April, 1960
+.A
+Senko, M. E.
+.N
+CA600409 JB March 22, 1978 1:45 PM
+.X
+931	5	202
+202	5	202
+202	5	202
+202	5	202
+202	6	202
+396	6	202
+634	6	202
+.I 203
+.T
+Decoding Combinations of the First n Integers Taken k at a Time
+.B
+CACM April, 1960
+.A
+Brown, R. M.
+.N
+CA600408 JB March 22, 1978  1:46 PM
+.X
+203	5	203
+203	5	203
+203	5	203
+2690	5	203
+203	6	203
+579	6	203
+.I 204
+.T
+Proving Theorems by Pattern Recognition I
+.B
+CACM April, 1960
+.A
+Wang, H.
+.N
+CA600407 JB March 22, 1978  1:47 PM
+.X
+204	4	204
+204	5	204
+204	5	204
+204	5	204
+3194	5	204
+.I 205
+.T
+Macro Instruction Extensions of Compiler Languages
+.W
+Macroinstruction compilers constructed from
+a small set of functions can be made extremely 
+powerful.  In particular, conditional assembly, nested
+definitions, and parenthetical notation serve 
+to make a compiler capable of accepting very
+general extensions to its ground language.
+.B
+CACM April, 1960
+.A
+McIlroy, M. D.
+.N
+CA600406 JB March 22, 1978  1:49 PM
+.X
+205	4	205
+205	4	205
+210	4	205
+214	4	205
+1982	4	205
+398	4	205
+642	4	205
+669	4	205
+100	4	205
+123	4	205
+164	4	205
+1	5	205
+205	5	205
+205	5	205
+205	5	205
+1358	5	205
+1565	5	205
+1781	5	205
+1788	5	205
+43	5	205
+123	6	205
+196	6	205
+919	6	205
+990	6	205
+1006	6	205
+1007	6	205
+1007	6	205
+1046	6	205
+1131	6	205
+1139	6	205
+1140	6	205
+1149	6	205
+1162	6	205
+1198	6	205
+1215	6	205
+1223	6	205
+1265	6	205
+1303	6	205
+1323	6	205
+1358	6	205
+1358	6	205
+1366	6	205
+1421	6	205
+1455	6	205
+1460	6	205
+1460	6	205
+1462	6	205
+1463	6	205
+1467	6	205
+1468	6	205
+1477	6	205
+1491	6	205
+1496	6	205
+1531	6	205
+1535	6	205
+1565	6	205
+1601	6	205
+1602	6	205
+1613	6	205
+1614	6	205
+1626	6	205
+1641	6	205
+1787	6	205
+1788	6	205
+205	6	205
+205	6	205
+205	6	205
+205	6	205
+224	6	205
+249	6	205
+288	6	205
+316	6	205
+381	6	205
+398	6	205
+11	6	205
+404	6	205
+410	6	205
+463	6	205
+464	6	205
+483	6	205
+3184	6	205
+3184	6	205
+3188	6	205
+3189	6	205
+584	6	205
+600	6	205
+680	6	205
+691	6	205
+729	6	205
+763	6	205
+799	6	205
+799	6	205
+.I 206
+.T
+Symbol Manipulation in XTRAN
+.B
+CACM April, 1960
+.A
+Green, J.
+.N
+CA600405 JB March 22, 1978  1:50 PM
+.X
+206	4	206
+207	4	206
+206	5	206
+206	5	206
+206	5	206
+64	5	206
+644	5	206
+196	6	206
+206	6	206
+207	6	206
+.I 207
+.T
+Syntactic and Semantic Augments to ALGOL
+.B
+CACM April, 1960
+.A
+Smith, J. W.
+.N
+CA600404 JB March 22, 1978  1:54 PM
+.X
+206	4	207
+207	4	207
+207	5	207
+207	5	207
+207	5	207
+64	5	207
+644	5	207
+196	6	207
+206	6	207
+207	6	207
+.I 208
+.T
+An Introduction to Information Processing Language V
+.B
+CACM April, 1960
+.A
+Newell, A.
+Tonge, F. M.
+.N
+CA600403 JB March 22, 1978  1:55 PM
+.X
+208	5	208
+208	5	208
+208	5	208
+378	5	208
+208	6	208
+209	6	208
+210	6	208
+.I 209
+.T
+Symbol Manipulation by Threaded Lists
+.B
+CACM April, 1960
+.A
+Perlis, A. J.
+Thornton, C.
+.N
+CA600402 JB March 22, 1978  1:56 PM
+.X
+1050	5	209
+1102	5	209
+209	5	209
+209	5	209
+209	5	209
+378	5	209
+3008	5	209
+731	5	209
+798	5	209
+849	6	209
+106	6	209
+196	6	209
+208	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+210	6	209
+210	6	209
+367	6	209
+406	6	209
+483	6	209
+627	6	209
+627	6	209
+.I 210
+.T
+Recursive Functions of Symbolic Expressions
+and Their Computation by Machine, Part I
+.B
+CACM April, 1960
+.A
+McCarthy, J.
+.N
+CA600401 JB March 22, 1978  1:57 PM
+.X
+205	4	210
+210	4	210
+214	4	210
+1982	4	210
+398	4	210
+642	4	210
+669	4	210
+100	4	210
+123	4	210
+164	4	210
+106	5	210
+1	5	210
+1024	5	210
+1051	5	210
+1102	5	210
+1132	5	210
+210	5	210
+210	5	210
+210	5	210
+1390	5	210
+1486	5	210
+1549	5	210
+1706	5	210
+1826	5	210
+1878	5	210
+378	5	210
+2060	5	210
+2155	5	210
+2168	5	210
+2719	5	210
+2723	5	210
+2838	5	210
+2842	5	210
+2855	5	210
+2879	5	210
+3077	5	210
+3080	5	210
+3106	5	210
+627	5	210
+106	6	210
+106	6	210
+196	6	210
+196	6	210
+1051	6	210
+1180	6	210
+1303	6	210
+1380	6	210
+1389	6	210
+1421	6	210
+1469	6	210
+1477	6	210
+1491	6	210
+1549	6	210
+1549	6	210
+1549	6	210
+1626	6	210
+1626	6	210
+1626	6	210
+1749	6	210
+208	6	210
+209	6	210
+209	6	210
+1826	6	210
+1826	6	210
+1826	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+210	6	210
+1834	6	210
+1869	6	210
+1878	6	210
+1972	6	210
+1972	6	210
+378	6	210
+378	6	210
+2046	6	210
+2060	6	210
+2060	6	210
+2060	6	210
+2110	6	210
+2148	6	210
+2151	6	210
+2167	6	210
+2192	6	210
+2210	6	210
+2457	6	210
+2513	6	210
+2645	6	210
+2651	6	210
+2657	6	210
+2665	6	210
+2723	6	210
+2766	6	210
+2766	6	210
+2833	6	210
+2850	6	210
+2855	6	210
+2954	6	210
+2998	6	210
+2998	6	210
+406	6	210
+406	6	210
+406	6	210
+483	6	210
+3184	6	210
+3184	6	210
+627	6	210
+627	6	210
+731	6	210
+731	6	210
+731	6	210
+731	6	210
+731	6	210
+731	6	210
+753	6	210
+793	6	210
+794	6	210
+.I 211
+.T
+Share Standard Flow Chart Symbols
+.B
+CACM March, 1960
+.A
+Grems, M.
+.N
+CA600307 JB March 22, 1978  1:58 PM
+.X
+211	5	211
+211	5	211
+211	5	211
+.I 212
+.T
+Bisection Routine (Algorithm 4)
+.B
+CACM March, 1960
+.A
+Gorn,S.
+.N
+CA600306 JB March 22, 1978  1:59 PM
+.X
+212	5	212
+212	5	212
+212	5	212
+.I 213
+.T
+Numerical Inversion of Laplace Transforms
+.B
+CACM March, 1960
+.A
+Schmittroth, L. A.
+.N
+CA600305 JB March 22, 1978  2:00 PM
+.X
+213	5	213
+213	5	213
+213	5	213
+.I 214
+.T
+An Algorithm Defining ALGOL Assignment Statements
+.B
+CACM March, 1960
+.A
+Floyd, R. W.
+.N
+CA600304 JB March 22, 1978  2:01 PM
+.X
+205	4	214
+210	4	214
+214	4	214
+214	4	214
+214	4	214
+1593	4	214
+1982	4	214
+398	4	214
+642	4	214
+669	4	214
+100	4	214
+123	4	214
+164	4	214
+1	5	214
+214	5	214
+214	5	214
+214	5	214
+53	5	214
+91	5	214
+.I 215
+.T
+The Execute Operations-A Fourth Mode of Instruction Sequencing
+.B
+CACM March, 1960
+.A
+Brooks, F. P.
+.N
+CA600303 JB March 22, 1978  2:02 PM
+.X
+215	4	215
+215	5	215
+215	5	215
+215	5	215
+58	5	215
+.I 216
+.T
+A Note on the Use of the Abacus in Number Conversion
+.B
+CACM March, 1960
+.A
+Kanner, H.
+.N
+CA600302 JB March 22, 1978  2:03 PM
+.X
+216	5	216
+216	5	216
+216	5	216
+.I 217
+.T
+Soviet Computer Technology-1959
+.B
+CACM March, 1960
+.N
+CA600301 JB March 22, 1978 2:04 PM
+.X
+217	5	217
+217	5	217
+217	5	217
+323	5	217
+689	5	217
+217	6	217
+217	6	217
+323	6	217
+3197	6	217
+.I 218
+.T
+Computer Preparation of a Poetry Concordance
+.B
+CACM February, 1960
+.A
+Painter, J. A.
+.N
+CA600214 JB March 22, 1978  2:05 PM
+.X
+218	5	218
+218	5	218
+218	5	218
+.I 219
+.T
+Marriage-with Problems
+.B
+CACM February, 1960
+.A
+Shuchter, J. P.
+.N
+CA600213 JB March 22, 1978  2:06 PM
+.X
+219	5	219
+219	5	219
+219	5	219
+.I 220
+.T
+A New Method of Computation of Square Roots Without Using Division
+.B
+CACM February, 1960
+.A
+Traub, J. F.
+.N
+CA600212 JB March 22, 1978  2:08 PM
+.X
+220	5	220
+220	5	220
+220	5	220
+.I 221
+.T
+The Basic Side of Tape Labeling
+.B
+CACM February, 1960
+.A
+Logan, W. A.
+.N
+CA600211 JB March 22, 1978  2:09 PM
+.X
+121	5	221
+221	5	221
+221	5	221
+221	5	221
+221	6	221
+.I 222
+.T
+Coding Isomorphisms
+.W
+The coding of external symbols into symbols
+internal to a compute can sometimes be carried 
+out in such a way that relevant informational properties
+are preserved, but in a form much more easily 
+dealt with.  A case in point is presented.
+.B
+CACM February, 1960
+.A
+Lynch, W. C.
+.N
+CA600210 JB March 22, 1978  2:12 PM
+.X
+222	4	222
+222	4	222
+364	4	222
+799	4	222
+222	5	222
+222	5	222
+222	5	222
+44	5	222
+82	5	222
+.I 223
+.T
+Selfcipher: Programming
+.B
+CACM February, 1960
+.A
+Pelta, H. N.
+.N
+CA600209 JB March 22, 1978  2:13 PM
+.X
+223	5	223
+223	5	223
+223	5	223
+.I 224
+.T
+Sequential Formula Translation
+.W
+The syntax of an algorithmic language such
+as ALGOL is conveniently described as a sequence 
+of states indicated by an element called cellar.  Transitions
+are controlled by admissible state-symbol 
+pairs which may be represented by a transition matrix.
+This description of syntax furnishes at the same 
+time an extremely simple rule for translating into machine
+programs statements in the algorithmic language. 
+ Sequential treatment, however, is not feasible in the case
+of certain optimizing processes such as recursive 
+address calculation.
+.B
+CACM February, 1960
+.A
+Samelson, K.
+Bauer, F. L.
+.N
+CA600208 JB March 22, 1978  2:17 PM
+.X
+224	4	224
+364	4	224
+1139	5	224
+1141	5	224
+1215	5	224
+1223	5	224
+224	5	224
+224	5	224
+224	5	224
+267	5	224
+1647	5	224
+1781	5	224
+1787	5	224
+1792	5	224
+364	5	224
+405	5	224
+438	5	224
+98	5	224
+763	5	224
+100	6	224
+123	6	224
+196	6	224
+196	6	224
+196	6	224
+919	6	224
+990	6	224
+1007	6	224
+1025	6	224
+1046	6	224
+1131	6	224
+1139	6	224
+1140	6	224
+1141	6	224
+1149	6	224
+1179	6	224
+1198	6	224
+1215	6	224
+1215	6	224
+1223	6	224
+1265	6	224
+1303	6	224
+1323	6	224
+1358	6	224
+1366	6	224
+1421	6	224
+1460	6	224
+1462	6	224
+1463	6	224
+1467	6	224
+1468	6	224
+1477	6	224
+1491	6	224
+1491	6	224
+1496	6	224
+1496	6	224
+1531	6	224
+1535	6	224
+1565	6	224
+1601	6	224
+1602	6	224
+1605	6	224
+1613	6	224
+1614	6	224
+1626	6	224
+1641	6	224
+1781	6	224
+1787	6	224
+1788	6	224
+205	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+224	6	224
+249	6	224
+249	6	224
+288	6	224
+303	6	224
+316	6	224
+381	6	224
+398	6	224
+399	6	224
+11	6	224
+44	6	224
+55	6	224
+77	6	224
+77	6	224
+77	6	224
+77	6	224
+93	6	224
+98	6	224
+404	6	224
+404	6	224
+404	6	224
+405	6	224
+410	6	224
+412	6	224
+438	6	224
+463	6	224
+464	6	224
+464	6	224
+483	6	224
+3184	6	224
+3188	6	224
+584	6	224
+600	6	224
+631	6	224
+631	6	224
+680	6	224
+691	6	224
+763	6	224
+763	6	224
+763	6	224
+799	6	224
+799	6	224
+.I 225
+.T
+A Techniquefor Handling Macro Instructions (Corrigendum)
+.B
+CACM February, 1960
+.A
+Greenwald, I. D.
+.N
+CA600207 JB March 22, 1978  2:18 PM
+.X
+225	5	225
+225	5	225
+225	5	225
+.I 226
+.T
+Solution of Polynomial Equation by
+Bairstow-Hitchcock Method (Algorithm 3)
+.B
+CACM February, 1960
+.A
+Grau, A. A.
+.N
+CA600206 JB March 22, 1978  2:20 PM
+.X
+226	5	226
+226	5	226
+226	5	226
+.I 227
+.T
+ROOTFINDER (Algorithm 2)
+.B
+CACM February, 1960
+.A
+Wegstein, J.
+.N
+CA600205 JB March 22, 1978  2:20 PM
+.X
+227	5	227
+227	5	227
+227	5	227
+.I 228
+.T
+QUADI (Algorithm 1)
+.B
+CACM February, 1960
+.A
+Herbold, R. J.
+.N
+CA600204 JB March 22, 1978  2:21 PM
+.X
+228	5	228
+228	5	228
+228	5	228
+.I 229
+.T
+A Terminology Proposal
+.B
+CACM February, 1960
+.A
+Gruenberger, F.
+.N
+CA600203 JB March 22, 1978  2:24 PM
+.X
+229	5	229
+229	5	229
+229	5	229
+.I 230
+.T
+A Proposal for Character Code Compatibility
+.B
+CACM February, 1960
+.A
+Bemer, R. W.
+.N
+CA600202 JB March 22, 1978  2:25 PM
+.X
+230	5	230
+230	5	230
+230	5	230
+333	5	230
+230	6	230
+.I 231
+.T
+A Proposal for a Set of Publication Standards for Use by the ACM
+.B
+CACM February, 1960
+.A
+Kent, E. R.
+.N
+CA600201 JB March 22, 1978  2:26 PM
+.X
+231	5	231
+231	5	231
+231	5	231
+.I 232
+.T
+A High-Speed Sorting Procedure
+.B
+CACM January, 1960
+.A
+Frank, R. M.
+Lazarus, R. B.
+.N
+CA600104 JB March 22, 1978  2:27 PM
+.X
+232	5	232
+232	5	232
+232	5	232
+852	5	232
+864	5	232
+232	6	232
+232	6	232
+309	6	232
+74	6	232
+74	6	232
+.I 233
+.T
+Abstracts-Additional Nuclear Reactor Codes
+.B
+CACM January, 1960
+.A
+Nather, V.
+Sangren, W.
+.N
+CA600103 JB March 22, 1978  2:29 PM
+.X
+233	5	233
+233	5	233
+233	5	233
+.I 234
+.T
+A SAP-Like Assembly Program for the IBM 650
+.B
+CACM January, 1960
+.A
+Speckhard, A. E.
+.N
+CA600102JB March 22, 1978  2:30 PM
+.X
+234	5	234
+234	5	234
+234	5	234
+.I 235
+.T
+Two Think Pieces
+.B
+CACM January, 1960
+.A
+Bagley, P. R.
+.N
+CA600101 JB March 22, 1978  2:30 PM
+.X
+235	5	235
+235	5	235
+235	5	235
+.I 236
+.T
+Soviet Cybernetics and Computer
+.W
+This article records observations on Soviet
+research and technology in cybernetics and computer 
+science, made by the author during a visit to the Soviet
+Union as a delegate to the IFAC Congress on 
+Automatic Control held in Moscow in the summer of 1960.
+.B
+CACM December, 1961
+.A
+Feigenbaum, E. A.
+.N
+CA611214 JB March 15, 1978  10:06 PM
+.X
+1349	5	236
+236	5	236
+236	5	236
+236	5	236
+236	6	236
+323	6	236
+83	6	236
+415	6	236
+.I 237
+.T
+Computer Production of Peek-A-Boo Sheets
+.B
+CACM December, 1961
+.A
+Robbins, D.
+.N
+CA611213 JB March 15, 1978  10:07 PM
+.X
+237	5	237
+237	5	237
+237	5	237
+.I 238
+.T
+Simulation and Analysis of Biochemical Systems
+.B
+CACM December, 1961
+.A
+Garfinkel, D.
+Rutledge, J. D.
+Higgins, J. J.
+.N
+CA611212 JB March 15, 1978  10:09 PM
+.X
+238	4	238
+238	4	238
+633	4	238
+643	4	238
+238	5	238
+238	5	238
+238	5	238
+633	5	238
+643	5	238
+238	6	238
+238	6	238
+633	6	238
+643	6	238
+.I 239
+.T
+Inefficiency of the Use of Boolean Functions
+for Information Retrieval Systems
+.B
+CACM December, 1961
+.A
+Verhoeff, J.
+Goffman, W.
+Belzer, J.
+.N
+CA611211 JB March 15, 1978  10:10 PM
+.X
+239	5	239
+239	5	239
+239	5	239
+.I 240
+.T
+Processing Magnetic Tape Files with Variable Blocks
+.B
+CACM December, 1961
+.A
+Graham, J. W.
+Sprott, D. A.
+.N
+CA611210 JB March 15, 1978  10:11 PM
+.X
+240	5	240
+240	5	240
+240	5	240
+.I 241
+.T
+Machine Calculation of Moments of a Probability Distribution
+.W
+A method is presented for the calculation on a
+machine of the moments of a probability distribution, 
+necessitating little more than n additions and n references
+to memory for each moment, instead of the 
+minimum of n multiplication, 2n additions, and 2n references
+to memory required by the most straightforward 
+method (where n is the number of entries in the probability
+distribution).  The method is directly applicable 
+when a tabulated distribution exists, as when it has
+been computed by repeated convolution; but in this 
+case it conserves both time and accuracy.
+.B
+CACM December, 1961
+.A
+Lechner, J. A.
+.N
+CA611209 JB March 15, 1978  10:15 PM
+.X
+241	5	241
+241	5	241
+241	5	241
+.I 242
+.T
+Notes on Geometric Weighted Check Digit Verification
+.W
+This note describes a method for utilizing
+geometric weight modulus 11 checking digits on a 
+computer which does not have either multiplication or
+division.  In addition some attempt has been made 
+to show some limitations of this system.
+.B
+CACM December, 1961
+.A
+Wilson, J. G.
+.N
+CA611208 JB March 15, 1978  10:17 PM
+.X
+242	5	242
+242	5	242
+242	5	242
+.I 243
+.T
+N-Dimensional Codes for Detecting and Correcting Multiple Errors
+.W
+The paper introduces a new family of codes
+for detecting and correcting multiple errors in 
+a binary-coded message.  The message itself is arranged
+(conceptually) into a multidimensional rectangular 
+array.  The processes of encoding and error detection
+are based upon parity evaluations along prescribed 
+dimensions of the array.  Effectiveness of the codes
+is increased by introducing a "system check bit", 
+which is essentially a parity check on the other parity
+bits.  Only three-dimensional codes are discussed 
+in this paper with parity evaluations along the horizontal,
+the vertical, and one main diagonal.  However, 
+the family of codes is not restricted to three dimensions,
+as evidenced by the discussion by Minnick 
+and Ashenhurst on a similar multidimensional single-bit
+selection plan used for another purpose [6]. 
+ A four-dimensional code, correcting three and detecting
+four errors, has been developed; the extension 
+to higher-dimensional codes with greater correction power is straightforward.
+.B
+CACM December, 1961
+.A
+Rubinoff, M.
+.N
+CA611207 JB March 15, 1978  10:23 PM
+.X
+243	5	243
+243	5	243
+243	5	243
+.I 244
+.T
+Incomplete Elliptic Integrals (Algorithm 73)
+.B
+CACM December, 1961
+.A
+Kriebel, D. C.
+.N
+CA611206 JB March 15, 1978  10:24 PM
+.X
+244	5	244
+244	5	244
+244	5	244
+.I 245
+.T
+A Set of Associate Legendre Polynomials of the Second Kind (Algorithm 62)
+.B
+CACM December, 1961
+.A
+Herndon, J. R.
+.N
+CA611205 JB March 15, 1978  10:25 PM
+.X
+1222	5	245
+245	5	245
+245	5	245
+245	5	245
+1130	6	245
+245	6	245
+310	6	245
+.I 246
+.T
+Least-Squares Fit by Orthogonal Polynomials (Algorithm 28)
+.B
+CACM December, 1961
+.A
+MacMillan, D. B.
+.N
+CA611204 JB March 15, 1978  10:27 PM
+.X
+246	5	246
+246	5	246
+246	5	246
+.I 247
+.T
+Incomplete Elliptic Integrals (Algorithm 73)
+.B
+CACM December, 1961
+.A
+Jefferson, D. K.
+.N
+CA611203 JB March 15, 1978  10:27 PM
+.X
+247	5	247
+247	5	247
+247	5	247
+.I 248
+.T
+What is Proprietary In Mathematical Programming?-Impressions
+of a Panel Discussion
+.W
+A panel discussion on "What is Proprietary
+in Mathematical Programming?" was sponsored by the 
+Special Interest Committee on Mathematical Programming
+of the ACM during a Hall of Discussion/on September 
+7th at the 16th National ACM meeting in Los Angeles.  This
+note consists solely of the impressions garnered 
+by the moderator of the panel and does not necessarily
+represent the position of any of the panelists 
+or other participants in the discussion.
+.B
+CACM December, 1961
+.A
+Smith, L. W.
+.N
+CA611202 JB March 15, 1978  10:31 PM
+.X
+248	5	248
+248	5	248
+248	5	248
+.I 249
+.T
+Specification Languages for Mechanical Languages
+and Their Processors*-A Baker's Dozen
+.B
+CACM December, 1961
+.A
+Gorn, S.
+.N
+CA611201 JB March 15, 1978  10:32 PM
+.X
+249	4	249
+249	4	249
+249	4	249
+254	4	249
+272	4	249
+1102	4	249
+1109	4	249
+1140	4	249
+1188	4	249
+1306	4	249
+1464	4	249
+1491	4	249
+1767	4	249
+1781	4	249
+1787	4	249
+1949	4	249
+321	4	249
+2059	4	249
+2126	4	249
+435	4	249
+437	4	249
+438	4	249
+463	4	249
+483	4	249
+491	4	249
+2732	4	249
+560	4	249
+583	4	249
+3073	4	249
+3185	4	249
+627	4	249
+631	4	249
+632	4	249
+642	4	249
+644	4	249
+653	4	249
+680	4	249
+761	4	249
+762	4	249
+763	4	249
+123	4	249
+140	4	249
+919	4	249
+989	4	249
+196	5	249
+249	5	249
+249	5	249
+249	5	249
+1425	5	249
+1781	5	249
+303	5	249
+438	5	249
+51	5	249
+762	5	249
+123	6	249
+196	6	249
+196	6	249
+919	6	249
+990	6	249
+1007	6	249
+1046	6	249
+1131	6	249
+1139	6	249
+1140	6	249
+1149	6	249
+1198	6	249
+1215	6	249
+1223	6	249
+1265	6	249
+1303	6	249
+1323	6	249
+1358	6	249
+1366	6	249
+1421	6	249
+1460	6	249
+1462	6	249
+1463	6	249
+1467	6	249
+1468	6	249
+1477	6	249
+1491	6	249
+1496	6	249
+1531	6	249
+1535	6	249
+1565	6	249
+1601	6	249
+1602	6	249
+1613	6	249
+1614	6	249
+1626	6	249
+1641	6	249
+1787	6	249
+1788	6	249
+205	6	249
+224	6	249
+224	6	249
+249	6	249
+249	6	249
+249	6	249
+249	6	249
+288	6	249
+303	6	249
+316	6	249
+381	6	249
+398	6	249
+11	6	249
+77	6	249
+404	6	249
+410	6	249
+463	6	249
+464	6	249
+483	6	249
+483	6	249
+3184	6	249
+3188	6	249
+584	6	249
+600	6	249
+680	6	249
+691	6	249
+763	6	249
+799	6	249
+.I 250
+.T
+An Engineering Application of Logic-Structure Tables
+.B
+CACM November, 1961
+.A
+Nickerson, R. C.
+.N
+CA611118 JB March 15, 1978  10:34 PM
+.X
+250	4	250
+1237	4	250
+1237	5	250
+250	5	250
+250	5	250
+250	5	250
+320	5	250
+2220	5	250
+753	5	250
+1172	6	250
+1237	6	250
+1327	6	250
+1354	6	250
+1489	6	250
+1548	6	250
+250	6	250
+250	6	250
+250	6	250
+320	6	250
+753	6	250
+.I 251
+.T
+Ballistic Cam Design 
+.W
+This paper presents a digital computer program
+for the rapid calculation of manufacturing data 
+essential to the design of preproduction cams which
+are utilized in ballistic computers of tank fire 
+control systems.  The cam profile generated introduces
+the superelevation angle required by tank main 
+armament for a particular type ammunition.
+.B
+CACM November, 1961
+.A
+Archambault, M.
+.N
+CA611117 JB March 15, 1978  10:37 PM
+.X
+251	5	251
+251	5	251
+251	5	251
+.I 252
+.T
+Programming a Duplex Computer System
+.W
+This paper describes a method of duplex-computer
+programming that has been used with two computers 
+in a military defense system.  The method combines special
+programs with a basic data processing program 
+package.  The duplex operation gives the system greater
+reliability.  After achieving the required level 
+of integration, both computers do similar processing
+on the same inputs and continually cross-check the 
+intermediate and final results.
+.B
+CACM November, 1961
+.A
+Dow, J.
+.N
+CA611116 JB March 15, 1978  10:40 PM
+.X
+252	5	252
+252	5	252
+252	5	252
+.I 253
+.T
+On a Program for Ray-Chaudhuri's Algorithm
+for a Minimum Cover of an Abstract Complex
+.B
+CACM November, 1961
+.A
+Foata, D. C.
+.N
+CA611115 JB March 15, 1978  10:41 PM
+.X
+253	5	253
+253	5	253
+253	5	253
+.I 254
+.T
+SMALGOL-61
+.W
+Prior to and during the 1961 Western Joint
+Computer Conference, several people in the Joint 
+Users Groups had expressed interest in defining a "smalgol"
+language.  This is to be an ALGOL language 
+for use with compilers on relatively small size computers.
+ A preliminary report resulted.  At the ACM 
+National Conference four months later, after considering
+several counter proposals, a final version was 
+agreed upon by a subcommittee.  The recommendations
+of the Subcommittee for a standard subset of ALGOL 
+60 for use on small computers is presented here.
+.B
+CACM November, 1961
+.A
+Bachelork, G. A.
+Dempster, J. R. H.
+Knuth, D. E.
+Speroni, J.
+.N
+CA611114 JB March 15, 1978  10:44 PM
+.X
+249	4	254
+254	4	254
+254	4	254
+254	4	254
+272	4	254
+1102	4	254
+1109	4	254
+1140	4	254
+1188	4	254
+1234	4	254
+1306	4	254
+1464	4	254
+1491	4	254
+1767	4	254
+1781	4	254
+1787	4	254
+1949	4	254
+321	4	254
+2059	4	254
+2126	4	254
+435	4	254
+437	4	254
+463	4	254
+483	4	254
+491	4	254
+2732	4	254
+560	4	254
+583	4	254
+3073	4	254
+627	4	254
+631	4	254
+632	4	254
+642	4	254
+644	4	254
+653	4	254
+680	4	254
+761	4	254
+762	4	254
+763	4	254
+123	4	254
+140	4	254
+919	4	254
+989	4	254
+196	5	254
+254	5	254
+254	5	254
+254	5	254
+321	5	254
+387	5	254
+794	5	254
+254	6	254
+.I 255
+.T
+Augmentation (Algorithm 68)
+.B
+CACM November, 1961
+.A
+Breed, L. M.
+.N
+CA611113 JB March 15, 1978  10:45 PM
+.X
+255	5	255
+255	5	255
+255	5	255
+.I 256
+.T
+A Set of Test Matrices (Algorithm 52)
+.B
+CACM November, 1961
+.A
+Dubay, G. H.
+.N
+CA611112 JB March 15, 1978  10:46 PM
+.X
+256	5	256
+256	5	256
+256	5	256
+.I 257
+.T
+Invert (Algorithm 42)
+.B
+CACM November, 1961
+.A
+Knapp, A. W.
+Shaman, P.
+.N
+CA611111 JB March 15, 1978  10:47 PM
+.X
+257	5	257
+257	5	257
+257	5	257
+.I 258
+.T
+Composition Generator (Algorithm 72)
+.B
+CACM November, 1961
+.A
+Hellerman, O.
+Ogden, S.
+.N
+CA611110 JB March 15, 1978  10:48 PM
+.X
+258	5	258
+258	5	258
+258	5	258
+.I 259
+.T
+Permutation (Algorithm 71)
+.B
+CACM November, 1961
+.A
+Coveyou, R. R.
+Sullivan, J. G.
+.N
+CA611109 JB March 15, 1978  10:52 PM
+.X
+259	5	259
+259	5	259
+259	5	259
+.I 260
+.T
+Interpolation By Aitken (Algorithm 70)
+.B
+CACM November, 1961
+.A
+Mifsud, C. J.
+.N
+CA611108 JB March 15, 1978  10:53 PM
+.X
+260	5	260
+260	5	260
+260	5	260
+.I 261
+.T
+Tape Splitting
+.B
+CACM November, 1961
+.A
+Moore, D. P.
+.N
+CA611107 JB March 15, 1978  10:54 PM
+.X
+261	5	261
+261	5	261
+261	5	261
+.I 262
+.T
+MAP
+.B
+CACM November, 1961
+.A
+Moore, C. L.
+Ruwe, M. L.
+.N
+CA611106 JB March 15, 1978  10:54 PM
+.X
+262	5	262
+262	5	262
+262	5	262
+.I 263
+.T
+Library Loading with Alternate Routine Selection
+.B
+CACM November, 1961
+.A
+Moore, D. P.
+.N
+CA611105 JB March 15, 1978  10:55 PM
+.X
+263	5	263
+263	5	263
+263	5	263
+.I 264
+.T
+A Generalized Polyphase Merge Algorithm 
+.B
+CACM November, 1961
+.A
+Reynolds, S. W.
+.N
+CA611104 JB March 15, 1978  10:56 PM
+.X
+264	5	264
+264	5	264
+264	5	264
+479	5	264
+264	6	264
+299	6	264
+.I 265
+.T
+Low Level Language Subroutines for Use Within Fortran
+.W
+This paper describes some subroutines, coded
+in symbolic languages and for use within Fortran 
+coded programs, to deal with "special arithmetic" (e.g.
+multi-precision arithmetic), symbol manipulation, 
+bit manipulation and expanded character set input-output, and visual display.
+.B
+CACM November, 1961
+.A
+Barnett, M. P.
+.N
+CA611103 JB March 15, 1978  10:59 PM
+.X
+265	5	265
+265	5	265
+265	5	265
+464	5	265
+720	5	265
+265	6	265
+265	6	265
+404	6	265
+464	6	265
+474	6	265
+.I 266
+.T
+Fitting Spheres by the Method of Least Squares
+.B
+CACM November, 1961
+.A
+Robinson, S. M.
+.N
+CA611102 JB March 15, 1978  11:00 PM
+.X
+266	5	266
+266	5	266
+266	5	266
+.I 267
+.T
+Some Proposals for Improving the Efficiency of ALGOL 60
+.B
+CACM November, 1961
+.A
+Wilkes, M. V.
+.N
+CA611101 JB March 15,1978  11:01 PM
+.X
+267	4	267
+1139	4	267
+1141	4	267
+1215	4	267
+1223	4	267
+1647	4	267
+1781	4	267
+1787	4	267
+1792	4	267
+364	4	267
+405	4	267
+438	4	267
+763	4	267
+1323	5	267
+224	5	267
+267	5	267
+267	5	267
+267	5	267
+267	6	267
+3184	6	267
+799	6	267
+.I 268
+.T
+Stochastic Evaluation of a Static Storage Allocation
+.B
+CACM October, 1961
+.A
+Cohen, L. J.
+.N
+CA611013 JB March 16, 1978  12:48 PM
+.X
+268	5	268
+268	5	268
+268	5	268
+.I 269
+.T
+Core Allocation Based on Probability
+.B
+CACM October, 1961
+.A
+Riskin, B. N.
+.N
+CA611012 JB March 16, 1978  12:49 PM
+.X
+269	5	269
+269	5	269
+269	5	269
+.I 270
+.T
+Techniques for Storage Allocation Algorithms 
+.B
+CACM October, 1961
+.A
+Kelley Jr., J. E.
+.N
+CA611011 JB March 16, 1978  12:50 PM
+.X
+270	5	270
+270	5	270
+270	5	270
+678	5	270
+270	6	270
+.I 271
+.T
+A Semi-Automatic Storage Allocation System at Loading Time
+.B
+CACM October, 1961
+.A
+Heising, W. P.
+Larner, R. A.
+.N
+CA611010 JB March 16, 1978  12:51 PM
+.X
+972	5	271
+271	5	271
+271	5	271
+271	5	271
+1774	5	271
+560	5	271
+800	6	271
+196	6	271
+1173	6	271
+271	6	271
+271	6	271
+271	6	271
+273	6	271
+276	6	271
+.I 272
+.T
+A Storage Allocation Scheme for ALGOL 60
+.W
+A storage allocation scheme for a machine
+with a 2048 instruction core store and a magnetic 
+drum is described.  The use of the drum for storing
+program blocks and/or data must be directed by the 
+programmer through auxiliary information in the ALGOL
+program.  The administrative routines controlling 
+the storage at run time are described in full.  A detailed example is given.
+.B
+CACM October, 1961
+.A
+Jensen, J.
+Mondrup, P.
+Naur, P.
+.N
+CA611009 JB March 16, 1978  12:54 PM
+.X
+249	4	272
+254	4	272
+272	4	272
+1102	4	272
+1109	4	272
+1140	4	272
+1188	4	272
+1306	4	272
+1464	4	272
+1491	4	272
+1767	4	272
+1781	4	272
+1787	4	272
+1949	4	272
+321	4	272
+2059	4	272
+2126	4	272
+435	4	272
+437	4	272
+463	4	272
+483	4	272
+491	4	272
+2732	4	272
+560	4	272
+583	4	272
+3073	4	272
+627	4	272
+631	4	272
+632	4	272
+642	4	272
+644	4	272
+653	4	272
+680	4	272
+761	4	272
+762	4	272
+763	4	272
+123	4	272
+140	4	272
+919	4	272
+989	4	272
+196	5	272
+272	5	272
+272	5	272
+272	5	272
+.I 273
+.T
+Experience in Automatic Storage Allocation 
+.B
+CACM October, 1961
+.A
+Collins Jr., G. O.
+.N
+CA611008 JB March 16, 1978  12:55 PM
+.X
+972	5	273
+273	5	273
+273	5	273
+273	5	273
+2911	5	273
+1879	6	273
+271	6	273
+273	6	273
+273	6	273
+276	6	273
+2435	6	273
+2498	6	273
+2734	6	273
+2773	6	273
+2983	6	273
+.I 274
+.T
+Dynamic Storage Allocation in the Atlas Computer,
+Including an Automatic Use of a Backing Store
+.B
+CACM October, 1961
+.A
+Fotheringham, J.
+.N
+CA611007 JB March 16, 1978  12:57 PM
+.X
+274	5	274
+274	5	274
+274	5	274
+1754	5	274
+2358	5	274
+488	5	274
+1746	6	274
+1751	6	274
+1753	6	274
+274	6	274
+274	6	274
+274	6	274
+376	6	274
+.I 275
+.T
+Dynamic Storage Allocation for an Information Retrieval System
+.B
+CACM October, 1961
+.A
+Sams, B. H.
+.N
+CA611006 JB March 16, 1978  12:58 PM
+.X
+275	5	275
+275	5	275
+275	5	275
+.I 276
+.T
+Program Organization and Record Keeping for Dynamic Storage Allocation
+.W
+The material presented in this paper is part
+of the design plan of the core allocation portion 
+of the ASCII-MATIC Programming System.  Project ASCII-MATIC
+is concerned with the application of computer 
+techniques to the activities of certain headquarters
+military intelligence operations of the U.S. Army.
+.B
+CACM October, 1961
+.A
+Holt, A. W.
+.N
+CA611005 JB March 16, 1978  1:02 PM
+.X
+972	5	276
+276	5	276
+276	5	276
+276	5	276
+1471	5	276
+800	6	276
+271	6	276
+273	6	276
+276	6	276
+276	6	276
+.I 277
+.T
+Problems of Storage Allocation in
+a Multiprocessor Multiprogrammed System
+.B
+CACM October, 1961
+.A
+Maher, R. J.
+.N
+CA611004 JB March 16, 1978  1:12 PM
+.X
+277	5	277
+277	5	277
+277	5	277
+.I 278
+.T
+A General Formulation of storage Allocation
+.W
+Formalization of a general computer storage
+allocation process is attempted.  With a given 
+computer M is associated a fictitious computer M' essentially
+identical to M except in respect to possession 
+of unbounded primary storage.  Mappings of the total
+storage set (internal and external) of M into the 
+direct address set of M' are introduced.  A program
+sequence P for M' is termed M-admissible (relative 
+to a specific execution time period) if there is a mapping
+underwhich P and its effective data referents 
+are all located in the direct address set of M.  Storage
+allocation is considered as a process of establishing 
+for an arbitrary M' program  a sequence of mappings, a decoupling
+of the program into M-admissible subprograms 
+and a linking set of interludes.  An existence proof
+in terms of a completely interpretive M program 
+as indicated.  Some special cases are discussed.  Various
+restrictions on generality of M' programs are 
+considered under which more practical realization
+of allocation processes becomes tractable.
+.B
+CACM October, 1961
+.A
+Roberts Jr., A. E.
+.N
+CA611003 JB March 16, 1978  1:22 PM
+.X
+278	5	278
+278	5	278
+278	5	278
+.I 279
+.T
+The Case for Dynamic storage Allocation 
+.B
+CACM October, 1961
+.A
+Sams, B. H.
+.N
+CA611002 JB March 16, 1978  1:23 PM
+.X
+279	5	279
+279	5	279
+279	5	279
+657	5	279
+279	6	279
+409	6	279
+.I 280
+.T
+A Preplanned Approach to a Storage Allocating Compiler
+.B
+CACM October, 1961
+.A
+O'Neil, R. W.
+.N
+CA611001 JB March 16, 1978  1:24 PM
+.X
+280	5	280
+280	5	280
+280	5	280
+.I 281
+.T
+Putting a Hex on e^x
+.W
+Recent notes on approximate natural antilogy
+have not considered indirect formulations for 
+describing e^x.  In this note we produce a particular
+family of very fast, high precision and eminently 
+practical exponential evaluation formulas derived from one such formulation.
+.B
+CACM October, 1961
+.A
+Feurzeig, W.
+.N
+CA610913 JB March 16, 1978  1:27 PM
+.X
+281	5	281
+281	5	281
+281	5	281
+.I 282
+.T
+Optimum Tape-Writing Procedures
+.W
+Consider a magnetic tape system with a read
+check after writing.  Where an error occurs in 
+writing a record, a programmed error routine may either
+bypass some or all of the area on tape or try 
+to rewrite the record on the same area.  This paper evaluates
+these two procedures on the basis of expected 
+loss of computer time and develops a decision rule for
+selecting the optimum procedure.  The rule depends 
+critically on the number of times the tape being written
+will be used in the future.  In the case where 
+the optimum procedure is to bypass an area, a second
+decision-the size of the area to be bypassed-is 
+necessary.  A formula is developed to determine the
+optimum area to be bypassed for each procedure.
+.B
+CACM September, 1961
+.A
+Hutchinson, K.
+.N
+CA610912 JB March 16, 1978  1:32 PM
+.X
+282	5	282
+282	5	282
+282	5	282
+.I 283
+.T
+Inversion of a Complex Matrix
+.B
+CACM September, 1961
+.A
+Tornheim, L.
+.N
+CA610911 JB March 16, 1978  1:44 PM
+.X
+283	5	283
+283	5	283
+283	5	283
+.I 284
+.T
+Manipulation of Algebraic Expressions
+.W
+An algorithm for algebraically manipulating
+expressions of the form SUM{CiPi, i=1,...,n}; has 
+been developed in conjunction with the development of programs
+for systems analysis problems.  This algorithm 
+enablesus to derive over-all system transfer functions
+from algebraically described block diagrams of 
+any linear continuous multi-loop feedback system.  The
+machine representation of the derived expression, 
+is, by virtue of the algorithm, in a form which simplifies
+the task of compiling.  The algorithm was 
+developed for a particular purpose in connection with
+system analysis studies.  However, its application 
+as a mathematical device extends far beyond
+the confines of the original problem.
+.B
+CACM September, 1961
+.A
+Rom, A. R. M.
+.N
+CA610910 JB March 16, 1978  9:36 PM
+.X
+964	5	284
+1396	5	284
+284	5	284
+284	5	284
+284	5	284
+964	6	284
+1028	6	284
+1029	6	284
+1083	6	284
+1132	6	284
+1214	6	284
+1278	6	284
+1334	6	284
+1365	6	284
+1386	6	284
+1387	6	284
+1388	6	284
+1392	6	284
+1393	6	284
+1394	6	284
+1395	6	284
+1396	6	284
+1397	6	284
+1496	6	284
+284	6	284
+284	6	284
+407	6	284
+3199	6	284
+3200	6	284
+3201	6	284
+3202	6	284
+3203	6	284
+3204	6	284
+561	6	284
+561	6	284
+730	6	284
+759	6	284
+.I 285
+.T
+Solution of Tridiagonal Matrices
+.B
+CACM September, 1961
+.A
+Wenrick, R. C.
+Houghton, A. V.
+.N
+CA610909 JB March 16, 1978  9:39 PM
+.X
+285	5	285
+285	5	285
+285	5	285
+.I 286
+.T
+An Iterative Method for Inversion of Power Series
+.B
+CACM September, 1961
+.A
+Bramhall, J. N.
+.N
+CA610908 JB March 16, 1978  9:41 PM
+.X
+286	5	286
+286	5	286
+286	5	286
+.I 287
+.T
+The Generalized Important Event Technique
+.B
+CACM September, 1961
+.A
+Shapiro, N.
+Vreenegoor, H.
+.N
+CA610907 JB March 16, 1978  9:42 PM
+.X
+287	5	287
+287	5	287
+287	5	287
+.I 288
+.T
+A Syntactical Chart of ALGOL 60
+.B
+CACM September, 1961
+.A
+Taylor, W.
+Turner, L.
+Waychoff, R.
+.N
+CA610906JB March 16, 1978  9:43 PM
+.X
+989	5	288
+288	5	288
+288	5	288
+288	5	288
+1781	5	288
+729	5	288
+123	6	288
+196	6	288
+196	6	288
+919	6	288
+990	6	288
+1007	6	288
+1046	6	288
+1131	6	288
+1139	6	288
+1140	6	288
+1149	6	288
+1198	6	288
+1215	6	288
+1223	6	288
+1265	6	288
+1303	6	288
+1323	6	288
+1358	6	288
+1366	6	288
+1421	6	288
+1460	6	288
+1462	6	288
+1463	6	288
+1467	6	288
+1468	6	288
+1477	6	288
+1491	6	288
+1496	6	288
+1531	6	288
+1535	6	288
+1565	6	288
+1601	6	288
+1602	6	288
+1613	6	288
+1614	6	288
+1626	6	288
+1641	6	288
+1787	6	288
+1788	6	288
+205	6	288
+224	6	288
+249	6	288
+288	6	288
+288	6	288
+288	6	288
+316	6	288
+381	6	288
+398	6	288
+11	6	288
+404	6	288
+410	6	288
+463	6	288
+464	6	288
+483	6	288
+3184	6	288
+3184	6	288
+3188	6	288
+584	6	288
+600	6	288
+616	6	288
+680	6	288
+691	6	288
+763	6	288
+799	6	288
+.I 289
+.T
+Critical Path Scheduling (Algorithm 40)
+.B
+CACM September, 1961
+.A
+Alexander, N. P.
+.N
+CA610905 JB March 16, 1978  9:44 PM
+.X
+289	5	289
+289	5	289
+289	5	289
+.I 290
+.T
+Chain Tracing (Algorithm 69)
+.B
+CACM September, 1961
+.A
+Mayoh, B. H.
+.N
+CA610904 JB March 16, 1978  9:45 PM
+.X
+290	5	290
+290	5	290
+290	5	290
+.I 291
+.T
+Use of MOBOL in PreparingRetrieval Programs
+.B
+CACM September, 1961
+.A
+Hoffman, J.
+Opler, A.
+.N
+CA610903 JB March 16, 1978  9:50 PM
+.X
+291	5	291
+291	5	291
+291	5	291
+.I 292
+.T
+An Information Retrieval Language for Legal Studies
+.B
+CACM September, 1961
+.A
+Kehl, W. B.
+Horty, J. F.
+Bacon, C. R. T.
+Mitchell, D. S.
+.N
+CA610902 JB March 16, 1978  9:51 PM
+.X
+292	5	292
+292	5	292
+292	5	292
+.I 293
+.T
+The Applied Mathematics Laboratory of the David W. Taylor Model Basin
+.B
+CACM September, 1961
+.A
+Richstone, M.
+.N
+CA610901 JB March 16, 1978  10:01 PM
+.X
+293	5	293
+293	5	293
+293	5	293
+.I 294
+.T
+An Imaginary Number System
+.B
+CACM August, 1961
+.A
+Knuth, D.
+.N
+CA610810 JB March 16, 1978  10:02 PM
+.X
+294	5	294
+294	5	294
+294	5	294
+.I 295
+.T
+Rational Approximations for the Error Function and for Similar Functions
+.B
+CACM August, 1961
+.A
+Clendenin, W. W.
+.N
+CA610809 JB March 16, 1978  10:03 PM
+.X
+295	5	295
+295	5	295
+295	5	295
+.I 296
+.T
+A Note on Multiple Precision Arithmetic
+.B
+CACM August, 1961
+.A
+Cox, A. G.
+Luther, H. A.
+.N
+CA610808 JB March 16, 1978  10:04 PM
+.X
+1393	5	296
+296	5	296
+296	5	296
+296	5	296
+106	6	296
+296	6	296
+731	6	296
+.I 297
+.T
+A Note on Fitting Great Circles by Least Squares
+.B
+CACM August, 1961
+.A
+Marcus, C. F.
+.N
+CA610807 JB March 16, 1978  10:05 PM
+.X
+297	4	297
+122	5	297
+297	5	297
+297	5	297
+297	5	297
+.I 298
+.T
+A 48-Bit Pseudo-Random Number Generator
+.W
+A new 48-bit pseudo-random number generator, suitable
+for several computers, was tested statistically 
+for randomness to determine its adequacy for use in Monte
+Carlo programs.  Frequency tests, distributions 
+of certain low-order moments, runs up and down, and runs
+above and below the mean were applied to one-half 
+million generated numbers lying within the interval
+(0,1) and to three sets of integers obtained from 
+specified bits within the generated numbers.  These
+tests substantiated the randomness of all numbers 
+except for the set of integers coming from the least significant bits.
+.B
+CACM August, 1961
+.A
+Kuehn, H. G.
+.N
+CA610806 JB March 16, 1978  10:09 PM
+.X
+298	5	298
+298	5	298
+298	5	298
+.I 299
+.T
+A Generalized Polyphase Merge Algorithm
+.B
+CACM August, 1961
+.A
+Reynolds, S. W.
+.N
+CA610805 JB March 16, 1978  10:10 PM
+.X
+299	5	299
+299	5	299
+299	5	299
+2146	5	299
+479	5	299
+862	5	299
+863	5	299
+861	6	299
+862	6	299
+863	6	299
+264	6	299
+299	6	299
+299	6	299
+299	6	299
+299	6	299
+479	6	299
+.I 300
+.T
+COBOL: A Sample Problem
+.W
+A simplified Merchandise Control problem has
+been chosen for presenting COBOL to users and 
+potential users of computing systems.  A mythical department
+store, "E. Language Bros., Inc.", is programming 
+in the COBOL language one of the many runs on its computer.
+.B
+CACM August, 1961
+.A
+Mackinson, T. N.
+.N
+CA610804 JB March 16, 1978  10:12 PM
+.X
+300	5	300
+300	5	300
+300	5	300
+638	5	300
+300	6	300
+.I 301
+.T
+A Set of Test Matrices (Algorithm 52)
+.B
+CACM August, 1961
+.A
+Gilbert, H. E.
+.N
+CA610803 JB March 16, 1978  10:13 PM
+.X
+301	5	301
+301	5	301
+301	5	301
+.I 302
+.T
+Augmentation (Algorithm 68)
+.B
+CACM August, 1961
+.A
+Rice, H. G.
+.N
+CA610802 JB March 16, 1978  10:14 PM
+.X
+302	5	302
+302	5	302
+302	5	302
+.I 303
+.T
+Some Basic Terminology Connected With
+Mechanical Languages and Their Processors
+.W
+The suggestions in this paper are part of the
+terminology used in work for the University of 
+Pennsylvania's Office of computer Research and Education.
+ The work is jointly supported by the National 
+Science Foundation and the Air Force Office of Scientific Research.
+.B
+CACM August, 1961
+.A
+Gorn, S.
+.N
+CA610801 JB March 16, 1978  10:16 PM
+.X
+249	5	303
+303	5	303
+303	5	303
+303	5	303
+438	5	303
+3185	5	303
+196	6	303
+224	6	303
+249	6	303
+303	6	303
+303	6	303
+303	6	303
+51	6	303
+77	6	303
+438	6	303
+.I 304
+.T
+Nth Roots of a Complex Number (Algorithm 53)
+.B
+CACM July, 1961
+.A
+Nestor Jr., C. W.
+.N
+CA610713 JB March 16, 1978  10:17 PM
+.X
+304	5	304
+304	5	304
+304	5	304
+.I 305
+.T
+CRAM (Algorithm 67)
+.B
+CACM July, 1961
+.A
+Caffrey, J.
+.N
+CA610712 JB March 16, 1978  10:18 PM
+.X
+305	5	305
+305	5	305
+305	5	305
+.I 306
+.T
+INVRS (Algorithm 66)
+.B
+CACM July, 1961
+.A
+Caffery, J.
+.N
+CA610711 JB March 16, 1978  10:19 PM
+.X
+306	5	306
+306	5	306
+306	5	306
+.I 307
+.T
+FIND (Algorithm 65)
+.B
+CACM July, 1961
+.A
+Hoare, C. A. R.
+.N
+CA610710 JB March 16, 1978  10:20 PM
+.X
+307	5	307
+307	5	307
+307	5	307
+2227	5	307
+2783	5	307
+3054	5	307
+1175	6	307
+1834	6	307
+1880	6	307
+1919	6	307
+1969	6	307
+1980	6	307
+1997	6	307
+307	6	307
+307	6	307
+307	6	307
+308	6	307
+309	6	307
+309	6	307
+2017	6	307
+2679	6	307
+776	6	307
+.I 308
+.T
+QUICKSORT (Algorithm 64)
+.B
+CACM July, 1961
+.A
+Hoare, C. A. R.
+.N
+CA610709 JB March 16, 1978  10:21 PM
+.X
+1175	5	308
+1919	5	308
+1969	5	308
+1997	5	308
+308	5	308
+308	5	308
+308	5	308
+2191	5	308
+2388	5	308
+2679	5	308
+3054	5	308
+3121	5	308
+864	6	308
+864	6	308
+970	6	308
+1175	6	308
+1175	6	308
+1175	6	308
+1175	6	308
+1190	6	308
+1228	6	308
+1312	6	308
+1880	6	308
+1919	6	308
+1969	6	308
+1969	6	308
+1969	6	308
+1980	6	308
+1997	6	308
+1997	6	308
+307	6	308
+308	6	308
+308	6	308
+308	6	308
+308	6	308
+308	6	308
+308	6	308
+308	6	308
+308	6	308
+308	6	308
+309	6	308
+309	6	308
+309	6	308
+309	6	308
+309	6	308
+2017	6	308
+2042	6	308
+2456	6	308
+2679	6	308
+2709	6	308
+74	6	308
+3187	6	308
+3187	6	308
+507	6	308
+716	6	308
+776	6	308
+783	6	308
+.I 309
+.T
+PARTITION (Algorithm 63)
+.B
+CACM July, 1961
+.A
+Hoare, C. A. R.
+.N
+CA610708 JB March 16, 1978  10:22 PM
+.X
+1919	5	309
+309	5	309
+309	5	309
+309	5	309
+2191	5	309
+2388	5	309
+2783	5	309
+2784	5	309
+3054	5	309
+3121	5	309
+864	5	309
+864	6	309
+1175	6	309
+1175	6	309
+1312	6	309
+1729	6	309
+232	6	309
+1880	6	309
+1919	6	309
+1969	6	309
+1980	6	309
+1997	6	309
+307	6	309
+307	6	309
+308	6	309
+308	6	309
+308	6	309
+308	6	309
+308	6	309
+309	6	309
+309	6	309
+309	6	309
+309	6	309
+309	6	309
+309	6	309
+309	6	309
+309	6	309
+2017	6	309
+2456	6	309
+2679	6	309
+2709	6	309
+74	6	309
+74	6	309
+2783	6	309
+3187	6	309
+776	6	309
+.I 310
+.T
+A Set of Associate Legendre Polynomials
+of the Second Kind (Algorithm 62)
+.B
+CACM July, 1961
+.A
+Herndon, J. R.
+.N
+CA610707 JB March 16, 1978  10:23 PM
+.X
+1222	5	310
+310	5	310
+310	5	310
+310	5	310
+1130	6	310
+245	6	310
+310	6	310
+.I 311
+.T
+Procedures for Range Arithmetic (Algorithm 61)
+.B
+CACM July, 1961
+.A
+Gibb, A.
+.N
+CA610706 JB March 16, 1978  10:25 PM
+.X
+1524	5	311
+1931	5	311
+311	5	311
+311	5	311
+311	5	311
+2214	5	311
+2544	5	311
+879	6	311
+1177	6	311
+1197	6	311
+1524	6	311
+311	6	311
+311	6	311
+311	6	311
+311	6	311
+2214	6	311
+.I 312
+.T
+A Further Note on Approximating e^x
+.B
+CACM July, 1961
+.A
+Olivier, D.
+.N
+CA610705 JB March 16, 1978  10:26 PM
+.X
+312	5	312
+312	5	312
+312	5	312
+.I 313
+.T
+An Iterative Method for Inversion of Power Series
+.B
+CACM July, 1961
+.A
+Bramhall, J. N.
+.N
+CA610704 JB March 16, 1978  10:26 PM
+.X
+313	5	313
+313	5	313
+313	5	313
+.I 314
+.T
+A Divisionless Method of Integer Conversion
+.B
+CACM July, 1961
+.A
+Clarkson, W. K.
+Prince, B. M.
+.N
+CA610703 JB March 16, 1978  10:27 PM
+.X
+314	5	314
+314	5	314
+314	5	314
+.I 315
+.T
+Solution of Tridiagonal Matrices
+.B
+CACM July, 1961
+.A
+Wenrick, R. C.
+.N
+CA610702 JB March 16, 1978  10:28 PM
+.X
+315	5	315
+315	5	315
+315	5	315
+.I 316
+.T
+An Algorithm for Equivalence Declarations
+.B
+CACM July, 1961
+.A
+Arden, B. W.
+Galler, A.
+Graham, R. M.
+.N
+CA610701 JB March 16, 1978  10:29 PM
+.X
+1072	5	316
+1781	5	316
+316	5	316
+316	5	316
+316	5	316
+123	6	316
+196	6	316
+919	6	316
+990	6	316
+1007	6	316
+1046	6	316
+1131	6	316
+1139	6	316
+1140	6	316
+1149	6	316
+1198	6	316
+1215	6	316
+1223	6	316
+1265	6	316
+1303	6	316
+1323	6	316
+1358	6	316
+1366	6	316
+1421	6	316
+1460	6	316
+1462	6	316
+1463	6	316
+1467	6	316
+1468	6	316
+1477	6	316
+1491	6	316
+1496	6	316
+1531	6	316
+1535	6	316
+1565	6	316
+1601	6	316
+1602	6	316
+1613	6	316
+1614	6	316
+1626	6	316
+1641	6	316
+1787	6	316
+1788	6	316
+205	6	316
+224	6	316
+249	6	316
+288	6	316
+316	6	316
+316	6	316
+381	6	316
+398	6	316
+11	6	316
+404	6	316
+410	6	316
+463	6	316
+464	6	316
+483	6	316
+3184	6	316
+3188	6	316
+584	6	316
+600	6	316
+680	6	316
+691	6	316
+763	6	316
+799	6	316
+.I 317
+.T
+On The Approximation of Curves by Line Segments Using Dynamic Programming
+.B
+CACM June, 1961
+.A
+Bellman, R.
+.N
+CA610608 JB March 16, 1978  10:31 PM
+.X
+317	5	317
+317	5	317
+317	5	317
+497	5	317
+867	5	317
+317	6	317
+317	6	317
+497	6	317
+.I 318
+.T
+Combat Vehicle Firing Stability (Active Suspension)
+.B
+CACM June, 1961
+.A
+Fischer, C. M.
+.N
+CA610607 JB March 16, 1978  10:32 PM
+.X
+318	5	318
+318	5	318
+318	5	318
+.I 319
+.T
+On a Class of Iteration Formulas and Some Historical Notes
+.W
+The class of iteration formulas obtainable
+by rational approximations of "Euler's formula" 
+is derived with the corresponding error estimates. 
+Some historical notes on iterative procedures are 
+followed by a derivation of Euler's formula with the
+associated error estimate in a new notation which 
+simplifies the error estimate and suggests generalizations.
+ The final section considers the Pade approximants 
+to the "Euler polynomial" and shows how a number of known
+formulas may be derived from this unified approach. 
+ There is a short discussion of the "best" formula.
+.B
+CACM June, 1961
+.A
+Traub, J. F.
+.N
+CA610606 JB March 16, 1978  10:36 PM
+.X
+319	4	319
+319	5	319
+319	5	319
+319	5	319
+380	5	319
+.I 320
+.T
+Logic-Structure Tables
+.W
+Logic tables are an excellent way of developing
+and expressing the logic required in procedures, 
+operations, systems and circuits.  A set of rules for
+writing and using logic tables is explained by 
+means of some simple examples.  Then the logic structure
+of a vending machine is given in which two logic 
+tables are used.  Logic tables are two-dimensional in
+nature, enabling us to fully express and consider 
+both the sequential and parallel aspects of logic.  They
+can be compiled directly into a computer program 
+and so eliminate the need for flow charting and hand coding.
+.B
+CACM June, 1961
+.A
+Cantrell, H. N.
+King, J.
+King, F. E. H.
+.N
+CA610605 JB March 16, 1978  10:40 PM
+.X
+1237	5	320
+250	5	320
+320	5	320
+320	5	320
+320	5	320
+250	6	320
+320	6	320
+320	6	320
+753	6	320
+.I 321
+.T
+ALGOL 60 Confidential
+.W
+The ALGOL 60 Report,* when first encountered,
+seems to describe a very complex language which 
+will be difficult to learn.  The "metalinguistic formulae"
+admirably serve the purpose of precisely specifying 
+a language, but they are certainly not very readable
+for a beginner.  However, experience has shown that 
+once the report is explained it is in fact easy to learn
+ALGOL and to write algorithms in it.  The language 
+is so general and powerful it can handle an enormous
+class of problems.  It is not hard to learn those 
+parts of ALGOL present in other compiler languages: how
+to write assignment and go to and for statements, 
+etc.  Indeed, a lot of the unnecessary restrictions
+imposed by other compiling languages have finally 
+been lifted.  But ALGOL also allows many unobvious things
+to be written, as we will see later, and herein 
+lies a problem: ALGOL seems to have become too general.
+ So many restrictions have been lifted that a 
+lot of technical details crop up which are hard to learn
+and to use correctly.  In this paper some of 
+the more obscure features of the language are considered
+and their usefulness is discussed.  Remarks 
+are based on the authors' interpretations of the ALGOL 60 Report.
+.B
+CACM June, 1961
+.A
+Knuth, D. E.
+Merner, J. N.
+.N
+CA610604 JB March 16, 1978  10:48 PM
+.X
+249	4	321
+254	4	321
+272	4	321
+1102	4	321
+1109	4	321
+1140	4	321
+1188	4	321
+1234	4	321
+1234	4	321
+1306	4	321
+1464	4	321
+1491	4	321
+1767	4	321
+1781	4	321
+1787	4	321
+1949	4	321
+321	4	321
+321	4	321
+321	4	321
+321	4	321
+2059	4	321
+2126	4	321
+435	4	321
+437	4	321
+463	4	321
+483	4	321
+491	4	321
+2732	4	321
+560	4	321
+583	4	321
+3073	4	321
+627	4	321
+631	4	321
+632	4	321
+642	4	321
+644	4	321
+653	4	321
+680	4	321
+761	4	321
+762	4	321
+763	4	321
+123	4	321
+140	4	321
+919	4	321
+989	4	321
+196	5	321
+1234	5	321
+254	5	321
+321	5	321
+321	5	321
+321	5	321
+400	5	321
+401	5	321
+402	5	321
+196	6	321
+944	6	321
+321	6	321
+321	6	321
+385	6	321
+387	6	321
+400	6	321
+402	6	321
+404	6	321
+3184	6	321
+729	6	321
+.I 322
+.T
+Operational Compatibility of Systems-CONVENTIONS
+.W
+The General Standards Committee of the SHARE
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+view of the growing number of programming systems 
+available.  Each of these programming systems has been
+coded to utilize a fixed set of hardware components 
+without recognizing the fact that others may be occupying
+a storage medium required by the first.  These 
+incompatibilities are currently resolved by manually setting
+up the computer for each system as required. 
+ The following set of conventions is being considered
+to minimize computer set-up time.  They are of 
+sufficiently broad interest that we feel other computer
+users should be aware of them. -George F. Ryckman, 
+Chairman
+.B
+CACM June, 1961
+.A
+Bright, H. S.
+.N
+CA610603 JB March 16, 1978  10:55 PM
+.X
+322	5	322
+322	5	322
+322	5	322
+.I 323
+.T
+The State of Digital Computer Technology in Europe
+.B
+CACM June, 1961
+.A
+Blachman, N. M.
+.N
+CA610602 JB March 16, 1978  10:56 PM
+.X
+323	4	323
+689	4	323
+1349	5	323
+217	5	323
+323	5	323
+323	5	323
+323	5	323
+689	5	323
+217	6	323
+236	6	323
+323	6	323
+323	6	323
+83	6	323
+415	6	323
+3197	6	323
+.I 324
+.T
+Romberg Integration (Algorithm 60)
+.B
+CACM June, 1961
+.A
+Bauer, F. L.
+.N
+CA610601 JB March 16, 1978  10:57 PM
+.X
+1352	5	324
+1982	5	324
+324	5	324
+324	5	324
+324	5	324
+2040	5	324
+1	6	324
+834	6	324
+872	6	324
+1040	6	324
+1092	6	324
+1241	6	324
+1241	6	324
+1273	6	324
+1273	6	324
+1273	6	324
+1352	6	324
+1356	6	324
+1883	6	324
+324	6	324
+324	6	324
+324	6	324
+429	6	324
+570	6	324
+621	6	324
+621	6	324
+786	6	324
+.I 325
+.T
+Numerical Solution of the Polynomial Equation (Algorithm 30)
+.B
+CACM May, 1961
+.A
+Alexander, W. J.
+.N
+CA610509 JB March 16, 1978  10:58 PM
+.X
+325	5	325
+325	5	325
+325	5	325
+.I 326
+.T
+MATHSORT (Algorithm 23)
+.B
+CACM May, 1961
+.A
+Ranshaw, R. W.
+.N
+CA610508 JB March 16, 1978  10:59 PM
+.X
+326	5	326
+326	5	326
+326	5	326
+.I 327
+.T
+Zeros of a Real Polynomial by Resultant Procedure (Algorithm 59)
+.B
+CACM May, 1961
+.A
+Bareiss, E. H.
+Fisherkeller, M. A.
+.N
+CA610507 JB March 16, 1978  11:01 PM
+.X
+1667	5	327
+327	5	327
+327	5	327
+327	5	327
+178	6	327
+1242	6	327
+327	6	327
+.I 328
+.T
+Matrix Inversion (ALgorithm 58)
+.B
+CACM May, 1961
+.A
+Cohen, D.
+.N
+CA610506 JB March 16, 1978  11:03 PM
+.X
+328	5	328
+328	5	328
+328	5	328
+.I 329
+.T
+Automatic Abstracting and Indexing Survey and Recommendations
+.W
+In preparation for the widespread use of automatic
+scanners which will read documents and transmit 
+their contents to other machines for analysis, this report
+presents a new concept in automatic analysis: 
+the relative-frequency approach to measuring  the significance
+of words, word groups, and sentences. 
+ The relative-frequency approach is discussed in detail,
+as is its application to problems of automatic 
+indexing and automatic abstracting.  Included in the
+report is a summary of automatic analysis studies 
+published as of the date of writing.  Conclusions are
+that point toward more sophisticated mathematical 
+and linguistic techniques for the solution of problems of automatic analysis.
+.B
+CACM May, 1961
+.A
+Edmundson, H. P.
+Wyllys, R. E.
+.N
+CA610505 JB March 16, 1978  11:08 PM
+.X
+1087	5	329
+329	5	329
+329	5	329
+329	5	329
+634	5	329
+329	6	329
+329	6	329
+.I 330
+.T
+A Method for Evaluating the Area of the Normal Function
+.B
+CACM May, 1961
+.A
+Baker, F. B.
+.N
+CA610504 JB March 16, 1978  11:09 PM
+.X
+330	5	330
+330	5	330
+330	5	330
+.I 331
+.T
+Successive Approximations and Computer Storage
+Problems in Ordinary Differential Equations
+.B
+CACM May, 1961
+.A
+Bellman, R.
+.N
+CA610503 JB March 16, 1978  11:10 PM
+.X
+331	5	331
+331	5	331
+331	5	331
+.I 332
+.T
+An Indirect Chaining Method for Addressing on Secondary Keys
+.W
+Methods for entering random access files on
+the basis of one key are briefly surveyed.  The 
+widely used chaining method, based on a pseudo-random
+key transformation, is reviewed in more detail. 
+ An efficient generalization of the chaining method
+which permits recovery on additional keys is then 
+presented.
+.B
+CACM May, 1961
+.A
+Johnson, L. R.
+.N
+CA610502 JB March 16, 1978  11:13 PM
+.X
+911	5	332
+1271	5	332
+1785	5	332
+332	5	332
+332	5	332
+332	5	332
+2543	5	332
+2552	5	332
+911	6	332
+911	6	332
+1785	6	332
+1785	6	332
+1786	6	332
+1973	6	332
+332	6	332
+332	6	332
+332	6	332
+332	6	332
+332	6	332
+2107	6	332
+2109	6	332
+2203	6	332
+492	6	332
+492	6	332
+.I 333
+.T
+Design of an Improved* Transmission/Data Processing Code
+.B
+CACM May, 1961
+.A
+Bemer, R. W.
+Smith Jr., H. J.
+Williams Jr., F. A.
+.N
+CA610501 JB March 16, 1978  11:14 PM
+.X
+333	4	333
+230	5	333
+333	5	333
+333	5	333
+333	5	333
+.I 334
+.T
+Division and Square Root in the Quater-Imaginary Number System
+.B
+CACM April, 1961
+.A
+Nadler, M.
+.N
+CA610334 JB March 16, 1978  11:16 PM
+.X
+334	5	334
+334	5	334
+334	5	334
+.I 335
+.T
+Some Numerical Experiments Using Newton's Method
+for Nonlinear Parabolic and EllipticBoundary-Value 
+Problems
+.W
+Using a generalization of Newton's method, a nonlinear
+parabolic equation of the form U(t)-U(xx)=g(U) 
+and a nonlinear elliptic equation U(xx)+U(yy)=exp(U)
+are solved numerically Comparison of these results 
+with results obtained using the Picard iteration procedure
+show that in many cases the quisi linearization 
+method offers substantial advantages in both time and accuracy.
+.B
+CACM April, 1961
+.A
+Bellman, R.
+Juncosa, M. L.
+Kalaba, R.
+.N
+CA610433 JB March 16, 1978  11:20 PM
+.X
+335	5	335
+335	5	335
+335	5	335
+.I 336
+.T
+A Practical Technique for the Determination of
+the Optimum Relaxation Factor of the Successive 
+Over-Relaxation Method
+.B
+CACM April, 1961
+.A
+Kulsrud, H. E.
+.N
+CA610432 JB March 16, 1978  11:27 PM
+.X
+336	5	336
+336	5	336
+336	5	336
+.I 337
+.T
+Further Survey of Punched Card Codes
+.B
+CACM April, 1961
+.A
+Ross, H. M.
+.N
+CA610431 JB March 16, 1978  11:34 PM
+.X
+337	5	337
+337	5	337
+337	5	337
+.I 338
+.T
+GROUT II (Algorithm 43)
+.B
+CACM April, 1961
+.A
+Thacher Jr., H.C.
+.N
+CA610430 JB March 16, 1978  11:35 PM
+.X
+338	5	338
+338	5	338
+338	5	338
+.I 339
+.T
+Real Exponential Integral (Algorithm 20)
+.B
+CACM April, 1961
+.A
+Alexander, W. J.
+Thacher Jr., H. C.
+.N
+CA610429 JB March 16, 1978  11:36 PM
+.X
+339	5	339
+339	5	339
+339	5	339
+.I 340
+.T
+Legendre Polynomial (Algorithm 13)
+.B
+CACM April, 1961
+.A
+Herndon, J.
+.N
+CA610428 JB March 16, 1978  11:37 PM
+.X
+1611	5	340
+340	5	340
+340	5	340
+340	5	340
+1295	6	340
+340	6	340
+.I 341
+.T
+Chebyschev Polynomial (Algorithm 10)
+.B
+CACM April, 1961 
+.A
+Herndon, J.
+.N
+CA610427 JB March 16, 1978  11:38 PM
+.X
+341	5	341
+341	5	341
+341	5	341
+.I 342
+.T
+Solution of Polynomial Equation by Barstow-Hitchcock (Algorithm 3)
+.B
+CACM April, 1961
+.A
+Herndon, J.
+.N
+CA610426 JB March 16, 1978  11:39 PM
+.X
+342	5	342
+342	5	342
+342	5	342
+.I 343
+.T
+On Frequently Occurring Errors in ALGOL 60 Programs (Algorithm 25)
+.B
+CACM April, 1961
+.A
+Herndon, J.
+.N
+CA610425 JB March 16, 1978  11:40 PM
+.X
+343	5	343
+343	5	343
+343	5	343
+.I 344
+.T
+Ber or Bei Function (Algorithm 57)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610424 JB March 16, 1978  11:42 PM
+.X
+344	5	344
+344	5	344
+344	5	344
+.I 345
+.T
+Complete Elliptic Integral of the Second Kind (Algorithm 56)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610423 JB March 16, 197811:43 PM
+.X
+345	5	345
+345	5	345
+345	5	345
+.I 346
+.T
+Complete Elliptic Integral of the First Kind (Algorithm 55)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610422 JB March 16, 1978  11:44 PM
+.X
+346	5	346
+346	5	346
+346	5	346
+.I 347
+.T
+Gamma Function for Range 1 to 2 (Algorithm 54)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610421 JB March 16, 1978  11:45 PM
+.X
+347	5	347
+347	5	347
+347	5	347
+.I 348
+.T
+Nth Roots of a Complex Number (Algorithm 53)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610420 JB March 16, 1978  11:47 PM
+.X
+348	5	348
+348	5	348
+348	5	348
+.I 349
+.T
+A Set of Test Matrices
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610419 JB March 16, 1978  11:47 PM
+.X
+349	5	349
+349	5	349
+349	5	349
+.I 350
+.T
+Adjust Inverse of a Matrix When an Element is Perturbed (Algorithm 51)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610418 JB March 16, 1978  11:49 PM
+.X
+350	5	350
+350	5	350
+350	5	350
+.I 351
+.T
+Inverse of a Finite Segment of the Hilbert Matrix (Algorithm 50)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610417 JB March 16, 1978  11:50 PM
+.X
+351	5	351
+351	5	351
+351	5	351
+.I 352
+.T
+Spherical Neumant Function (Algorithm 49)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610416 JB March 16, 1978  11:51 PM
+.X
+352	5	352
+352	5	352
+352	5	352
+.I 353
+.T
+Logarithm of A Complex Number (Algorithm 48)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610415 JB March 16, 1978  11:53 PM
+.X
+353	5	353
+353	5	353
+353	5	353
+.I 354
+.T
+Associated Legendre Functions of the First Kind
+for Real or Imaginary Arguments (Algorithm 47)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610414 JB March 16, 1978  11:57 PM
+.X
+354	5	354
+354	5	354
+354	5	354
+.I 355
+.T
+Exponential of a Complex Number (Algorithm 46)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610413 JB March 16, 1978  11:59 PM
+.X
+355	5	355
+355	5	355
+355	5	355
+.I 356
+.T
+INTEREST (Algorithm 45)
+.B
+CACM April, 1961
+.A
+Ingerman, P. Z.
+.N
+CA610412 JB March 17, 1978  12:00 AM
+.X
+356	5	356
+356	5	356
+356	5	356
+.I 357
+.T
+Bessel Functions Computed Recursively (Algorithm 44)
+.B
+CACM April, 1961
+.A
+Wojcicki, M. E.
+.N
+CA610411 JB March 17, 1978  12:01 AM
+.X
+357	5	357
+357	5	357
+357	5	357
+.I 358
+.T
+Crout with Pivoting II (Algorithm 43)
+.B
+CACM April, 1961
+.A
+Thacher Jr., H. C.
+.N
+CA610410 JB March 17, 1978  12:02 AM
+.X
+358	5	358
+358	5	358
+358	5	358
+.I 359
+.T
+INVERT (Algorithm 42)
+.B
+CACM April, 1961
+.A
+Wood, T. C.
+.N
+CA610409 JB March 17, 1978  12:03 AM
+.X
+359	5	359
+359	5	359
+359	5	359
+.I 360
+.T
+Evaluation of Determinant (Algorithm 41)
+.B
+CACM April, 1961
+.A
+Solomon, J. G.
+.N
+CA610408 JB March 17, 1978  12:04 AM
+.X
+1946	5	360
+360	5	360
+360	5	360
+360	5	360
+878	6	360
+902	6	360
+1093	6	360
+1177	6	360
+1387	6	360
+1393	6	360
+360	6	360
+731	6	360
+.I 361
+.T
+Programmed Error Correction on a Decimal Computer
+.B
+CACM April, 1961
+.A
+Weinberg, G. M.
+.N
+CA610407 JB March 17, 1978  12:05 AM
+.X
+361	4	361
+108	5	361
+361	5	361
+361	5	361
+361	5	361
+.I 362
+.T
+Table Look-At Techniques
+.B
+CACM April, 1961
+.A
+Sherman, P. M.
+.N
+CA610406 JB March 17, 1978  12:08 AM
+.X
+362	4	362
+2952	4	362
+142	5	362
+362	5	362
+362	5	362
+362	5	362
+.I 363
+.T
+On Approximating Transcendental Numbers by Continued Fractions
+.B
+CACM April, 1961
+.A
+Karst, E.
+.N
+CA610405 JB March 17, 1978  12:09 AM
+.X
+363	5	363
+363	5	363
+363	5	363
+.I 364
+.T
+On the Compilation of Subscripted Variables 
+.B
+CACM April, 1961
+.A
+Nather, R. E.
+.N
+CA610404 JB March 17, 1978  12:10 AM
+.X
+222	4	364
+224	4	364
+267	4	364
+1134	4	364
+1139	4	364
+1141	4	364
+1141	4	364
+1215	4	364
+1223	4	364
+1647	4	364
+1781	4	364
+1787	4	364
+1792	4	364
+364	4	364
+364	4	364
+364	4	364
+364	4	364
+364	4	364
+405	4	364
+405	4	364
+438	4	364
+438	4	364
+561	4	364
+44	4	364
+763	4	364
+100	5	364
+224	5	364
+364	5	364
+364	5	364
+364	5	364
+44	5	364
+77	5	364
+98	5	364
+.I 365
+.T
+Bessel Functions of Integral Order and Complex Argument
+.B
+CACM April, 1961
+.A
+Gray, M. C.
+.N
+CA610403 JB March 17, 1978  12:13 AM
+.X
+365	5	365
+365	5	365
+365	5	365
+.I 366
+.T
+Eigenvalues of a Symmetric 3 x 3 Matrix
+.B
+CACM April, 1961
+.A
+Smith, O. K.
+.N
+CA610402 JB March 17, 1978  12:14 AM
+.X
+366	5	366
+366	5	366
+366	5	366
+.I 367
+.T
+Topological Ordering of a List of
+Randomly-Numbered Elements of a Network
+.W
+A network of directed line segments free of circular
+elements is assumed.  The lines are identified 
+by their terminal nodes and the nodes are assumed to
+be numbered by a non-topological system.  Given 
+a list of these lines in numeric order, a simple technique
+can be used to create at high speed a list 
+in topological order.
+.B
+CACM April, 1961
+.A
+Lasser, D. J.
+.N
+CA610401 JB March 17, 1978  12:17 AM
+.X
+1050	5	367
+1226	5	367
+367	5	367
+367	5	367
+367	5	367
+441	5	367
+758	5	367
+849	6	367
+106	6	367
+209	6	367
+367	6	367
+367	6	367
+367	6	367
+367	6	367
+441	6	367
+627	6	367
+.I 368
+.T
+Real Zeros of an Arbitrary Function (Algorithm 25)
+.B
+CACM March, 1961
+.A
+Collinge, R. M.
+.N
+CA610314 JB March 17, 1978  12:31 AM
+.X
+368	5	368
+368	5	368
+368	5	368
+.I 369
+.T
+Crout with Pivoting (Algorithm 16)
+.B
+CACM March, 1961
+.A
+Thacher Jr., H. C.
+.N
+CA610313 JB March 17, 1978  12:32 AM
+.X
+369	5	369
+369	5	369
+369	5	369
+.I 370
+.T
+Bisection Routine (Algorithm 4)
+.B
+CACM March, 1961
+.A
+Rader, P. J.
+.N
+CA610312 JB March 17, 1978  12:33 AM
+.X
+370	5	370
+370	5	370
+370	5	370
+.I 371
+.T
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+.B
+CACM March, 1961
+.A
+Wilkinson, J. H.
+.N
+CA610311 JB March 17, 1978  12:35 AM
+.X
+371	5	371
+371	5	371
+371	5	371
+.I 372
+.T
+Critical Path Scheduling (Algorithm 40)
+.B
+CACM March, 1961
+.A
+Leavenworth, B.
+.N
+CA610310 JB March 17, 1978  12:36 AM
+.X
+372	5	372
+372	5	372
+372	5	372
+.I 373
+.T
+Correlation Coefficients with Matrix Multiplication (Algorithm 39)
+.B
+CACM March, 1961
+.A
+Sassouni, P.
+.N
+CA610309 JB March 17, 1978  12:37 AM
+.X
+373	5	373
+373	5	373
+373	5	373
+.I 374
+.T
+Telescope2 (Algorithm 38)
+.B
+CACM March, 1961
+.A
+Brons, K. A.
+.N
+CA610308 JB March 17, 1978  12:38 AM
+.X
+374	5	374
+374	5	374
+374	5	374
+.I 375
+.T
+Telescope1 (Algorithm 37)
+.B
+CACM March, 1961
+.A
+Brons, K. A.
+.N
+CA610307 JB March 17, 1978  12:39 AM
+.X
+375	5	375
+375	5	375
+375	5	375
+.I 376
+.T
+Tchebycheff (Algorithm 36)
+.B
+CACM March, 1961
+.A
+Gianni, A. J.
+.N
+CA610306 JB March 17, 1978  12:40 AM
+.X
+1754	5	376
+376	5	376
+376	5	376
+376	5	376
+274	6	376
+376	6	376
+.I 377
+.T
+SIEVE (Algorithm 35)
+.B
+CACM March, 1961
+.A
+Wood, T. C.
+.N
+CA610305 JB March 17, 1978  12:41 AM
+.X
+1841	5	377
+377	5	377
+377	5	377
+377	5	377
+2120	5	377
+1537	6	377
+1539	6	377
+1539	6	377
+1841	6	377
+377	6	377
+377	6	377
+.I 378
+.T
+A Generalized Technique for Symbol
+Manipulation and Numerical Calculation 
+.B
+CACM March, 1961
+.A
+Ross, D. T.
+.N
+CA610304 JB March 17, 1978  12:42 AM
+.X
+1024	4	378
+1050	4	378
+1051	4	378
+1102	4	378
+1102	4	378
+1132	4	378
+1390	4	378
+1486	4	378
+1549	4	378
+1706	4	378
+1826	4	378
+1878	4	378
+378	4	378
+378	4	378
+378	4	378
+2060	4	378
+2155	4	378
+2168	4	378
+2719	4	378
+2723	4	378
+2838	4	378
+2842	4	378
+2855	4	378
+2879	4	378
+3008	4	378
+3077	4	378
+3080	4	378
+3106	4	378
+627	4	378
+731	4	378
+798	4	378
+106	4	378
+1051	5	378
+208	5	378
+209	5	378
+210	5	378
+1552	5	378
+1665	5	378
+1860	5	378
+378	5	378
+378	5	378
+378	5	378
+2155	5	378
+1184	6	378
+1366	6	378
+1389	6	378
+1389	6	378
+1421	6	378
+1421	6	378
+1496	6	378
+1626	6	378
+1641	6	378
+1781	6	378
+1785	6	378
+1786	6	378
+210	6	378
+210	6	378
+378	6	378
+378	6	378
+378	6	378
+378	6	378
+378	6	378
+2046	6	378
+2060	6	378
+406	6	378
+3184	6	378
+631	6	378
+731	6	378
+793	6	378
+794	6	378
+799	6	378
+.I 379
+.T
+Bitwise Operations
+.B
+CACM March, 1961
+.A
+Strachey, C.
+.N
+CA610303 JB March 17, 1978  12:42 AM
+.X
+379	5	379
+379	5	379
+379	5	379
+.I 380
+.T
+Comparison of Iterative Methods for the Calculation of nth Roots
+.W
+Three iterative methods for calculation of
+nth roots (including one proposed by the author) 
+are compared in two ways: (1) Theoretical convergence
+estimates are given.  (2) A new macrocompiler which 
+estimates machine running time is used to compare the
+running time of the three methods for a variety 
+of input data.
+.B
+CACM March, 1961
+.A
+Traub, J. F.
+.N
+CA610302 JB March 17, 1978  12:45 AM
+.X
+319	5	380
+380	5	380
+380	5	380
+380	5	380
+380	6	380
+.I 381
+.T
+An Alternate Form of the "UNCOL Diagram"
+.B
+CACM March, 1961
+.A
+Bratman, H.
+.N
+CA610301 JB March 17, 1978  12:46 AM
+.X
+1159	4	381
+1988	4	381
+381	4	381
+1781	5	381
+1988	5	381
+381	5	381
+381	5	381
+381	5	381
+14	5	381
+123	6	381
+196	6	381
+919	6	381
+990	6	381
+1007	6	381
+1046	6	381
+1131	6	381
+1139	6	381
+1140	6	381
+1149	6	381
+1198	6	381
+1215	6	381
+1223	6	381
+1265	6	381
+1303	6	381
+1323	6	381
+1358	6	381
+1366	6	381
+1421	6	381
+1460	6	381
+1462	6	381
+1463	6	381
+1467	6	381
+1468	6	381
+1477	6	381
+1491	6	381
+1496	6	381
+1496	6	381
+1531	6	381
+1535	6	381
+1565	6	381
+1601	6	381
+1602	6	381
+1613	6	381
+1614	6	381
+1626	6	381
+1641	6	381
+1787	6	381
+1788	6	381
+205	6	381
+224	6	381
+249	6	381
+288	6	381
+316	6	381
+381	6	381
+381	6	381
+398	6	381
+11	6	381
+11	6	381
+14	6	381
+404	6	381
+410	6	381
+463	6	381
+464	6	381
+483	6	381
+3184	6	381
+3188	6	381
+584	6	381
+600	6	381
+680	6	381
+691	6	381
+763	6	381
+799	6	381
+.I 382
+.T
+Statistical Programs at the University of North Carolina
+.B
+CACM February, 1961
+.A
+Bush, N.
+.N
+CA610216 JB March 17, 1978  12:48 AM
+.X
+382	5	382
+382	5	382
+382	5	382
+.I 383
+.T
+On Finding Minimum Routes in a Network With Turn Penalties
+.B
+CACM February, 1961
+.A
+Caldwell, T.
+.N
+CA610215 JB March 17, 1978  12:49 AM
+.X
+383	5	383
+383	5	383
+383	5	383
+.I 384
+.T
+Gamma Function (Algorithm 34)
+.B
+CACM February, 1961
+.A
+Lipp, M. F.
+.N
+CA610214 JB March 17, 1978  12:49 AM
+.X
+384	5	384
+384	5	384
+384	5	384
+.I 385
+.T
+FACTORIAL (Algorithm 33)
+.B
+CACM February, 1961
+.A
+Lipp, M. F.
+.N
+CA610213 JB March 17, 1978  12:50 AM
+.X
+1234	5	385
+385	5	385
+385	5	385
+385	5	385
+944	6	385
+321	6	385
+385	6	385
+400	6	385
+402	6	385
+404	6	385
+3184	6	385
+729	6	385
+.I 386
+.T
+MULTINT (Algorithm 32)
+.B
+CACM February, 1961
+.A
+Freeman Jr., R. D.
+.N
+CA610212 JB March 17, 1978  12:52 AM
+.X
+1146	5	386
+386	5	386
+386	5	386
+386	5	386
+386	6	386
+.I 387
+.T
+Gamma Function (Algorithm 31)
+.B
+CACM February, 1961
+.A
+Collinge,R. M.
+.N
+CA610211 JB March 17, 1978  12:53 AM
+.X
+254	5	387
+387	5	387
+387	5	387
+387	5	387
+196	6	387
+321	6	387
+387	6	387
+.I 388
+.T
+Solution of Polynomial Equations by
+Bairstow Hitchcock Method (Algorithm 3)
+.B
+CACM February, 1961
+.A
+Vandergraft, J. S.
+.N
+CA610210 JB March 17, 1978  12:54 AM
+.X
+388	5	388
+388	5	388
+388	5	388
+.I 389
+.T
+Real Exponential Integral (Algorithm 20)
+.B
+CACM February, 1961
+.A
+Peavy, S.
+.N
+CA610209 JB March 17, 1978  12:55 AM
+.X
+389	5	389
+389	5	389
+389	5	389
+.I 390
+.T
+Complex Exponential Integral (Algorithm 13)
+.B
+CACM February, 1961
+.A
+Rader, P. J.
+Thacher Jr., H. C.
+.N
+CA610208 JB March 17, 1978  12:56 AM
+.X
+390	5	390
+390	5	390
+390	5	390
+.I 391
+.T
+The BKS System for the Philco-2000 
+.B
+CACM February, 1961
+.A
+Smith, R. B.
+.N
+CA610207 JB March 17, 1978  12:57 AM
+.X
+391	5	391
+391	5	391
+391	5	391
+.I 392
+.T
+Comment on A Paper on Parallel Processing
+.B
+CACM February, 1961
+.A
+Nekora, M. R.
+.N
+CA610206 JB March 17, 1978  12:58 AM
+.X
+392	5	392
+392	5	392
+392	5	392
+.I 393
+.T
+Two Subroutines for Symbol Manipulation with an Algebraic Compiler
+.B
+CACM February, 1961
+.A
+Carr III, J. W.
+Hanson, J. W.
+.N
+CA610205 JB March 17, 1978  12:59 AM
+.X
+393	5	393
+393	5	393
+393	5	393
+561	5	393
+393	6	393
+77	6	393
+.I 394
+.T
+Multiple Programming Data Processing
+.B
+CACM February, 1961
+.A
+Ryle, B. L.
+.N
+CA610204 JB March 17, 1978  1:00 AM
+.X
+394	5	394
+394	5	394
+394	5	394
+.I 395
+.T
+Multiple-Precision Division 
+.B
+CACM February, 1961
+.A
+Rabinowitz, P.
+.N
+CA610202 JB March 17, 1978  1:01 AM
+.X
+395	5	395
+395	5	395
+395	5	395
+.I 396
+.T
+   Automation of Program  Debugging
+.W
+   Automatic Debugging can substantially reduce lead-time between the coding
+and the effective use of a complex program. It also enforces analysis of
+debugging criteria, resulting in verifiably accurate programs. The programmer
+specifies the program to be debugged, memory areas, set of input data, maximum
+repetition of loops, and checkpoint information for each set of data. The
+executive debugging program the runs the program to be debugged, performing
+checking functions and creating a trace record of its own later analysis and
+location of errors. Applications are quite flexible, and the system can be used
+alone or in conjunction with other debugging techniques.
+.B
+CACM July, 1961
+.A
+Jacoby, K.
+Layton, H.
+.N
+CA610714 ES March 17, 1982 10:10 AM
+.X
+931	5	396
+396	5	396
+396	5	396
+396	5	396
+202	6	396
+396	6	396
+634	6	396
+.I 397
+.T
+A Card Format for Reference Files in Information Processing
+.W
+This paper proposes a card format suitable for
+a variety of reference files in information 
+processing.  An 80-column IBM card is divided into two
+fields-reference material field (columns 1-67) 
+and identification field (columns 68-80).  The format
+for the reference material is flexible, while the 
+format for the identification is rigid.  The reference
+material includes basically an index, title, source, 
+class, summary and cross reference for each entry. 
+The identification includes basically codes for a 
+matrix of descriptors, an entry number, and the kind,
+major interest, and source of the reference.  The 
+identification also provides a choice to identify material
+for personal as well as general files.  Since 
+this card format is sufficient to identify the material
+normally associated with reference files for 
+books, articles, programming terms, hardware terms, equipment,
+machine systems, abbreviations, etc., it 
+is suitable as a standard for card reference files in information processing.
+.B
+CACM February, 1961
+.A
+Grems, M.
+.N
+CA610201 JB March 17, 1978  1:08 AM
+.X
+929	5	397
+397	5	397
+397	5	397
+397	5	397
+397	6	397
+.I 398
+.T
+The SLANG System
+.B
+CACM January, 1961
+.A
+Sibley, R. A.
+.N
+CA610116 JB March 17, 1978  1:10 AM
+.X
+205	4	398
+210	4	398
+214	4	398
+1982	4	398
+398	4	398
+642	4	398
+669	4	398
+100	4	398
+123	4	398
+164	4	398
+1	5	398
+1781	5	398
+398	5	398
+398	5	398
+398	5	398
+123	6	398
+196	6	398
+919	6	398
+990	6	398
+1007	6	398
+1046	6	398
+1131	6	398
+1139	6	398
+1140	6	398
+1149	6	398
+1198	6	398
+1215	6	398
+1223	6	398
+1265	6	398
+1303	6	398
+1323	6	398
+1358	6	398
+1366	6	398
+1421	6	398
+1460	6	398
+1462	6	398
+1463	6	398
+1467	6	398
+1468	6	398
+1477	6	398
+1491	6	398
+1496	6	398
+1531	6	398
+1535	6	398
+1565	6	398
+1601	6	398
+1602	6	398
+1613	6	398
+1614	6	398
+1626	6	398
+1641	6	398
+1787	6	398
+1788	6	398
+205	6	398
+224	6	398
+249	6	398
+288	6	398
+316	6	398
+381	6	398
+398	6	398
+11	6	398
+404	6	398
+410	6	398
+463	6	398
+464	6	398
+483	6	398
+3184	6	398
+3188	6	398
+584	6	398
+600	6	398
+680	6	398
+691	6	398
+763	6	398
+799	6	398
+.I 399
+.T
+Compiling Techniques for Boolean Expressions
+and Conditional Statements in ALGOL 60
+.B
+CACM January, 1961
+.A
+Huskey, H. D.
+Wattenburg, W. H.
+.N
+CA610115 JB March 17, 1978  1:12 AM
+.X
+1139	5	399
+1947	5	399
+399	5	399
+399	5	399
+399	5	399
+556	5	399
+799	5	399
+945	6	399
+1134	6	399
+1223	6	399
+1248	6	399
+224	6	399
+399	6	399
+399	6	399
+399	6	399
+399	6	399
+82	6	399
+404	6	399
+404	6	399
+438	6	399
+464	6	399
+631	6	399
+.I 400
+.T
+Comments on the Implementation of Recursive
+Procedures and Blocks in ALGOL 60
+.B
+CACM January, 1961
+.A
+Irons, E. T.
+Feurzeig, W.
+.N
+CA610114 JB March 17, 1978  1:13 AM
+.X
+1234	5	400
+321	5	400
+400	5	400
+400	5	400
+400	5	400
+196	6	400
+944	6	400
+321	6	400
+385	6	400
+400	6	400
+400	6	400
+401	6	400
+402	6	400
+402	6	400
+404	6	400
+3184	6	400
+729	6	400
+.I 401
+.T
+Allocation of Storage for Arrays in ALGOL 60
+.B
+CACM January, 1961
+.A
+Sattley, K.
+.N
+CA610113 JB March 17, 1978  1:14 AM
+.X
+321	5	401
+401	5	401
+401	5	401
+401	5	401
+196	6	401
+400	6	401
+401	6	401
+402	6	401
+.I 402
+.T
+Dynamic Declarations
+.B
+CACM January, 1961
+.A
+Ingerman, P. Z.
+.N
+CA610112 JB March 17, 1978  1:14 AM
+.X
+1234	5	402
+321	5	402
+402	5	402
+402	5	402
+402	5	402
+196	6	402
+944	6	402
+321	6	402
+385	6	402
+400	6	402
+400	6	402
+401	6	402
+402	6	402
+402	6	402
+404	6	402
+3184	6	402
+729	6	402
+.I 403
+.T
+Thunks -- A Way of Compiling Procedure Statements
+with Some Comments on Procedure Declarations
+.B
+CACM January, 1961
+.A
+Ingerman, P. Z.
+.N
+CA610111 JB March 17, 1978  1:16 AM
+.X
+403	5	403
+403	5	403
+403	5	403
+.I 404
+.T
+A Syntax Directed Compiler for ALGOL 60
+.B
+CACM January, 1961
+.A
+Irons, E. T.
+.N
+CA610110 JB March 17, 1978  1:16 AM
+.X
+945	5	404
+1046	5	404
+1105	5	404
+1139	5	404
+1140	5	404
+1234	5	404
+1263	5	404
+1265	5	404
+1496	5	404
+1781	5	404
+1824	5	404
+2126	5	404
+2546	5	404
+404	5	404
+404	5	404
+404	5	404
+464	5	404
+584	5	404
+631	5	404
+653	5	404
+680	5	404
+763	5	404
+795	5	404
+799	5	404
+823	6	404
+123	6	404
+196	6	404
+196	6	404
+196	6	404
+196	6	404
+196	6	404
+196	6	404
+196	6	404
+919	6	404
+931	6	404
+944	6	404
+945	6	404
+989	6	404
+990	6	404
+1007	6	404
+1046	6	404
+1131	6	404
+1137	6	404
+1139	6	404
+1140	6	404
+1141	6	404
+1149	6	404
+1198	6	404
+1215	6	404
+1223	6	404
+1265	6	404
+1303	6	404
+1323	6	404
+1358	6	404
+1358	6	404
+1366	6	404
+1421	6	404
+1460	6	404
+1462	6	404
+1463	6	404
+1467	6	404
+1468	6	404
+1477	6	404
+1477	6	404
+1491	6	404
+1491	6	404
+1496	6	404
+1531	6	404
+1535	6	404
+1565	6	404
+1601	6	404
+1602	6	404
+1613	6	404
+1614	6	404
+1614	6	404
+1614	6	404
+1626	6	404
+1641	6	404
+1693	6	404
+1781	6	404
+1787	6	404
+1788	6	404
+205	6	404
+224	6	404
+224	6	404
+224	6	404
+249	6	404
+265	6	404
+288	6	404
+316	6	404
+321	6	404
+381	6	404
+385	6	404
+398	6	404
+399	6	404
+399	6	404
+11	6	404
+2126	6	404
+82	6	404
+400	6	404
+402	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+404	6	404
+410	6	404
+412	6	404
+438	6	404
+463	6	404
+464	6	404
+464	6	404
+464	6	404
+483	6	404
+3184	6	404
+3184	6	404
+3184	6	404
+3184	6	404
+3184	6	404
+3188	6	404
+584	6	404
+600	6	404
+631	6	404
+631	6	404
+631	6	404
+635	6	404
+680	6	404
+691	6	404
+729	6	404
+763	6	404
+799	6	404
+.I 405
+.T
+An Algorithm for Coding Efficient Arithmetic Operations
+.W
+Most existing formula translation schemes
+yield inefficient coding.  A method is described 
+which reduces the number of store and fetch operations,
+evaluates constant subexpressions during compilation, 
+and recognizes many equivalent subexpressions.
+.B
+CACM January, 1961
+.A
+Floyd, R. W.
+.N
+CA610109 JB March 17, 1978  1:19 AM
+.X
+267	4	405
+1134	4	405
+1139	4	405
+1141	4	405
+1141	4	405
+1215	4	405
+1223	4	405
+1647	4	405
+1781	4	405
+1787	4	405
+1792	4	405
+364	4	405
+364	4	405
+405	4	405
+405	4	405
+405	4	405
+405	4	405
+438	4	405
+438	4	405
+561	4	405
+44	4	405
+54	4	405
+763	4	405
+1223	5	405
+224	5	405
+1388	5	405
+405	5	405
+405	5	405
+405	5	405
+436	5	405
+55	5	405
+77	5	405
+93	5	405
+224	6	405
+405	6	405
+405	6	405
+405	6	405
+731	6	405
+.I 406
+.T
+The Use of Threaded Lists in Constructing a Combined
+ALGOL and Machine-Like Assembly Processor
+.B
+CACM January, 1961
+.A
+Evans Jr., A.
+Perlis, A. J.
+Van Zoeren, H.
+.N
+CA610108 JB March 17, 1978  1:20 AM
+.X
+1051	5	406
+1102	5	406
+1549	5	406
+406	5	406
+406	5	406
+406	5	406
+106	6	406
+196	6	406
+1051	6	406
+209	6	406
+210	6	406
+210	6	406
+210	6	406
+378	6	406
+406	6	406
+406	6	406
+406	6	406
+483	6	406
+627	6	406
+731	6	406
+731	6	406
+753	6	406
+793	6	406
+794	6	406
+.I 407
+.T
+MADCAP: A Scientific Compiler for a Displayed Formula Textbook Language
+.B
+CACM January, 1961
+.A
+Wells, M. B.
+.N
+CA610107 JB March 17, 1978  1:21 AM
+.X
+1083	5	407
+1396	5	407
+407	5	407
+407	5	407
+407	5	407
+679	5	407
+964	6	407
+1028	6	407
+1029	6	407
+1083	6	407
+1132	6	407
+1214	6	407
+1278	6	407
+1334	6	407
+1365	6	407
+1386	6	407
+1387	6	407
+1388	6	407
+1392	6	407
+1393	6	407
+1394	6	407
+1395	6	407
+1396	6	407
+1397	6	407
+1496	6	407
+284	6	407
+21	6	407
+407	6	407
+407	6	407
+407	6	407
+3184	6	407
+3192	6	407
+3193	6	407
+3199	6	407
+3200	6	407
+3201	6	407
+3202	6	407
+3203	6	407
+3204	6	407
+561	6	407
+730	6	407
+730	6	407
+.I 408
+.T
+The Internal Organization of the MAD Translator
+.B
+CACM January, 1961
+.A
+Arden, B. W.
+Galler, B. A.
+Graham, R. M.
+.N
+CA610106 JB March 17, 1978  1:22 AM
+.X
+1134	5	408
+1179	5	408
+1861	5	408
+408	5	408
+408	5	408
+408	5	408
+830	6	408
+1614	6	408
+1781	6	408
+17	6	408
+77	6	408
+408	6	408
+408	6	408
+408	6	408
+.I 409
+.T
+CL-1, An Environment for a Compiler
+.W
+A flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication between programs
+and/or programmers has been developed and 
+realized on the IBM 709/7090 computer.  The system is
+based on a master file concept and has provisions 
+for accepting, storing, and retrieving both descriptions
+and instances of large and complex data sets, 
+as well as algorithms defined on these data sets.  Both
+data and algorithms may be expressed in a family 
+of command and descriptive languages.  The concept
+of distinct data descriptions and the content and 
+use of such descriptions are discussed in some detail.
+.B
+CACM January, 1961
+.A
+Cheatham Jr., T. E.
+Collins Jr., G. O.
+Leonard, G. F.
+.N
+CA610105 JB March 17, 1978  1:26 AM
+.X
+409	5	409
+409	5	409
+409	5	409
+657	5	409
+279	6	409
+409	6	409
+.I 410
+.T
+The CLIP Translator
+.B
+CACM January, 1961
+.A
+Englund, D.
+Clark, E.
+.N
+CA610104 JB March 17, 1978  1:27 AM
+.X
+1781	5	410
+410	5	410
+410	5	410
+410	5	410
+669	5	410
+1	6	410
+123	6	410
+196	6	410
+919	6	410
+990	6	410
+1007	6	410
+1046	6	410
+1131	6	410
+1139	6	410
+1140	6	410
+1149	6	410
+1198	6	410
+1215	6	410
+1223	6	410
+1265	6	410
+1303	6	410
+1323	6	410
+1358	6	410
+1366	6	410
+1421	6	410
+1460	6	410
+1462	6	410
+1463	6	410
+1467	6	410
+1468	6	410
+1477	6	410
+1491	6	410
+1496	6	410
+1531	6	410
+1535	6	410
+1565	6	410
+1601	6	410
+1602	6	410
+1613	6	410
+1614	6	410
+1626	6	410
+1641	6	410
+1787	6	410
+1788	6	410
+205	6	410
+224	6	410
+249	6	410
+288	6	410
+316	6	410
+381	6	410
+398	6	410
+11	6	410
+404	6	410
+410	6	410
+410	6	410
+463	6	410
+464	6	410
+483	6	410
+3184	6	410
+3184	6	410
+3188	6	410
+584	6	410
+600	6	410
+680	6	410
+691	6	410
+763	6	410
+799	6	410
+.I 411
+.T
+Use of Magnetic Tape for Data Storage in the ORACLE-ALGOL Translator
+.B
+CACM January, 1961
+.A
+Bottenbruch, H.
+.N
+CA610103 JB March 17, 1978  1:28 AM
+.X
+411	5	411
+411	5	411
+411	5	411
+.I 412
+.T
+Recursive Processes and ALGOL Translation
+.B
+CACM January, 1961
+.A
+Gray, A. A.
+.N
+CA610102 JB March 17, 1978  1:29 AM
+.X
+412	5	412
+412	5	412
+412	5	412
+763	5	412
+196	6	412
+224	6	412
+404	6	412
+412	6	412
+631	6	412
+.I 413
+.T
+A Basic Compiler for Arithmetic Expressions
+.B
+CACM January, 1961
+.A
+Huskey, H. D.
+Wattenburg, W. H.
+.N
+CA610101 JB March 17, 1978  1:30 AM
+.X
+413	5	413
+413	5	413
+413	5	413
+.I 414
+.T
+IBM 1440 Data Processing System Features Five New Units
+.W
+The IBM 1440 data processing system, announced
+recently by the International Business Machines 
+Corporation, not only features the 1311 disk storage
+drive with interchangeable disk packs but four other 
+newly developed units.
+.B
+CACM December, 1961
+.A
+Wheeling, R.
+.N
+CA621225 JB March 17,1978  4:30 PM
+.X
+414	5	414
+414	5	414
+414	5	414
+.I 415
+.T
+The Use of Digital Computers in Western Germany
+.B
+CACM December, 1962
+.A
+Schuff, H. K.
+.N
+CA621224 JB March 17, 1978  4:32 PM
+.X
+1349	5	415
+415	5	415
+415	5	415
+415	5	415
+236	6	415
+323	6	415
+83	6	415
+415	6	415
+.I 416
+.T
+Multiple Shooting Method for Two-Point Boundary Value Problems
+.B
+CACM December, 1962
+.A
+Morrison, D. D.
+Riley, J. D.
+Zancanaro, J. F.
+.N
+CA621223 JB March 17, 1978  4:33 PM
+.X
+1049	5	416
+416	5	416
+416	5	416
+416	5	416
+416	6	416
+.I 417
+.T
+Legal Implications of Computer Use
+.W
+This paper points out a variety of ways computer
+systems used in business and industry can 
+be involved in legal entanglements and suggests that
+computer specialists have a responsibility to call 
+for assistance in forestalling or minimizing those entanglements
+during the planning stage.  Techniques 
+are suggested for making legal clearance effective with
+the least burden on the new technology and for 
+achieving a favorable legal climate for it generally.
+ Computer specialists also are alerted to potential 
+opportunities to interpret to lawyers the technical aspects
+of computer systems involved in legal situations.
+.B
+CACM December, 1962
+.A
+Freed, R. N.
+.N
+CA621222 JB March 17, 1978  4:37 PM
+.X
+417	5	417
+417	5	417
+417	5	417
+.I 418
+.T
+RANDOM (Algorithm 133)
+.B
+CACM December, 1962
+.A
+Behrenz, P. G.
+.N
+CA621221 JB March 17, 1978  4:38 PM
+.X
+418	5	418
+418	5	418
+418	5	418
+.I 419
+.T
+Magic Square (Algorithm 118)
+.B
+CACM December, 1962
+.A
+Thacher Jr., H. C.
+.N
+CA621220 JB March 17, 1978  4:52 PM
+.X
+419	5	419
+419	5	419
+419	5	419
+.I 420
+.T
+PERM (Algorithm 115)
+.B
+CACM December, 1962
+.A
+Phillips, E. S.
+.N
+CA621219 JB March 17, 1978  4:53 PM
+.X
+420	5	420
+420	5	420
+420	5	420
+.I 421
+.T
+Position of Point Relative to Polygon (Algorithm 112)
+.B
+CACM December, 1962
+.A
+Hacker, R.
+.N
+CA621218 JB March 17, 1978  4:54 PM
+.X
+1804	5	421
+2987	5	421
+421	5	421
+421	5	421
+421	5	421
+1326	6	421
+1630	6	421
+2125	6	421
+2547	6	421
+2633	6	421
+421	6	421
+421	6	421
+524	6	421
+524	6	421
+.I 422
+.T
+COMBINATION (Algorithm 94)
+.B
+CACM December, 1962
+.A
+Grench, R. E.
+.N
+CA621217 JB March 17, 1978  4:56 PM
+.X
+422	5	422
+422	5	422
+422	5	422
+.I 423
+.T
+Matrix Inversion (Algorithm 58)
+.B
+CACM December, 1962
+.A
+Behrenz, P. G.
+.N
+CA621216 JB March 17, 1978  4:57 PM
+.X
+423	5	423
+423	5	423
+423	5	423
+.I 424
+.T
+Gamma Function (Algorithm 31)
+.B
+CACM December, 1962
+.A
+Behrenz, P. G.
+.N
+CA621215 JB March 17, 1978  4:58 PM
+.X
+424	5	424
+424	5	424
+424	5	424
+.I 425
+.T
+Complete Elliptic Integral (Algorithm 149)
+.B
+CACM December, 1962
+.A
+Merner, J. N.
+.N
+CA621214 JB March 17,1978  4:59 PM
+.X
+425	5	425
+425	5	425
+425	5	425
+.I 426
+.T
+Term of Magic Square (Algorithm 148)
+.B
+CACM December, 1962
+.A
+Collison, D. M.
+.N
+CA621213 JB March 17, 1978  5:00 PM
+.X
+426	5	426
+426	5	426
+426	5	426
+.I 427
+.T
+PSIF (Algorithm 147)
+.B
+CACM December, 1962
+.A
+Amit, D.
+.N
+CA621212 JB March 17, 1978  5:03 PM
+.X
+427	5	427
+427	5	427
+427	5	427
+.I 428
+.T
+Multiple Integration (Algorithm 146)
+.B
+CACM December, 1962
+.A
+McKeeman, W. M.
+.N
+CA621211 JB March 17, 1978  5:04 PM
+.X
+428	5	428
+428	5	428
+428	5	428
+.I 429
+.T
+Adaptive Nimerical Integration by Simpson's Rule (Algorithm 145)
+.B
+CACM December, 1962
+.A
+McKeeman, W. M.
+.N
+CA621210 JB March 17, 1978  5:06 PM
+.X
+1352	5	429
+2048	5	429
+2074	5	429
+2093	5	429
+2550	5	429
+429	5	429
+429	5	429
+429	5	429
+834	6	429
+834	6	429
+834	6	429
+834	6	429
+872	6	429
+872	6	429
+872	6	429
+1040	6	429
+1092	6	429
+1092	6	429
+1241	6	429
+1273	6	429
+1298	6	429
+1573	6	429
+1573	6	429
+324	6	429
+2074	6	429
+429	6	429
+429	6	429
+429	6	429
+429	6	429
+429	6	429
+570	6	429
+621	6	429
+786	6	429
+786	6	429
+786	6	429
+.I 430
+.T
+TREESORT2 (Algorithm 144)
+.B
+CACM December, 1962
+.A
+Kaupe Jr.,A. F.
+.N
+CA621209 JB March 17, 1978  5:07 PM
+.X
+430	5	430
+430	5	430
+430	5	430
+.I 431
+.T
+TREESORT1 (Algorithm 143)
+.B
+CACM December, 1962
+.A
+Kaupe Jr., A. F.
+.N
+CA621208 JB March 17, 1978  5:08 PM
+.X
+431	5	431
+431	5	431
+431	5	431
+.I 432
+.T
+Triangular Regression (Algorithm 142)
+.B
+CACM December, 1962
+.A
+Hafley, W. L.
+Lewis, J. S.
+.N
+CA621207 JB March 17,1978  5:09 PM
+.X
+432	5	432
+432	5	432
+432	5	432
+.I 433
+.T
+Fixed-World-Length Arrays in Variable-Word-Length Computers
+.B
+CACM December, 1962
+.A
+Sonquist, J. A.
+.N
+CA621206 JB March 17, 1978  5:10 PM
+.X
+433	5	433
+433	5	433
+433	5	433
+.I 434
+.T
+Character Manipulation in 1620 Fortran II
+.B
+CACM December, 1962
+.A
+Poore Jr., J. H.
+.N
+CA621205 JB March 17, 1978  5:11 PM
+.X
+434	5	434
+434	5	434
+434	5	434
+.I 435
+.T
+A Decision Matrix as the Basis for a Simple Data Input Routine
+.W
+Currently a great deal of time and effort is
+being spent on the development of bigger and better 
+compiler languages, multiprogram executive systems,
+etc.  Since the implementation of  of new methods 
+and procedures is not instantaneous, but rather occurs
+by an evolutionary process, we should be concerned 
+also with the problem of maintaining, improving and
+incorporating new ideas into existing systems.  It 
+is with this somewhat neglected area that the author is
+interested.  A method employing a decision matrix 
+is presented for the handling of a standard systems
+programming problem,that of providing a data input 
+routine.
+.B
+CACM December, 1962
+.A
+Vasilakos, G. J.
+.N
+CA621204 JB March 17, 1978  5:15 PM
+.X
+249	4	435
+254	4	435
+272	4	435
+1102	4	435
+1109	4	435
+1140	4	435
+1188	4	435
+1306	4	435
+1464	4	435
+1491	4	435
+1767	4	435
+1781	4	435
+1787	4	435
+1949	4	435
+321	4	435
+2059	4	435
+2126	4	435
+435	4	435
+435	4	435
+437	4	435
+463	4	435
+483	4	435
+491	4	435
+2732	4	435
+560	4	435
+583	4	435
+3073	4	435
+627	4	435
+631	4	435
+632	4	435
+642	4	435
+644	4	435
+653	4	435
+680	4	435
+761	4	435
+762	4	435
+763	4	435
+849	4	435
+123	4	435
+140	4	435
+919	4	435
+989	4	435
+196	5	435
+1053	5	435
+435	5	435
+435	5	435
+435	5	435
+615	5	435
+435	6	435
+474	6	435
+718	6	435
+720	6	435
+.I 436
+.T
+Evaluation of Polynomials by Computer
+.B
+CACM December, 1962
+.A
+Knuth, D. E.
+.N
+CA621203 JB March 17, 1978  5:16 PM
+.X
+1223	4	436
+1388	4	436
+436	4	436
+1620	5	436
+405	5	436
+436	5	436
+436	5	436
+436	5	436
+819	5	436
+819	6	436
+436	6	436
+436	6	436
+.I 437
+.T
+Compiling Matrix Operations
+.B
+CACM December, 1962
+.A
+Galler, B. A.
+Perlis, A. J.
+.N
+CA621202 JB March 17, 1978  5:17 PM
+.X
+249	4	437
+254	4	437
+272	4	437
+1102	4	437
+1109	4	437
+1140	4	437
+1188	4	437
+1306	4	437
+1464	4	437
+1491	4	437
+1767	4	437
+1781	4	437
+1787	4	437
+1949	4	437
+321	4	437
+2059	4	437
+2126	4	437
+435	4	437
+437	4	437
+463	4	437
+483	4	437
+491	4	437
+2732	4	437
+560	4	437
+583	4	437
+3073	4	437
+627	4	437
+631	4	437
+632	4	437
+642	4	437
+644	4	437
+653	4	437
+680	4	437
+761	4	437
+762	4	437
+763	4	437
+123	4	437
+140	4	437
+919	4	437
+989	4	437
+196	5	437
+1614	5	437
+2253	5	437
+2557	5	437
+437	5	437
+437	5	437
+437	5	437
+2081	6	437
+437	6	437
+437	6	437
+437	6	437
+3184	6	437
+.I 438
+.T
+Mechanical Pragmatics: A Time-Motion Study
+of a Miniature Mechanical Linguistic System
+.B
+CACM December, 1962
+.A
+Gorn, S.
+.N
+CA621201 JB March 17, 1978  5:19 PM
+.X
+249	4	438
+267	4	438
+1134	4	438
+1139	4	438
+1141	4	438
+1141	4	438
+1215	4	438
+1223	4	438
+1425	4	438
+1647	4	438
+1781	4	438
+1781	4	438
+1787	4	438
+1792	4	438
+364	4	438
+364	4	438
+405	4	438
+405	4	438
+438	4	438
+438	4	438
+438	4	438
+438	4	438
+561	4	438
+44	4	438
+3185	4	438
+762	4	438
+763	4	438
+1139	5	438
+224	5	438
+249	5	438
+303	5	438
+438	5	438
+438	5	438
+438	5	438
+77	5	438
+3185	5	438
+224	6	438
+303	6	438
+399	6	438
+404	6	438
+438	6	438
+438	6	438
+464	6	438
+631	6	438
+.I 439
+.T
+On-Line Digital Computer for Measurement of a Neurological Control System
+.B
+CACM November, 1962
+.A
+Stark, L.
+Payne, R.
+Okabe, Y.
+.N
+CA621122 JB March 17, 1978 5:20 PM
+.X
+439	5	439
+439	5	439
+439	5	439
+.I 440
+.T
+Record Linkage
+.W
+Special difficulties are encountered in devising
+reliable systems for searching and updating 
+any large files of documents that must be identified
+primarily on the basis of names and other personal 
+particulars.  The underlying problem is that of making nearly
+maximum use of items of identifying information 
+that are individually unreliable but that may collectively
+be of considerable discriminating power.  
+Rules that can be applied generally to name retrieval
+systems have been developed in a methodological 
+study of the linkage of vital and health records into
+family groupings for demographic research purposes. 
+ These rules are described, and the ways in which information
+utilization for matching may be optimized 
+are discussed.
+.B
+CACM November, 1962
+.A
+Newcombe, H. B.
+Kennedy, J. M.
+.N
+CA621121 JB March 17, 1978  5:51 PM
+.X
+1112	4	440
+1592	4	440
+2111	4	440
+2339	4	440
+440	4	440
+2339	5	440
+440	5	440
+440	5	440
+440	5	440
+619	5	440
+1112	6	440
+1592	6	440
+440	6	440
+619	6	440
+.I 441
+.T
+Topological Sorting of Large Networks
+.W
+Topological Sorting is a procedure required
+for many problems involving analysis of networks. 
+ An example of one such problem is PERT.  The present
+paper presents a very general method for obtaining 
+topological order.  It permits treatment of larger networks
+than can be handled on present procedures 
+and achieves this with greater efficiency.  Although
+the procedure can be adapted to any machine, it 
+is discussed in terms of the 7090.  A PERT network of
+30,000 activities can be ordered in less than one 
+hour of machine time.  The method was developed as
+a byproduct of procedures needed by Westinghouse, 
+Baltimore.  It has not been programmed and at present
+there are no plans to implement it.  In regard 
+to the techniques described, Westinghouse's present
+and anticipated needs are completely served by the 
+Lockheed program, which is in current use.
+.B
+CACM November, 1962
+.A
+Kahn, A. B.
+.N
+CA621120 JB March 17, 1978  5:58 PM
+.X
+1050	4	441
+1226	4	441
+441	4	441
+758	4	441
+1723	5	441
+367	5	441
+441	5	441
+441	5	441
+441	5	441
+758	5	441
+367	6	441
+441	6	441
+441	6	441
+.I 442
+.T
+Crout with Equilibration and Iteration (Algorithm 135)
+.B
+CACM November, 1962
+.A
+McKeeman, W. M.
+.N
+CA621119 JB March 17, 1978  5:59 PM
+.X
+442	5	442
+442	5	442
+442	5	442
+.I 443
+.T
+Complex Number to a Real Power (Algorithm 106)
+.B
+CACM December, 1962
+.A
+Erwin Jr.,G. W.
+.N
+CA621118 JB March 17, 1978  6:01 PM
+.X
+443	5	443
+443	5	443
+443	5	443
+.I 444
+.T
+Evaluation of Jacobi Symbol (Algorithm 99)
+.B
+CACM November, 1962
+.A
+May, R. W.
+.N
+CA621117 JB March 17, 1978  6:02 PM
+.X
+444	5	444
+444	5	444
+444	5	444
+.I 445
+.T
+COMBINATION (Algorithm 94)
+.B
+CACM November, 1962
+.A
+May, R. W.
+.N
+CA621116 JB March 17, 1978  6:03 PM
+.X
+445	5	445
+445	5	445
+445	5	445
+.I 446
+.T
+Simpson's Integration (Algorithm 84)
+.B
+CACM November, 1962
+.A
+Behrenz, P. G.
+.N
+CA621115 JB March 17, 1978  6:04 PM
+.X
+446	5	446
+446	5	446
+446	5	446
+.I 447
+.T
+Certification of the Calculation of Easter
+.B
+CACM November, 1962
+.A
+Williams, M. R.
+.N
+CA621114 JB March 17, 1978  6:05 PM
+.X
+447	5	447
+447	5	447
+447	5	447
+.I 448
+.T
+Path Matrix (Algorithm 141)
+.B
+CACM November, 1962
+.A
+Ingerman, P. Z.
+.N
+CA621113 JB March 17, 1978  6:06 PM
+.X
+448	5	448
+448	5	448
+448	5	448
+.I 449
+.T
+Matrix Inversion(Algorithm 140)
+.B
+CACM November, 1962
+.A
+Ingerman, P. Z.
+.N
+CA621112 JB March 17, 1978 6:12 PM
+.X
+449	5	449
+449	5	449
+449	5	449
+.I 450
+.T
+Solution of the Diophantine Equation (Algorithm 139)
+.B
+CACM November, 1962
+.A
+Peck, J. E. L.
+.N
+CA621111 JB March 17, 1978  6:13 PM
+.X
+2031	5	450
+450	5	450
+450	5	450
+450	5	450
+1022	6	450
+450	6	450
+.I 451
+.T
+Nesting of for Statement II (Algorithm 138)
+.B
+CACM November, 1962
+.A
+Dahm, D. M.
+Wells, M.
+.N
+CA621110 JB March 17, 1978  6:14 PM
+.X
+451	5	451
+451	5	451
+451	5	451
+.I 452
+.T
+Nesting of for Statement I (Algorithm 137)
+.B
+CACM November, 1962
+.A
+Dahm, D. M.
+Wells, M.
+.N
+CA621109 JB March 17, 1978  6:15 PM
+.X
+452	5	452
+452	5	452
+452	5	452
+.I 453
+.T
+Enlargement of a Group (Algorithm 136)
+.B
+CACM November, 1962
+.A
+Wells, M.
+.N
+CA621108 JB March 17, 1978  6:17 PM
+.X
+453	5	453
+453	5	453
+453	5	453
+.I 454
+.T
+Crout with Equilibration and Iteration (Algorithm 135)
+.B
+CACM November, 1962
+.A
+McKeeman, W. M.
+.N
+CA621107 JB March 17, 1978  6:51 PM
+.X
+1319	4	454
+454	4	454
+454	4	454
+140	4	454
+152	5	454
+1177	5	454
+454	5	454
+454	5	454
+454	5	454
+586	5	454
+806	5	454
+932	6	454
+454	6	454
+454	6	454
+.I 455
+.T
+Exponentiation of Series (Algorithm 134)
+.B
+CACM November, 1962
+.A
+Fettis, H. E.
+.N
+CA621106 JB March 17, 1978  6:52 PM
+.X
+455	5	455
+455	5	455
+455	5	455
+.I 456
+.T
+RANDOM (Algorithm 133)
+.B
+CACM November, 1962
+.A
+Behrenz, P. G.
+.N
+CA621105 JB March 17, 1978  6:53 PM
+.X
+1190	5	456
+456	5	456
+456	5	456
+456	5	456
+456	6	456
+.I 457
+.T
+Quantum Mechanical Integrals Over all Slater-Type Integrals
+.B
+CACM November, 1962
+.A
+Browne, J. C.
+.N
+CA621104 JB March 17, 1978  6:54 PM
+.X
+457	5	457
+457	5	457
+457	5	457
+.I 458
+.T
+Coefficient Determination (Algorithm 131)
+.B
+CACM November, 1962
+.A
+Smith, V. H.
+Allen, M. L.
+.N
+CA621103 JB March 17, 1978  6:56 PM
+.X
+458	5	458
+458	5	458
+458	5	458
+.I 459
+.T
+PERMUTE (Algorithm 130)
+.B
+CACM November, 1962
+.A
+Eaves, Lt. B. C.
+.N
+CA621102 JB March 17, 1978  6:57 PM
+.X
+459	5	459
+459	5	459
+459	5	459
+.I 460
+.T
+MINIFUN (Algorithm 129)
+.B
+CACM November, 1962
+.A
+Whitley, V. W.
+.N
+CA621101 JB March 17, 1978  6:58 PM
+.X
+460	5	460
+460	5	460
+460	5	460
+.I 461
+.T
+Coding of Medical Case History Data for Computer Analysis
+.B
+CACM October, 1962
+.A
+Lipkin, M.
+Woodbury, M. A.
+.N
+CA621019 JB March 17, 1978  6:59 PM
+.X
+461	5	461
+461	5	461
+461	5	461
+.I 462
+.T
+Computer Pattern Recognition Techniques: Electrocardiographic Diagnosis
+.W
+The use of programmed digital computers as general
+pattern classification and recognition devices 
+is one phase of the current lively interest in artificial
+intelligence.  It is important to choose a 
+class of signals which is, at present, undergoing a
+good deal of visual inspection by trained people 
+for the purpose of pattern recognition.  In this way
+comparisons between machine and human performance 
+may be obtained.  A practical result also serves as additional
+motivation.  Clinical electrocardiograms 
+make up such a class of signals.  The approach to the
+problem presented here centers upon the use of 
+multiple adaptive matched filters that classify normalized
+signals.  The present report fives some of 
+the background for the application of this method.
+.B
+CACM October, 1962
+.A
+Stark,L.
+Okajima, M.
+Whipple, G. H.
+.N
+CA621018 JB March 17, 1978  7:04 PM
+.X
+1325	5	462
+462	5	462
+462	5	462
+462	5	462
+462	6	462
+.I 463
+.T
+On Ambiguity in Phrase Structure Languages
+.B
+CACM October, 1962
+.A
+Floyd, R. W.
+.N
+CA621017 JB March 17, 1978  7:05 PM
+.X
+249	4	463
+254	4	463
+272	4	463
+1102	4	463
+1109	4	463
+1140	4	463
+1188	4	463
+1306	4	463
+1464	4	463
+1491	4	463
+1767	4	463
+1781	4	463
+1787	4	463
+1949	4	463
+321	4	463
+2059	4	463
+2126	4	463
+435	4	463
+437	4	463
+463	4	463
+483	4	463
+491	4	463
+2732	4	463
+560	4	463
+583	4	463
+3073	4	463
+627	4	463
+631	4	463
+632	4	463
+642	4	463
+644	4	463
+653	4	463
+680	4	463
+761	4	463
+762	4	463
+763	4	463
+123	4	463
+140	4	463
+919	4	463
+989	4	463
+196	5	463
+1306	5	463
+1781	5	463
+463	5	463
+463	5	463
+463	5	463
+123	6	463
+196	6	463
+196	6	463
+919	6	463
+990	6	463
+1007	6	463
+1046	6	463
+1131	6	463
+1139	6	463
+1140	6	463
+1149	6	463
+1198	6	463
+1215	6	463
+1223	6	463
+1265	6	463
+1303	6	463
+1323	6	463
+1358	6	463
+1366	6	463
+1421	6	463
+1460	6	463
+1462	6	463
+1463	6	463
+1467	6	463
+1468	6	463
+1477	6	463
+1491	6	463
+1496	6	463
+1531	6	463
+1535	6	463
+1565	6	463
+1601	6	463
+1602	6	463
+1613	6	463
+1614	6	463
+1626	6	463
+1641	6	463
+1787	6	463
+1788	6	463
+205	6	463
+224	6	463
+249	6	463
+288	6	463
+316	6	463
+381	6	463
+398	6	463
+11	6	463
+404	6	463
+410	6	463
+463	6	463
+463	6	463
+464	6	463
+483	6	463
+3184	6	463
+3188	6	463
+584	6	463
+600	6	463
+680	6	463
+691	6	463
+763	6	463
+799	6	463
