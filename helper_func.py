@@ -10,6 +10,15 @@ def show_list(arr):
         print(f"index: {doc}\n\"{arr[doc]}\"\n")
 
 
+def set_flags(stop, stem):
+    """Sets the stopflag and stemflag.
+    """
+    global stopflag
+    global stemflag
+    stopflag = stop
+    stemflag = stem
+
+
 def get_ID(string):
     """Returns the document ID.
 
@@ -86,18 +95,9 @@ def build_postings(dictionary, term):
     """
     linked_list = list()
     for key in dictionary.items():
-        # print(f"CURRENTLY AT: {key[0]} \n\n{key} \nLEN:{len(key[1])}\n\n")
-
-        # Document has a title and abstract
-        if len(key[1]) == 3 and term in key[1][2]:
+        if term in key[1]:
             linked_list.append(key[0])
-
-        # Document only has a title
-        elif term in key[1][1]:
-            linked_list.append(key[0])
-
     return linked_list
-    # print(f"linkedlist: {linked_list}")
 
 
 def stop_and_port(flag, string, stop_state, porter_state):
@@ -148,10 +148,6 @@ def stop_and_port(flag, string, stop_state, porter_state):
     return string_list
 
 
-stopflag = True
-stemflag = True
-
-
 def build_vocab(dictionary):
     """Returns the tokenized vocabulary set of terms (if applicable, with
     stopword removal and Porter stemming applied).
@@ -159,10 +155,7 @@ def build_vocab(dictionary):
     # Build the set of all terms
     vocabulary = []
     for key in dictionary.items():
-        if len(key[1]) == 3:
-            vocabulary += key[1][2]
-        else:
-            vocabulary += key[1][1]
+        vocabulary += key[1]
     vocabulary = sorted(set(vocabulary))
 
     # Build the vocabulary dictionary: {term, (df, [postings])}
@@ -182,12 +175,11 @@ def pre_processing(document):
 
         # Build document corpus
         if abstract != None:
-            doc_corpus[id] = (' '.join(title.split()),
-                              ' '.join(abstract.split()),
-                              stop_and_port(False, title.lower()+abstract.lower(), stopflag, stemflag))
+            doc_corpus[id] = (stop_and_port(
+                False, title.lower()+abstract.lower(), stopflag, stemflag))
         else:
-            doc_corpus[id] = (' '.join(title.split()),
-                              stop_and_port(False, title.lower(), stopflag, stemflag))
+            doc_corpus[id] = (stop_and_port(
+                False, title.lower(), stopflag, stemflag))
 
     return doc_corpus
 
