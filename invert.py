@@ -12,7 +12,7 @@ import helper_func as diegotom
 #
 # True -> Apply filter.
 # False -> Do not apply filter.
-
+# AVG TIME: ~30 secs
 stopflag = True
 stemflag = True
 
@@ -22,11 +22,12 @@ stemflag = True
 # True -> Generate all cache versions.
 # False -> Generate only one cache version,
 #          relative to flag settings above.
-generate_ALL = False
+# AVG TIME: ~1.5 mins
+generate_ALL = True
 # ---------------------------------------------
 
 
-with open("cacm.all_test", "r") as f:
+with open("cacm.all", "r") as f:
     text = f.read()
     text_split = text.split(".I ")
 

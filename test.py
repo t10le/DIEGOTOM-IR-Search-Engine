@@ -82,7 +82,7 @@ def pre_process(string: str) -> list:
     return diegotom.stop_and_port(False, string, stop, stem)
 
 
-def get_query_vector(string_list: list) -> float:
+def vector_space_pipeline(string_list: list) -> float:
     """ Returns the weight of the query vector.
     Assumes that W=TF, not W=TF*IDF.
 
@@ -97,8 +97,7 @@ def get_query_vector(string_list: list) -> float:
     relevant_doc_ids = []  # The list of ALL relevant document ids relatve to query
     q_weight = 0
 
-    print(f'{document_dict}\n')
-    print(f'\n\nset_terms: {set_terms}')
+    # print(f'{document_dict}\n')
     for i in range(len(set_terms)):
         if set_terms[i] in vocab_dict:
             q_tf = 1+math.log(string_list.count(set_terms[i]))
@@ -108,8 +107,9 @@ def get_query_vector(string_list: list) -> float:
 
             # Store the document ID
             relevant_doc_ids += vocab_dict[set_terms[i]]
+    q_weight = math.sqrt(q_weight)
 
-    print(f'\nrelevant_doc_ids: {set(relevant_doc_ids)}')
+    print(f'\n>>> relevant_doc_ids <<<\n\t {set(relevant_doc_ids)}')
     result_docs = {}
     d_weight = 0
     N = len(document_dict)
@@ -121,18 +121,24 @@ def get_query_vector(string_list: list) -> float:
                 d_weight = d_tf*math.log(N/len(vocab_dict[set_terms[i]]))
                 d_vector[i] = d_weight
         result_docs[docID] = d_vector
-    print(f'\nresulting document collection: {result_docs}')
+    print(f'\n>>> resulting document collection <<<\n\t {result_docs}')
 
     cosine_sim = {}
 
     for document in result_docs.items():
-        print(f'testing: {document[1]} and {q_vector}')
         cosine_sim[document[0]] = np.dot(document[1], q_vector) / (
             (math.sqrt(sum(i * i for i in document[1]))) * (math.sqrt(q_weight)))
 
+    final_results = sorted(
+        cosine_sim.items(), key=lambda x: x[1], reverse=True)
     print(
-        f'\ncosine list: {sorted(cosine_sim.items(), key=lambda x: x[1], reverse=True)}')
-    return math.sqrt(q_weight)
+        f'\n>>> cosine sim list <<<\n\t {final_results}')
+
+    print(f'\n\nset_terms: {set_terms}')
+    print(f'query vector: {q_vector}')
+    print(f'query weight: {q_weight}')
+
+    return final_results
 
 
 # Greet and process user filter request
@@ -150,10 +156,8 @@ while True:
         break
     start = time.time()
     # --- Enter task below ---
-    q_weight = get_query_vector(pre_process(user))
-    print(f'query vector: {q_vector}')
-    print(f'query weight: {q_weight}')
-
+    ranked_list = vector_space_pipeline(pre_process(user))
+    print(f'ORIGINAL QUERY: "{user}"')
     # ------------------------
     end = time.time()
 
