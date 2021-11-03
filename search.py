@@ -56,7 +56,7 @@ def welcome_msg():
     print('==================================')
     print("Welcome to Diegotom Search Engine!")
     print('==================================')
-    print('Type either of the following combinations to apply towards your query and our database:')
+    print('Type either of the following combinations to apply towards your query and the CACM database:')
     print('\n\t\'0 0\'\t--> No stopword; No Porter stemming')
     print('\n\t\'1 0\'\t--> Apply stopword; No Porter stemming')
     print('\n\t\'0 1\'\t--> No stopword; Apply Porter stemming')
