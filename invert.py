@@ -21,8 +21,8 @@ stemflag = True
 # True -> Generate all cache versions.
 # False -> Generate only one cache version,
 #          relative to flag settings above.
-# AVG TIME: ~1.5 mins
-generate_ALL = False
+# AVG TIME: ~2 mins
+generate_ALL = True
 # ---------------------------------------------
 
 
@@ -37,47 +37,47 @@ with open("metadata.txt", "w") as f:
     #     print(author)
     f.write(str(authors_dict) + '/diegotom/' + str(titles_dict))
 
-# if generate_ALL:
-#     cache_versions = [(False, False),
-#                       (True, False),
-#                       (False, True),
-#                       (True, True)]
-#     cache_titles = ['cache-0-0.txt',
-#                     'cache-1-0.txt',
-#                     'cache-0-1.txt',
-#                     'cache-1-1.txt']
+if generate_ALL:
+    cache_versions = [(False, False),
+                      (True, False),
+                      (False, True),
+                      (True, True)]
+    cache_titles = ['cache-0-0.txt',
+                    'cache-1-0.txt',
+                    'cache-0-1.txt',
+                    'cache-1-1.txt']
 
-#     for i in range(4):
-#         diegotom.set_flags(
-#             stop=cache_versions[i][0], stem=cache_versions[i][1])
-#         doc_corpus = diegotom.pre_processing(text_split)
-#         all_terms = diegotom.build_vocab(doc_corpus)
-#         with open(cache_titles[i], "w") as f:
-#             f.write(str(doc_corpus) + '/diegotom/' + str(all_terms))
+    for i in range(4):
+        diegotom.set_flags(
+            stop=cache_versions[i][0], stem=cache_versions[i][1])
+        doc_corpus = diegotom.pre_processing(text_split)
+        all_terms = diegotom.build_vocab(doc_corpus)
+        with open(cache_titles[i], "w") as f:
+            f.write(str(doc_corpus) + '/diegotom/' + str(all_terms))
 
-# else:
-#     # Step i) Set the Stopword and Porter stemming flags prior to creating the dictionaries.
-#     diegotom.set_flags(stop=stopflag, stem=stemflag)
+else:
+    # Step i) Set the Stopword and Porter stemming flags prior to creating the dictionaries.
+    diegotom.set_flags(stop=stopflag, stem=stemflag)
 
-#     # Step ii) Create document dictionary.
-#     # Example: {'docID', ['term','term','term']}
-#     doc_corpus = diegotom.pre_processing(text_split)
+    # Step ii) Create document dictionary.
+    # Example: {'docID', ['term','term','term']}
+    doc_corpus = diegotom.pre_processing(text_split)
 
-#     # Step iii) Create vocabulary dictionary.
-#     # Example: {'term', ['docID', 'docID']}
-#     all_terms = diegotom.build_vocab(doc_corpus)
+    # Step iii) Create vocabulary dictionary.
+    # Example: {'term', ['docID', 'docID']}
+    all_terms = diegotom.build_vocab(doc_corpus)
 
-#     # Step iv) Create a cache textfile with both the dictionary and postings inside.
-#     if not stopflag and not stemflag:
-#         filename = "cache-0-0.txt"
-#     elif stopflag and not stemflag:
-#         filename = "cache-1-0.txt"
-#     elif not stopflag and stemflag:
-#         filename = "cache-0-1.txt"
-#     elif stopflag and stemflag:
-#         filename = "cache-1-1.txt"
-#     else:
-#         filename = "error_pls_delete_this_file"
+    # Step iv) Create a cache textfile with both the dictionary and postings inside.
+    if not stopflag and not stemflag:
+        filename = "cache-0-0.txt"
+    elif stopflag and not stemflag:
+        filename = "cache-1-0.txt"
+    elif not stopflag and stemflag:
+        filename = "cache-0-1.txt"
+    elif stopflag and stemflag:
+        filename = "cache-1-1.txt"
+    else:
+        filename = "error_pls_delete_this_file"
 
-#     with open(filename, "w") as f:
-#         f.write(str(doc_corpus) + '/diegotom/' + str(all_terms))
+    with open(filename, "w") as f:
+        f.write(str(doc_corpus) + '/diegotom/' + str(all_terms))

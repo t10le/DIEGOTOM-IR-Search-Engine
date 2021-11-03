@@ -29,7 +29,7 @@ while True:
         author = ' '.join(authors_dict[ID])
         title = ' '.join(titles_dict[ID])
         print(
-            f'Rank: {i+1}\nDocument ID:\t{ID}\nTitle:\t\t{title}\nAuthor(s):\t{author}\nRelvance Score:\t{score}\n\n')
+            f'Rank: {i+1}\nDocument ID:\t {ID}\nTitle:\t\t {title}\nAuthor(s):\t {author}\nRelevance Score: {score}\n\n')
     # ------------------------
     end = time.time()
 
