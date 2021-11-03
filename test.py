@@ -1,6 +1,8 @@
 import ast
 import time
+import math
 import helper_func as diegotom
+from typing import *
 
 
 class InvalidStopPorterOptions(Exception):
@@ -26,7 +28,10 @@ def welcome_msg():
     stop_porter_options(input('\n> '))
 
 
-def read_file(cache):
+def read_file(cache: str):
+    """Initializes the document and vocabulary dictionaries by splitting up the string literal versions
+    of the dictionary formats inside the cache text file.
+    """
     global document_dict
     global vocab_dict
 
@@ -68,8 +73,24 @@ def stop_porter_options(string):
         quit()
 
 
-def pre_process(string):
+def pre_process(string: str) -> list:
+    # Tokenization and case-folding are applied to string by default.
+    # Stopword removal and Porter stemming are optional, defined by
+    # the user.
     return diegotom.stop_and_port(False, string, stop, stem)
+
+
+def get_weight_vector(string_list: list) -> float:
+    """
+    Assumes that W=TF, not W=TF*IDF.
+    """
+    w = 0
+    set_terms = set(string_list)
+    print(document_dict)
+    for term in set_terms:
+        if term in vocab_dict:
+            w += (1+math.log(string_list.count(term)))**2
+    return math.sqrt(w)
 
 
 # Greet and process user filter request
@@ -78,13 +99,17 @@ print('\nREADY!')
 
 # Process user query and use search.py
 print('\nEnter your query below; to exit, type \'ZZEND\' and hit enter.')
-user = input('> ')
+
 avg_time = 0
 count = 0
-while user != "ZZEND":
+while True:
+    user = input('> ')
+    if user == 'ZZEND':
+        break
     start = time.time()
     # --- Enter task below ---
-    query = pre_process(user)
+    weight = get_weight_vector(pre_process(user))
+    print(weight)
     # ------------------------
     end = time.time()
 
@@ -92,6 +117,8 @@ while user != "ZZEND":
     avg_time += elapsed
     count += 1
     print(f"\nElasped Time to Retrieve: {elapsed}")
-    user = input('> ')
 print("\ntest.py has been terminated by 'ZZEND'")
-print(f"Averaged time of retrieval: {avg_time/count}")
+if count == 0:
+    print(f"Averaged time of retrieval: 0.0")
+else:
+    print(f"Averaged time of retrieval: {avg_time/count}")

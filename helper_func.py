@@ -3,6 +3,7 @@ import pprint
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
+from typing import *
 
 
 def show_list(arr):
@@ -10,7 +11,7 @@ def show_list(arr):
         print(f"index: {doc}\n\"{arr[doc]}\"\n")
 
 
-def set_flags(stop, stem):
+def set_flags(stop: bool, stem: bool):
     """Sets the stopflag and stemflag.
     """
     global stopflag
@@ -19,7 +20,7 @@ def set_flags(stop, stem):
     stemflag = stem
 
 
-def get_ID(string):
+def get_ID(string: str) -> str:
     """Returns the document ID.
 
     :param string: A long pre-formatted string.
@@ -35,7 +36,7 @@ def get_ID(string):
     return string[:string.find("\n")]
 
 
-def get_title(string):
+def get_title(string: str) -> str:
     """Returns the document title.
 
     :param string: A long pre-formatted string.
@@ -53,7 +54,7 @@ def get_title(string):
     return string[START:END]
 
 
-def get_abstract(string):
+def get_abstract(string: str) -> str:
     """Returns the document abstract (if applicable).
 
     :param string: A long pre-formatted string.
@@ -75,7 +76,7 @@ def get_abstract(string):
     return None
 
 
-def build_postings(dictionary, term):
+def build_postings(dictionary: dict, term: str) -> list:
     """Returns the posting list representing the document IDs 
     relative to the term.
 
@@ -100,7 +101,7 @@ def build_postings(dictionary, term):
     return linked_list
 
 
-def stop_and_port(flag, string, stop_state, porter_state):
+def stop_and_port(flag: bool, string: str, stop_state: bool, porter_state: bool) -> list:
     """Returns the tokenized vocabulary set of terms (if applicable, with
     stopword removal and Porter stemming applied).
     :param string: A long pre-formatted string containing all document 
@@ -148,7 +149,7 @@ def stop_and_port(flag, string, stop_state, porter_state):
     return string_list
 
 
-def build_vocab(dictionary):
+def build_vocab(dictionary: dict) -> dict:
     """Returns the tokenized vocabulary set of terms (if applicable, with
     stopword removal and Porter stemming applied).
     """
@@ -165,7 +166,7 @@ def build_vocab(dictionary):
     return vocab_dict
 
 
-def pre_processing(document):
+def pre_processing(document: list) -> dict:
     doc_corpus = {}
     for i in range(1, len(document)):
         # Document essentials
