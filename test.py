@@ -80,17 +80,44 @@ def pre_process(string: str) -> list:
     return diegotom.stop_and_port(False, string, stop, stem)
 
 
-def get_weight_vector(string_list: list) -> float:
-    """
+def get_query_vector(string_list: list) -> float:
+    """ Returns the weight of the query vector.
     Assumes that W=TF, not W=TF*IDF.
+
+    :return: the weight of query vector, while establishing global query vector
     """
-    w = 0
-    set_terms = set(string_list)
-    print(document_dict)
-    for term in set_terms:
-        if term in vocab_dict:
-            w += (1+math.log(string_list.count(term)))**2
-    return math.sqrt(w)
+    global set_terms
+    global q_vector
+    global relevant_doc_ids
+
+    set_terms = sorted(set(string_list))
+    q_vector = [0] * len(set_terms)
+    relevant_doc_ids = []  # The list of ALL relevant document ids relatve to query
+    q = 0
+
+    print(f'{document_dict}\n')
+    print(f'set_terms: {set_terms}')
+    for i in range(len(set_terms)):
+        if set_terms[i] in vocab_dict:
+            q_tf = 1+math.log(string_list.count(set_terms[i]))
+            q += (q_tf)**2
+            q_vector[i] = q_tf
+
+            # Store the document ID
+            relevant_doc_ids += vocab_dict[set_terms[i]]
+
+    print(f'relevant_doc_ids: {set(relevant_doc_ids)}')
+    result_docs = {}
+    for docID in set(relevant_doc_ids):
+        d_vector = [0] * len(set_terms)
+        for i in range(len(set_terms)):
+            if set_terms[i] in document_dict[docID]:
+                d_tf = 1+math.log(document_dict[docID].count(set_terms[i]))
+                d_vector[i] = d_tf
+        result_docs[docID] = d_vector
+
+    print(f'resulting document collection: {result_docs}')
+    return math.sqrt(q)
 
 
 # Greet and process user filter request
@@ -108,8 +135,10 @@ while True:
         break
     start = time.time()
     # --- Enter task below ---
-    weight = get_weight_vector(pre_process(user))
-    print(weight)
+    q_weight = get_query_vector(pre_process(user))
+    print(f'query vector: {q_vector}')
+    print(f'query weight: {q_weight}')
+
     # ------------------------
     end = time.time()
 
