@@ -2,7 +2,6 @@ import ast
 import time
 import math
 import numpy as np
-import collections
 import helper_func as diegotom
 from typing import *
 
@@ -84,7 +83,7 @@ def pre_process(string: str) -> list:
 
 def vector_space_pipeline(string_list: list) -> float:
     """ Returns the weight of the query vector.
-    Assumes that W=TF, not W=TF*IDF.
+    Assumes that W=TF*IDF.
 
     :return: the weight of query vector, while establishing global query vector
     """
@@ -96,28 +95,30 @@ def vector_space_pipeline(string_list: list) -> float:
     q_vector = [0] * len(set_terms)
     relevant_doc_ids = []  # The list of ALL relevant document ids relatve to query
     q_weight = 0
+    N = len(document_dict)
 
     # print(f'{document_dict}\n')
     for i in range(len(set_terms)):
         if set_terms[i] in vocab_dict:
             q_tf = 1+math.log(string_list.count(set_terms[i]))
-            q_weight += (q_tf)**2
-            # Note: This is technically the q_weight, since we do W = TF, not W = TF * IDF
+            q_weight += (q_tf*math.log(N/(len(vocab_dict[set_terms[i]]))))**2
             q_vector[i] = q_tf
 
             # Store the document ID
             relevant_doc_ids += vocab_dict[set_terms[i]]
     q_weight = math.sqrt(q_weight)
 
-    print(f'\n>>> relevant_doc_ids <<<\n\t {set(relevant_doc_ids)}')
+    print(
+        f'\n>>> relevant_doc_ids (NOT ORDERED YET BY COSINE SIM)<<<\n\t {set(relevant_doc_ids)}')
     result_docs = {}
     d_weight = 0
-    N = len(document_dict)
+
     for docID in set(relevant_doc_ids):
         d_vector = [0] * len(set_terms)
         for i in range(len(set_terms)):
             if set_terms[i] in document_dict[docID]:
                 d_tf = 1+math.log(document_dict[docID].count(set_terms[i]))
+                print(f"DF: {len(vocab_dict[set_terms[i]])}")
                 d_weight = d_tf*math.log(N/len(vocab_dict[set_terms[i]]))
                 d_vector[i] = d_weight
         result_docs[docID] = d_vector
@@ -129,8 +130,9 @@ def vector_space_pipeline(string_list: list) -> float:
         cosine_sim[document[0]] = np.dot(document[1], q_vector) / (
             (math.sqrt(sum(i * i for i in document[1]))) * (math.sqrt(q_weight)))
 
+    K = 10
     final_results = sorted(
-        cosine_sim.items(), key=lambda x: x[1], reverse=True)
+        cosine_sim.items(), key=lambda x: x[1], reverse=True)[:K]
     print(
         f'\n>>> cosine sim list <<<\n\t {final_results}')
 
