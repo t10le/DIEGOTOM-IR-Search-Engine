@@ -1,24 +1,49 @@
+"""
+This program is intended to run manually by the user to create a cache text file
+containing the document and posting dictionaries, relative to the user's choice
+for turning on/off Stopword and Porter stemming.
+"""
 import helper_func as diegotom
 
 
-def makeChanges(flag):
-    print("ENTEREDDDD")
-    with open("cacm.all", "r") as f:
-        text = f.read()
-        text_split = text.split(".I ")
-        sub = text_split[1:]
-        # print(sub)
+# --- ONLY MODIFY THESE VALUES IN THIS FILE ---
+# Set the flags according to how you want the
+# dictionary and postings files be filtered.
+#
+# True -> Apply filter.
+# False -> Do not apply filter.
 
-    # Create document dictionary.
-    # {'docID', ['term','term','term']}
-    doc_corpus = diegotom.pre_processing(text_split)
+stopflag = True
+stemflag = True
+# ---------------------------------------------
 
-    # Create vocabulary dictionary.
-    # {'term', ['docID', 'docID']}
-    all_terms = diegotom.build_vocab(doc_corpus)
 
-    with open("dictionary.txt", "w") as f:
-        f.write(str(doc_corpus))
+with open("cacm.all", "r") as f:
+    text = f.read()
+    text_split = text.split(".I ")
 
-    with open("postings.txt", "w") as f:
-        f.write(str(all_terms))
+# Step i) Set the Stopword and Porter stemming flags prior to creating the dictionaries.
+diegotom.set_flags(stop=stopflag, stem=stemflag)
+
+# Step ii) Create document dictionary.
+# Example: {'docID', ['term','term','term']}
+doc_corpus = diegotom.pre_processing(text_split)
+
+# Step iii) Create vocabulary dictionary.
+# Example: {'term', ['docID', 'docID']}
+all_terms = diegotom.build_vocab(doc_corpus)
+
+# Step iv) Create a cache textfile with both the dictionary and postings inside.
+if not stopflag and not stemflag:
+    filename = "cache-0-0.txt"
+elif stopflag and not stemflag:
+    filename = "cache-1-0.txt"
+elif not stopflag and stemflag:
+    filename = "cache-0-1.txt"
+elif stopflag and stemflag:
+    filename = "cache-1-1.txt"
+else:
+    filename = "error_pls_delete_this_file"
+
+with open(filename, "w") as f:
+    f.write(str(doc_corpus) + '/diegotom/' + str(all_terms))

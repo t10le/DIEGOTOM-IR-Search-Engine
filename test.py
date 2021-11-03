@@ -1,7 +1,6 @@
 import ast
 import time
-import invert as inversion
-import os
+import helper_func as diegotom
 
 
 class InvalidStopPorterOptions(Exception):
@@ -14,47 +13,55 @@ class InvalidStopPorterOptions(Exception):
 
 
 def welcome_msg():
-    global stop
-    global stem
     print('\ntest.py initiated.\n')
-    if os.path.isfile('dictionary.txt') and os.path.isfile('postings.txt'):
-        print('Existing \'dictionary.txt\' and \'postings.txt\' found.\n')
-        print('Would you like to make any changes to these files by applying stopword and/or Porter stemming? (y/n)')
-        user = input('> ')
-        if user == 'y':
-            return True
-        return False
-    else:
-        print('\n \'dictionary.txt\' and \'postings.txt\' were not found in current directory..\n')
-        return False
+    print('==================================')
+    print("Welcome to Diegotom Search Engine!")
+    print('==================================')
+    print('Type either of the following combinations to apply towards your query and our database:')
+    print('\n\t\'0 0\'\t--> No stopword; No Porter stemming')
+    print('\n\t\'1 0\'\t--> Apply stopword; No Porter stemming')
+    print('\n\t\'0 1\'\t--> No stopword; Apply Porter stemming')
+    print('\n\t\'1 1\'\t--> Apply stopword; Apply Porter stemming')
+
+    stop_porter_options(input('\n> '))
+
+
+def read_file(cache):
+    global document_dict
+    global vocab_dict
+
+    with open(cache, 'r') as f:
+        text = f.read()
+        delim = text.find('/diegotom/')
+        document_dict = text[:delim]
+        vocab_dict = text[delim+10:]
+
+    document_dict = ast.literal_eval(document_dict)
+    vocab_dict = ast.literal_eval(vocab_dict)
 
 
 def stop_porter_options(string):
+    global stop
+    global stem
     try:
         if string == '0 0':
-            stop = False
-            stem = False
+            stop, stem = False, False
+            read_file(cache='cache-0-0.txt')
             print('Selected: No stopword; No Porter stemming\nPlease wait...')
         elif string == '1 0':
-            stop = True
-            stem = False
+            stop, stem = True, False
+            read_file(cache='cache-1-0.txt')
             print('Selected: Apply stopword; No Porter stemming\nPlease wait...')
         elif string == "0 1":
-            stop = False
-            stem = True
+            stop, stem = False, True
+            read_file(cache='cache-0-1.txt')
             print('Selected: No stopword; Apply Porter stemming\nPlease wait...')
         elif string == "1 1":
-            stop = True
-            stem = True
+            stop, stem = True, True
+            read_file(cache='cache-1-1.txt')
             print('Selected: Apply stopword; Apply Porter stemming\nPlease wait...')
         else:
             raise InvalidStopPorterOptions
-
-        # Establish user settings for stopword and Porter stemming.
-        inversion.diegotom.set_flags(stop, stem)
-
-        # Create new dictionary and posting textfiles.
-        inversion.makeChanges(True)
 
     except InvalidStopPorterOptions:
         print('Invalid entry...please restart test.py')
@@ -62,28 +69,23 @@ def stop_porter_options(string):
 
 
 def pre_process(string):
-    return inversion.diegotom.stop_and_port(False, string, stop, stem)
+    return diegotom.stop_and_port(False, string, stop, stem)
 
 
-if welcome_msg():
-    print('\nType either of the following combinations:')
-    print('\n\t\'0 0\'\t--> No stopword; No Porter stemming')
-    print('\n\t\'1 0\'\t--> Apply stopword; No Porter stemming')
-    print('\n\t\'0 1\'\t--> No stopword; Apply Porter stemming')
-    print('\n\t\'1 1\'\t--> Apply stopword; Apply Porter stemming')
+# Greet and process user filter request
+welcome_msg()
+print('\nREADY!')
 
-    user = input('\n> ')
-    stop_porter_options(user)
-
-
+# Process user query and use search.py
 print('\nEnter your query below; to exit, type \'ZZEND\' and hit enter.')
 user = input('> ')
 avg_time = 0
 count = 0
 while user != "ZZEND":
     start = time.time()
-    # Enter task below
-    print(pre_process(user))
+    # --- Enter task below ---
+    query = pre_process(user)
+    # ------------------------
     end = time.time()
 
     elapsed = end-start
