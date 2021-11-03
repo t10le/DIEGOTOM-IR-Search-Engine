@@ -1,5 +1,10 @@
 import time
 import search as dt
+
+metadata_tuple = dt.read_metadata()
+authors_dict = metadata_tuple[0]
+titles_dict = metadata_tuple[1]
+
 # Greet and process user filter request
 dt.welcome_msg()
 print('\nREADY!')
@@ -16,7 +21,15 @@ while True:
     start = time.time()
     # --- Enter task below ---
     ranked_list = dt.vector_space_pipeline(dt.pre_process(user))
-    print(f'ORIGINAL QUERY: "{user}"')
+
+    # print(ranked_list)
+    for i in range(len(ranked_list)):
+        score = ranked_list[i][1]
+        ID = ranked_list[i][0]
+        author = ' '.join(authors_dict[ID])
+        title = ' '.join(titles_dict[ID])
+        print(
+            f'Rank: {i+1}\nDocument ID:\t{ID}\nTitle:\t\t{title}\nAuthor(s):\t{author}\nRelvance Score:\t{score}\n\n')
     # ------------------------
     end = time.time()
 

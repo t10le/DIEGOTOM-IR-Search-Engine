@@ -65,6 +65,19 @@ def welcome_msg():
     stop_porter_options(input('\n> '))
 
 
+def read_metadata() -> dict:
+    """Returns the both the author and title dictionary as a tuple.
+    Use tuple[0] for author and tuple[1] for title dictionary.
+    """
+    with open("metadata.txt", "r") as f:
+        text = f.read()
+        delim = text.find('/diegotom/')
+        author_dict = ast.literal_eval(text[:delim])
+        title_dict = ast.literal_eval(text[delim+10:])
+
+    return (author_dict, title_dict)
+
+
 def read_file(cache: str):
     """Initializes the document and vocabulary dictionaries by splitting up the string literal versions
     of the dictionary formats inside the cache text file.
@@ -117,11 +130,11 @@ def pre_process(string: str) -> list:
     return diegotom.stop_and_port(False, string, stop, stem)
 
 
-def vector_space_pipeline(string_list: list) -> float:
+def vector_space_pipeline(string_list: list) -> list:
     """ Returns the weight of the query vector.
     Assumes that W=TF*IDF.
 
-    :return: the weight of query vector, while establishing global query vector
+    :return: the relevance list of documents while establishing global variables
     """
     global set_terms
     global q_vector

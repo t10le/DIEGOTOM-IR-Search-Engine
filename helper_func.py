@@ -1,5 +1,3 @@
-import math
-import pprint
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
@@ -76,6 +74,16 @@ def get_abstract(string: str) -> str:
     return None
 
 
+def get_author(string: str) -> str:
+    """Returns the document author(s).
+    """
+    START = string.find(".A")
+    if START != -1:
+        END = string.find("\n.", START+1)
+        return string[START+2:END+1]
+    return None
+
+
 def build_postings(dictionary: dict, term: str) -> list:
     """Returns the posting list representing the document IDs 
     relative to the term.
@@ -132,7 +140,7 @@ def stop_and_port(flag: bool, string: str, stop_state: bool, porter_state: bool)
     STOP_WORDS = set(stopwords.words('english'))
     porter = PorterStemmer()
 
-    # Tokenize the string
+    # Tokenize the string (converts string into list).
     string_list = word_tokenize(string)
 
     # Stopword removal and Porter stemming requires a list.
@@ -166,15 +174,46 @@ def build_vocab(dictionary: dict) -> dict:
     return vocab_dict
 
 
+def authors_collection(document: list) -> dict:
+    doc_authors = {}
+
+    for i in range(1, len(document)):
+        # Document essential
+        id = get_ID(document[i])
+        author = get_author(document[i])
+
+        if author != None:
+            # Build document authors (Key: docID -> Val: Authors)
+            doc_authors[id] = author.split()
+        else:
+            doc_authors[id] = ['None']
+
+    return doc_authors
+
+
+def titles_collection(document: list) -> dict:
+    doc_titles = {}
+
+    for i in range(1,  len(document)):
+        # Document essentials
+        id = get_ID(document[i])
+        title = get_title(document[i])
+
+        # Build document authors (Key: docID -> Val: Authors)
+        doc_titles[id] = title.split()
+    return doc_titles
+
+
 def pre_processing(document: list) -> dict:
     doc_corpus = {}
+
     for i in range(1, len(document)):
         # Document essentials
         id = get_ID(document[i])
         title = get_title(document[i])
         abstract = get_abstract(document[i])
 
-        # Build document corpus
+        # Build document corpus (Key: docID -> Val: Terms)
         if abstract != None:
             doc_corpus[id] = (stop_and_port(
                 False, title.lower()+abstract.lower(), stopflag, stemflag))
@@ -183,5 +222,3 @@ def pre_processing(document: list) -> dict:
                 False, title.lower(), stopflag, stemflag))
 
     return doc_corpus
-
-    # pprint.pprint(all_terms)
