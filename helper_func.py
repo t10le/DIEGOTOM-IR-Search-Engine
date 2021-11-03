@@ -145,7 +145,7 @@ def stop_and_port(flag: bool, string: str, stop_state: bool, porter_state: bool)
             string_list[i] = porter.stem(string_list[i])
 
     if flag:
-        return sorted(set(string_list))
+        return sorted(set(string_list))  # vocabulary only
     return string_list
 
 

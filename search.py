@@ -15,6 +15,43 @@ class InvalidStopPorterOptions(Exception):
     pass
 
 
+def do_tests(collection_of_queries: dict, cachefile: str) -> list:
+    global stop
+    global stem
+    if cachefile == 'cache-1-1.txt':
+        stop = True
+        stem = True
+    elif cachefile == 'cache-0-0.txt':
+        stop = False
+        stem = False
+    elif cachefile == 'cache-0-1.txt':
+        stop = False
+        stem = True
+    elif cachefile == 'cache-1-0.txt':
+        stop = True
+        stem = False
+    else:
+        print("error")
+
+    read_file(cachefile)
+
+    # vector_space_pipeline(['intermediate', 'languages', 'used',
+    #                       'in', 'construction', 'of', 'compilers', 'tcoll'])
+
+    result = []
+    for doc in collection_of_queries.items():
+        query = diegotom.stop_and_port(False, ' '.join(doc[1]), stop, stem)
+        collection_of_relevant_docs = vector_space_pipeline(query)
+        list_of_ids = [e[0] for e in collection_of_relevant_docs]
+        result.append(list_of_ids)
+
+    for li in result:
+        print(f'{li}')
+    # for elem in collection_of_queries:
+    #     # [(ID, SIM_SCORE)]
+    #     print(elem[0])
+
+
 def welcome_msg():
     print('\ntest.py initiated.\n')
     print('==================================')
@@ -108,8 +145,8 @@ def vector_space_pipeline(string_list: list) -> float:
             relevant_doc_ids += vocab_dict[set_terms[i]]
     q_weight = math.sqrt(q_weight)
 
-    print(
-        f'\n>>> relevant_doc_ids (NOT ORDERED YET BY COSINE SIM)<<<\n\t {set(relevant_doc_ids)}')
+    # print(
+    #     f'\n>>> relevant_doc_ids (NOT ORDERED YET BY COSINE SIM)<<<\n\t {set(relevant_doc_ids)}')
     result_docs = {}
     d_weight = 0
 
@@ -118,11 +155,10 @@ def vector_space_pipeline(string_list: list) -> float:
         for i in range(len(set_terms)):
             if set_terms[i] in document_dict[docID]:
                 d_tf = 1+math.log(document_dict[docID].count(set_terms[i]))
-                print(f"DF: {len(vocab_dict[set_terms[i]])}")
                 d_weight = d_tf*math.log(N/len(vocab_dict[set_terms[i]]))
                 d_vector[i] = d_weight
         result_docs[docID] = d_vector
-    print(f'\n>>> resulting document collection <<<\n\t {result_docs}')
+    # print(f'\n>>> resulting document collection <<<\n\t {result_docs}')
 
     cosine_sim = {}
 
@@ -133,42 +169,42 @@ def vector_space_pipeline(string_list: list) -> float:
     K = 10
     final_results = sorted(
         cosine_sim.items(), key=lambda x: x[1], reverse=True)[:K]
-    print(
-        f'\n>>> cosine sim list <<<\n\t {final_results}')
+    # print(
+    #     f'\n>>> cosine sim list <<<\n\t {final_results}')
 
-    print(f'\n\nset_terms: {set_terms}')
-    print(f'query vector: {q_vector}')
-    print(f'query weight: {q_weight}')
+    # print(f'\n\nset_terms: {set_terms}')
+    # print(f'query vector: {q_vector}')
+    # print(f'query weight: {q_weight}')
 
     return final_results
 
 
-# Greet and process user filter request
-welcome_msg()
-print('\nREADY!')
+# # Greet and process user filter request
+# welcome_msg()
+# print('\nREADY!')
 
-# Process user query and use search.py
-print('\nEnter your query below; to exit, type \'ZZEND\' and hit enter.')
+# # Process user query and use search.py
+# print('\nEnter your query below; to exit, type \'ZZEND\' and hit enter.')
 
-avg_time = 0
-count = 0
-while True:
-    user = input('> ')
-    if user == 'ZZEND':
-        break
-    start = time.time()
-    # --- Enter task below ---
-    ranked_list = vector_space_pipeline(pre_process(user))
-    print(f'ORIGINAL QUERY: "{user}"')
-    # ------------------------
-    end = time.time()
+# avg_time = 0
+# count = 0
+# while True:
+#     user = input('> ')
+#     if user == 'ZZEND':
+#         break
+#     start = time.time()
+#     # --- Enter task below ---
+#     ranked_list = vector_space_pipeline(pre_process(user))
+#     print(f'ORIGINAL QUERY: "{user}"')
+#     # ------------------------
+#     end = time.time()
 
-    elapsed = end-start
-    avg_time += elapsed
-    count += 1
-    print(f"\nElasped Time to Retrieve: {elapsed}")
-print("\ntest.py has been terminated by 'ZZEND'")
-if count == 0:
-    print(f"Averaged time of retrieval: 0.0")
-else:
-    print(f"Averaged time of retrieval: {avg_time/count}")
+#     elapsed = end-start
+#     avg_time += elapsed
+#     count += 1
+#     print(f"\nElasped Time to Retrieve: {elapsed}")
+# print("\ntest.py has been terminated by 'ZZEND'")
+# if count == 0:
+#     print(f"Averaged time of retrieval: 0.0")
+# else:
+#     print(f"Averaged time of retrieval: {avg_time/count}")

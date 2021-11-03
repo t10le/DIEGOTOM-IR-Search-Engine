@@ -1,4 +1,6 @@
 from nltk.tokenize import word_tokenize
+import search as dt
+import helper_func as diegotom
 
 with open('query.text', 'r') as f:
     text = f.read()
@@ -54,15 +56,25 @@ def get_query(document):
             query_dict[id] = query
 
     for key, value in query_dict.items():
-        value = [word for word in word_tokenize(value) if word.isalpha()]
+        value = [word for word in word_tokenize(value)]  # if word.isalpha()
         query_dict[key] = value
 
     return query_dict
 
 
+# -- test --
 t = get_query(text)
-# print(t.get('2'))
+# print('ORIGINAL:')
+# print(t.get('3'))
+
+# print('\nAFTER')
+# query = ' '.join(t.get('3'))
+# print(query)
+
+# print('\nQUERY RESULT')
+# final_query = diegotom.stop_and_port(False, query, True, True)
+# print(final_query)
+# print(t.get('3'))
 
 
-for key in t.items():
-    print(key[1])
+dt.do_tests(get_query(text), 'cache-0-0.txt')
