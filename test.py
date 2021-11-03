@@ -1,6 +1,8 @@
 import ast
 import time
 import math
+import numpy as np
+import collections
 import helper_func as diegotom
 from typing import *
 
@@ -93,31 +95,44 @@ def get_query_vector(string_list: list) -> float:
     set_terms = sorted(set(string_list))
     q_vector = [0] * len(set_terms)
     relevant_doc_ids = []  # The list of ALL relevant document ids relatve to query
-    q = 0
+    q_weight = 0
 
     print(f'{document_dict}\n')
-    print(f'set_terms: {set_terms}')
+    print(f'\n\nset_terms: {set_terms}')
     for i in range(len(set_terms)):
         if set_terms[i] in vocab_dict:
             q_tf = 1+math.log(string_list.count(set_terms[i]))
-            q += (q_tf)**2
+            q_weight += (q_tf)**2
+            # Note: This is technically the q_weight, since we do W = TF, not W = TF * IDF
             q_vector[i] = q_tf
 
             # Store the document ID
             relevant_doc_ids += vocab_dict[set_terms[i]]
 
-    print(f'relevant_doc_ids: {set(relevant_doc_ids)}')
+    print(f'\nrelevant_doc_ids: {set(relevant_doc_ids)}')
     result_docs = {}
+    d_weight = 0
+    N = len(document_dict)
     for docID in set(relevant_doc_ids):
         d_vector = [0] * len(set_terms)
         for i in range(len(set_terms)):
             if set_terms[i] in document_dict[docID]:
                 d_tf = 1+math.log(document_dict[docID].count(set_terms[i]))
-                d_vector[i] = d_tf
+                d_weight = d_tf*math.log(N/len(vocab_dict[set_terms[i]]))
+                d_vector[i] = d_weight
         result_docs[docID] = d_vector
+    print(f'\nresulting document collection: {result_docs}')
 
-    print(f'resulting document collection: {result_docs}')
-    return math.sqrt(q)
+    cosine_sim = {}
+
+    for document in result_docs.items():
+        print(f'testing: {document[1]} and {q_vector}')
+        cosine_sim[document[0]] = np.dot(document[1], q_vector) / (
+            (math.sqrt(sum(i * i for i in document[1]))) * (math.sqrt(q_weight)))
+
+    print(
+        f'\ncosine list: {sorted(cosine_sim.items(), key=lambda x: x[1], reverse=True)}')
+    return math.sqrt(q_weight)
 
 
 # Greet and process user filter request

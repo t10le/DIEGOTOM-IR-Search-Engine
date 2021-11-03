@@ -26,7 +26,7 @@ generate_ALL = False
 # ---------------------------------------------
 
 
-with open("cacm.all_one", "r") as f:
+with open("cacm.all_test", "r") as f:
     text = f.read()
     text_split = text.split(".I ")
 
