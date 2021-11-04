@@ -2,7 +2,6 @@ from typing_extensions import final
 from typing import *
 from nltk.tokenize import word_tokenize
 import search as dt
-import helper_func as diegotom
 
 with open('qrels.text', 'r') as file:
     # qrels.text file is transformed into a collection of lists

@@ -5,7 +5,7 @@ from typing import *
 
 
 def set_flags(stop: bool, stem: bool):
-    """Sets the stopflag and stemflag.
+    """Sets the global stopflag and stemflag.
     """
     global stopflag
     global stemflag
@@ -40,7 +40,7 @@ def get_title(string: str) -> str:
         solution of\nan equation.\n.B\nCACM June, 1958"
     :rtype: str
         Example output:
-        "Accelerating Converge of Iterative Processes
+        "Accelerating Converge of Iterative Processes"
     """
     START = string.find(".T")+2
     END = string.find("\n.", START+1)
@@ -170,8 +170,10 @@ def build_vocab(dictionary: dict) -> dict:
 
 
 def authors_collection(document: list) -> dict:
+    """Returns the dictionary containing the format:
+    {Key: docID, Value: ['only','the','authors','per','docID']}
+    """
     doc_authors = {}
-
     for i in range(1, len(document)):
         # Document essential
         id = get_ID(document[i])
@@ -187,8 +189,10 @@ def authors_collection(document: list) -> dict:
 
 
 def titles_collection(document: list) -> dict:
+    """Returns the dictionary containing the format:
+    {Key: docID, Value: ['only','the','title','per','docID']}
+    """
     doc_titles = {}
-
     for i in range(1,  len(document)):
         # Document essentials
         id = get_ID(document[i])
@@ -200,6 +204,9 @@ def titles_collection(document: list) -> dict:
 
 
 def pre_processing(document: list) -> dict:
+    """Returns a dictionary containing the format:
+    {Key: docID, Value: ['the','title','and','abstract']}
+    """
     doc_corpus = {}
 
     for i in range(1, len(document)):

@@ -30,12 +30,10 @@ with open("cacm.all", "r") as f:
     text = f.read()
     text_split = text.split(".I ")
 
-# with open("metadata.txt", "w") as f:
-#     authors_dict = diegotom.authors_collection(text_split)
-#     titles_dict = diegotom.titles_collection(text_split)
-#     # for author in authors_dict.items():
-#     #     print(author)
-#     f.write(str(authors_dict) + '/diegotom/' + str(titles_dict))
+with open("metadata.txt", "w") as f:
+    authors_dict = diegotom.authors_collection(text_split)
+    titles_dict = diegotom.titles_collection(text_split)
+    f.write(str(authors_dict) + '/diegotom/' + str(titles_dict))
 
 if generate_ALL:
     cache_versions = [(False, False),

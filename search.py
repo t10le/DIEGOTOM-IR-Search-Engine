@@ -88,7 +88,7 @@ def read_file(cache: str):
     vocab_dict = ast.literal_eval(vocab_dict)
 
 
-def stop_porter_options(string):
+def stop_porter_options(string: str):
     global stop
     global stem
     try:
@@ -124,7 +124,7 @@ def pre_process(string: str) -> list:
 
 
 def vector_space_pipeline(string_list: list) -> list:
-    """ Returns the weight of the query vector.
+    """ Returns the list of relevant documents based on cosine similarity scoring.
     Assumes that W=TF*IDF.
 
     :return: the relevance list of documents while establishing global variables
@@ -143,13 +143,13 @@ def vector_space_pipeline(string_list: list) -> list:
     for i in range(len(set_terms)):
         if set_terms[i] in vocab_dict:
             q_tf = 1+math.log(string_list.count(set_terms[i]))
-            q_weight += (q_tf*math.log(N/(len(vocab_dict[set_terms[i]]))))**2
-            q_vector[i] = q_tf
+            a = q_tf*math.log(N/(len(vocab_dict[set_terms[i]])))
+            q_weight += (a)**2
+            q_vector[i] = a
 
             # Store the document ID
             relevant_doc_ids += vocab_dict[set_terms[i]]
-    q_weight = math.sqrt(q_weight)
-
+    # print(f'q_weight: {math.sqrt(q_weight)}')
     # print(
     #     f'\n>>> relevant_doc_ids (NOT ORDERED YET BY COSINE SIM)<<<\n\t {set(relevant_doc_ids)}')
     result_docs = {}
@@ -169,7 +169,7 @@ def vector_space_pipeline(string_list: list) -> list:
 
     for document in result_docs.items():
         cosine_sim[document[0]] = np.dot(document[1], q_vector) / (
-            (math.sqrt(sum(i * i for i in document[1]))) * (math.sqrt(q_weight)))
+            (math.sqrt(sum(i * i for i in document[1]))) * math.sqrt(q_weight))
 
     K = 10
     final_results = sorted(
@@ -182,34 +182,3 @@ def vector_space_pipeline(string_list: list) -> list:
     # print(f'query weight: {q_weight}')
 
     return final_results
-
-
-# # Greet and process user filter request
-# welcome_msg()
-# print('\nREADY!')
-
-# # Process user query and use search.py
-# print('\nEnter your query below; to exit, type \'ZZEND\' and hit enter.')
-
-# avg_time = 0
-# count = 0
-# while True:
-#     user = input('> ')
-#     if user == 'ZZEND':
-#         break
-#     start = time.time()
-#     # --- Enter task below ---
-#     ranked_list = vector_space_pipeline(pre_process(user))
-#     print(f'ORIGINAL QUERY: "{user}"')
-#     # ------------------------
-#     end = time.time()
-
-#     elapsed = end-start
-#     avg_time += elapsed
-#     count += 1
-#     print(f"\nElasped Time to Retrieve: {elapsed}")
-# print("\ntest.py has been terminated by 'ZZEND'")
-# if count == 0:
-#     print(f"Averaged time of retrieval: 0.0")
-# else:
-#     print(f"Averaged time of retrieval: {avg_time/count}")
