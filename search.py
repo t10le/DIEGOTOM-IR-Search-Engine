@@ -34,9 +34,6 @@ def do_tests(collection_of_queries: dict, cachefile: str) -> list:
 
     read_file(cachefile)
 
-    # vector_space_pipeline(['intermediate', 'languages', 'used',
-    #                       'in', 'construction', 'of', 'compilers', 'tcoll'])
-
     result = []
     for doc in collection_of_queries.items():
         query = diegotom.stop_and_port(False, ' '.join(doc[1]), stop, stem)
@@ -44,11 +41,7 @@ def do_tests(collection_of_queries: dict, cachefile: str) -> list:
         list_of_ids = [e[0] for e in collection_of_relevant_docs]
         result.append(list_of_ids)
 
-    for li in result:
-        print(f'{li}')
-    # for elem in collection_of_queries:
-    #     # [(ID, SIM_SCORE)]
-    #     print(elem[0])
+    return result
 
 
 def welcome_msg():

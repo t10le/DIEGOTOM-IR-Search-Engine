@@ -4,11 +4,6 @@ from nltk.tokenize import word_tokenize
 from typing import *
 
 
-def show_list(arr):
-    for doc in range(len(arr)):
-        print(f"index: {doc}\n\"{arr[doc]}\"\n")
-
-
 def set_flags(stop: bool, stem: bool):
     """Sets the stopflag and stemflag.
     """

@@ -21,7 +21,6 @@ while True:
     start = time.time()
     # --- Enter task below ---
     ranked_list = dt.vector_space_pipeline(dt.pre_process(user))
-
     # print(ranked_list)
     for i in range(len(ranked_list)):
         score = ranked_list[i][1]
