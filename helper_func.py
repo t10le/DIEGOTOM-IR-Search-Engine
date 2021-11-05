@@ -138,6 +138,9 @@ def stop_and_port(flag: bool, string: str, stop_state: bool, porter_state: bool)
     # Tokenize the string (converts string into list).
     string_list = word_tokenize(string)
 
+    # Remove all the useless non characters:
+    string_list = [x for x in string_list if x.isalnum()]
+
     # Stopword removal and Porter stemming requires a list.
     # Apply stopword removal (if applicable)
     if stop_state:
