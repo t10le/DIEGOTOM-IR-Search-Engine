@@ -52,4 +52,5 @@ R-precision.py  | Returns the R-precision of each cache-x-x.txt file.           
 - Word tokenization and removal of non-alphanumeric characters is applied to both the query and document corpus by default.
 - Stopword removal and Porter stemming applied to both the query and document corpus is optionally applied, as instructed by terminal welcome prompt.
 - Query will return top-K results, where K=10.
+- Search algorithm evaluates document relevancy based on the document title and abstract.
 - Average retrieval time is 0.01 seconds.
