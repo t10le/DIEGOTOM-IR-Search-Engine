@@ -5,12 +5,12 @@ DIEGOTOM™ is a search engine that uses vector-space model to retrieve the top-
 1. Navigate to a directory on your computer you wish to install the above files.
 <br>Note: Command-line examples below assumes Mac OSX.
 ```bash
-cd ~/Desktop; mkdir DIEGOTOM_SEARCH_ENGINE; cd DIEGOTOM_SEARCH_ENGINE
+cd ~/Desktop
 ```
 
 2. Clone our repo to your directory.
 ```bash
-git init; git clone https://github.com/t10le/DIEGOTOM-IR-Search-Engine.git
+git clone https://github.com/t10le/DIEGOTOM-IR-Search-Engine.git; cd DIEGOTOM-IR-Search-Engine
 ```
 
 3. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install our third-party libraries mandatory for our search engine.
