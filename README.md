@@ -3,7 +3,7 @@ DIEGOTOM™ is a search engine that uses vector-space model to retrieve the top-
 
 ## Installation
 1. Navigate to a directory on your computer you wish to install the above files.
-Note: Command-line examples below assumes Mac OSX.
+<br>Note: Command-line examples below assumes Mac OSX.
 ```bash
 cd ~/Desktop; mkdir DIEGOTOM_SEARCH_ENGINE; cd DIEGOTOM_SEARCH_ENGINE
 ```
