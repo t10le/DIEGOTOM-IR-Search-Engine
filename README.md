@@ -1,5 +1,5 @@
 # DIEGOTOM Information Retrieval Search Engine
-DIEGOTOM™ is a search engine that uses vector-space model to retrieve the top-K documents relative to the user's free-text query by using cosine similarity caclulations. The databse used for retrieval is the official CACM collection, `cacm.all`, which contains 3204 documents and 10446 terms.
+DIEGOTOM™ is a search engine that uses vector-space model to retrieve the top-K documents relative to the user's free-text query by using cosine similarity caclulations. The database used for retrieval is the official CACM collection, `cacm.all`, which contains 3204 documents and 10446 terms.
 <br>
 <br>
 ![](https://github.com/t10le/DIEGOTOM-IR-Search-Engine/blob/main/demo_1.gif)
