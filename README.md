@@ -7,21 +7,30 @@ DIEGOTOM™ is a search engine that uses vector-space model to retrieve the top-
 ```bash
 cd ~/Desktop
 ```
+<br>
 
 2. Clone our repo to your directory.
 ```bash
 git clone https://github.com/t10le/DIEGOTOM-IR-Search-Engine.git; cd DIEGOTOM-IR-Search-Engine
 ```
+<br>
 
 3. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install our third-party libraries mandatory for our search engine.
 ```bash
 pip install -r requirements.txt
 ```
+If <strong>ModuleNotFound: Error: No module named</strong> `x` occurs, do the following for the `x` module. 
+<br>For nltk example,
+```bash
+python3 -m pip install nltk
+```
+<br>
 
 4. Run the following command to execute our program, then follow the prompted terminal instructions.
 ```bash
 python interface.py
 ```
+<br>
 
 5. Enjoy our search engine! :)
 
