@@ -20,7 +20,9 @@ while True:
         break
     start = time.time()
     # --- Enter task below ---
-    ranked_list = dt.vector_space_pipeline(dt.pre_process(user))
+    query_decon = dt.pre_process(user)
+    ranked_list = dt.vector_space_pipeline(query_decon)
+    print(f'{query_decon}\n')
     # print(ranked_list)
     for i in range(len(ranked_list)):
         score = ranked_list[i][1]

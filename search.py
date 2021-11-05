@@ -133,29 +133,30 @@ def vector_space_pipeline(string_list: list) -> list:
     global q_vector
     global relevant_doc_ids
 
-    set_terms = sorted(set(string_list))
+    set_terms = sorted([term for term in set(
+        string_list) if term in vocab_dict])
     q_vector = [0] * len(set_terms)
     relevant_doc_ids = []  # The list of ALL relevant document ids relatve to query
     q_weight = 0
     N = len(document_dict)
 
     # print(f'{document_dict}\n')
-    for i in range(len(set_terms)):
-        if set_terms[i] in vocab_dict:
-            q_tf = 1+math.log(string_list.count(set_terms[i]))
-            a = q_tf*math.log(N/(len(vocab_dict[set_terms[i]])))
-            q_weight += (a)**2
-            q_vector[i] = a
 
-            # Store the document ID
-            relevant_doc_ids += vocab_dict[set_terms[i]]
+    for i in range(len(set_terms)):
+        q_tf = 1+math.log(string_list.count(set_terms[i]))
+        a = q_tf*math.log(N/(len(vocab_dict[set_terms[i]])))
+        q_weight += (a)**2
+        q_vector[i] = a
+
+        # Store the document ID
+        relevant_doc_ids += vocab_dict[set_terms[i]]
     # print(f'q_weight: {math.sqrt(q_weight)}')
     # print(
     #     f'\n>>> relevant_doc_ids (NOT ORDERED YET BY COSINE SIM)<<<\n\t {set(relevant_doc_ids)}')
     result_docs = {}
-    d_weight = 0
 
     for docID in set(relevant_doc_ids):
+        d_weight = 0
         d_vector = [0] * len(set_terms)
         for i in range(len(set_terms)):
             if set_terms[i] in document_dict[docID]:
@@ -182,3 +183,56 @@ def vector_space_pipeline(string_list: list) -> list:
     # print(f'query weight: {q_weight}')
 
     return final_results
+
+    # --- OLD QUERY VECTOR ---
+    q_weight_normalized = 0
+    only_terms = [key[0] for key in vocab_dict.items()]
+    qq_vector = [0] * len(only_terms)
+    set_terms_indices = [only_terms.index(
+        term) for term in set_terms]
+    for i in range(len(set_terms)):
+        q_tf = 1+math.log(string_list.count(set_terms[i]))
+        q_idf = math.log(N/(len(vocab_dict[set_terms[i]])))
+        q_weight = q_tf*q_idf
+        qq_vector[set_terms_indices[i]] = q_weight
+        q_weight_normalized += q_weight
+
+        # Store the list of document IDs to the list of relevant doc IDs.
+        relevant_doc_ids += vocab_dict[set_terms[i]]
+    q_weight_normalized = math.sqrt(q_weight_normalized)
+    # print(qq_vector)
+    # print(q_weight_normalized)
+    # print(f'\n\nRELEVANT DOC IDS:\n{relevant_doc_ids}')
+    # -------------------------
+
+    # --- OLD DOC VECTORS ---
+    result_docs = {}
+    for docID in set(relevant_doc_ids):
+        d_weight = 0
+        dd_vector = [0] * len(vocab_dict)
+        for i in range(len(set_terms)):
+            # print(f'i: {i}\tset_terms[i]: {set_terms[i]}')
+            if set_terms[i] in document_dict[docID]:
+                d_tf = 1+math.log(document_dict[docID].count(set_terms[i]))
+                d_idf = math.log(N/(len(vocab_dict[set_terms[i]])))
+                d_weight = d_tf*d_idf
+                dd_vector[int(docID)] = d_weight
+        result_docs[docID] = dd_vector
+    # -----------------------
+
+    # for key in result_docs.items():
+    #     print(f'key: {key[0]} val: {key[1]}\n')
+
+    # --- NEW COSINE SIM ---
+    cosine_sim = {}
+    for document in result_docs.items():
+        cosine_sim[document[0]] = np.dot(document[1], qq_vector) / (
+            (math.sqrt(sum(i * i for i in document[1]))) * q_weight_normalized)
+
+    K = 10
+    final_results = sorted(
+        cosine_sim.items(), key=lambda x: x[1], reverse=True)[:K]
+
+    return final_results
+
+    # ----------------------
