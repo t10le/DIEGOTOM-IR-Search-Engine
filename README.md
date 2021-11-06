@@ -5,7 +5,7 @@ DIEGOTOM™ is a search engine that uses vector-space model to retrieve the top-
 ![](https://github.com/t10le/DIEGOTOM-IR-Search-Engine/blob/main/demo_1.gif)
 ## Installation
 1. Navigate to a directory on your computer you wish to install the above files.
-<br>Note: Command-line examples below assumes Mac OSX.
+<br>Note: Command-line examples below assumes Mac OSX in Bash.
 ```bash
 cd ~/Desktop
 ```
